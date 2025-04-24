@@ -7,6 +7,7 @@ import { QuestionsModule } from './questions/questions.module';
 import { QuestionTypesModule } from './question-type/question-types.module';
 import { QuestionCategoriesModule } from './question-categories/question-categories.module';
 import { UserAnswersModule } from './user-answers/user-answers.module';
+import { UsersModule } from './users/users.module';
 
 @Module({
   imports: [
@@ -14,7 +15,8 @@ import { UserAnswersModule } from './user-answers/user-answers.module';
     QuestionsModule,
     QuestionTypesModule,
     QuestionCategoriesModule,
-    UserAnswersModule
+    UserAnswersModule,
+    UsersModule
   ],
   controllers: [AppController],
   providers: [AppService, TestWsGateway],
