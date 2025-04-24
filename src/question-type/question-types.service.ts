@@ -1,9 +1,9 @@
 import { Injectable } from '@nestjs/common';
-import { CreateQuestionTypeDto } from './dto/create-question-type.dto';
-import { UpdateQuestionTypeDto } from './dto/update-question-type.dto';
+import { CreateQuestionTypeDto } from './dto/create-question-types.dto';
+import { UpdateQuestionTypeDto } from './dto/update-question-types.dto';
 
 @Injectable()
-export class QuestionTypeService {
+export class QuestionTypesService {
   create(createQuestionTypeDto: CreateQuestionTypeDto) {
     return 'This action adds a new questionType';
   }

@@ -1,11 +1,11 @@
 import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
-import { QuestionTypeService } from './question-type.service';
-import { CreateQuestionTypeDto } from './dto/create-question-type.dto';
-import { UpdateQuestionTypeDto } from './dto/update-question-type.dto';
+import { QuestionTypesService } from './question-types.service';
+import { CreateQuestionTypeDto } from './dto/create-question-types.dto';
+import { UpdateQuestionTypeDto } from './dto/update-question-types.dto';
 
 @Controller('question-type')
-export class QuestionTypeController {
-  constructor(private readonly questionTypeService: QuestionTypeService) {}
+export class QuestionTypesController {
+  constructor(private readonly questionTypeService: QuestionTypesService) {}
 
   @Post()
   create(@Body() createQuestionTypeDto: CreateQuestionTypeDto) {
