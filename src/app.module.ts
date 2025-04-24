@@ -3,10 +3,14 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { TestWsGateway } from './test-ws/test-ws.gateway';
 import { MongooseModule } from '@nestjs/mongoose';
+import { QuestionsModule } from './questions/questions.module';
+import { QuestionTypeModule } from './question-type/question-type.module';
 
 @Module({
   imports: [
-    MongooseModule.forRoot('mongodb://localhost:27017/acs-quizz')
+    MongooseModule.forRoot('mongodb://localhost:27017/acs-quizz'),
+    QuestionsModule,
+    QuestionTypeModule
   ],
   controllers: [AppController],
   providers: [AppService, TestWsGateway],
