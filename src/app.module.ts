@@ -6,13 +6,15 @@ import { MongooseModule } from '@nestjs/mongoose';
 import { QuestionsModule } from './questions/questions.module';
 import { QuestionTypesModule } from './question-type/question-types.module';
 import { QuestionCategoriesModule } from './question-categories/question-categories.module';
+import { UserAnswersModule } from './user-answers/user-answers.module';
 
 @Module({
   imports: [
     MongooseModule.forRoot('mongodb://localhost:27017/acs-quizz'),
     QuestionsModule,
     QuestionTypesModule,
-    QuestionCategoriesModule
+    QuestionCategoriesModule,
+    UserAnswersModule
   ],
   controllers: [AppController],
   providers: [AppService, TestWsGateway],

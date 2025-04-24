@@ -1,7 +1,7 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import * as mongoose from 'mongoose';
 import { QuestionCategory } from 'src/question-categories/entities/question-category.entity';
-import { QuestionType } from 'src/question-type/entities/question-types.entity';
+import { QuestionType } from 'src/question-type/entities/question-type.entity';
 @Schema()
 export class Question {
   @Prop()
