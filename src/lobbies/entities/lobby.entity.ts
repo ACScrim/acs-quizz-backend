@@ -16,7 +16,7 @@ export class Lobby {
     @Prop({ required: true, type: mongoose.Schema.Types.ObjectId, ref: "User" })
     owner: User;
 
-    @Prop({ type: [mongoose.Schema.Types.ObjectId], ref: "User" })
+    @Prop({ type: [{ type: mongoose.Schema.Types.ObjectId, ref: "User" }] })
     players: User[];
 }
 

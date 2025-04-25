@@ -1,0 +1,13 @@
+POST http://localhost:3000/lobbies HTTP/1.1
+content-type: application/json
+
+{
+    "owner": "680b6b1368c274100550b3e8",
+    "code": "1234",
+    "isPublic": "true",
+    "name": "Test Lobby",
+    "players": [
+        "680b6b1368c274100550b3e8"
+    ]
+
+}

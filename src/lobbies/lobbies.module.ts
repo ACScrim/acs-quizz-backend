@@ -3,6 +3,7 @@ import { LobbiesService } from './lobbies.service';
 import { LobbiesController } from './lobbies.controller';
 import { MongooseModule } from '@nestjs/mongoose';
 import { Lobby, LobbySchema } from './entities/lobby.entity';
+import { UsersModule } from 'src/users/users.module';
 
 @Module({
   imports: [
@@ -10,7 +11,8 @@ import { Lobby, LobbySchema } from './entities/lobby.entity';
       {
         name: Lobby.name, schema: LobbySchema
       }
-    ])
+    ]),
+    UsersModule
   ],
   controllers: [LobbiesController],
   providers: [LobbiesService],

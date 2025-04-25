@@ -12,5 +12,6 @@ import { User, UserSchema } from './entities/user.entity';
   ],
   controllers: [UsersController],
   providers: [UsersService],
+  exports: [MongooseModule]
 })
 export class UsersModule {}
