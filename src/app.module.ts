@@ -8,6 +8,7 @@ import { QuestionTypesModule } from './question-type/question-types.module';
 import { QuestionCategoriesModule } from './question-categories/question-categories.module';
 import { UserAnswersModule } from './user-answers/user-answers.module';
 import { UsersModule } from './users/users.module';
+import { LobbiesModule } from './lobbies/lobbies.module';
 
 @Module({
   imports: [
@@ -16,7 +17,8 @@ import { UsersModule } from './users/users.module';
     QuestionTypesModule,
     QuestionCategoriesModule,
     UserAnswersModule,
-    UsersModule
+    UsersModule,
+    LobbiesModule
   ],
   controllers: [AppController],
   providers: [AppService, TestWsGateway],
