@@ -5,7 +5,7 @@ import { MongooseModule } from '@nestjs/mongoose';
 import {
   QuestionType,
   QuestionTypeSchema,
-} from './entities/question-types.entity';
+} from './entities/question-type.entity';
 
 @Module({
   imports: [

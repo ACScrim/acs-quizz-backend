@@ -1,6 +1,7 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import * as mongoose from 'mongoose';
-import { QuestionType } from 'src/question-type/entities/question-types.entity';
+import { QuestionCategory } from 'src/question-categories/entities/question-category.entity';
+import { QuestionType } from 'src/question-type/entities/question-type.entity';
 @Schema()
 export class Question {
   @Prop()
@@ -13,13 +14,13 @@ export class Question {
   options: string[];
 
   @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'QuestionType' })
-  questionType: QuestionType;
+  type: QuestionType;
+
+  @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'QuestionCategory' })
+  category: QuestionCategory;
 
   @Prop()
-  questionCategory: string;
-
-  @Prop()
-  questionDifficulty: string;
+  difficulty: string;
 }
 
 export const QuestionSchema = SchemaFactory.createForClass(Question);
