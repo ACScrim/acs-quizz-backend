@@ -15,5 +15,6 @@ import {
   ],
   controllers: [QuestionTypesController],
   providers: [QuestionTypesService],
+  exports: [MongooseModule]
 })
 export class QuestionTypesModule {}

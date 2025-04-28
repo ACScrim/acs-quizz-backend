@@ -12,5 +12,6 @@ import { QuestionCategory, QuestionCategorySchema } from './entities/question-ca
   ],
   controllers: [QuestionCategoriesController],
   providers: [QuestionCategoriesService],
+  exports: [MongooseModule]
 })
 export class QuestionCategoriesModule {}
