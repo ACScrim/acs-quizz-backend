@@ -8,25 +8,25 @@ import { InjectModel } from '@nestjs/mongoose';
 import { QuestionCategory } from 'src/question-categories/entities/question-category.entity';
 import { QuestionType } from 'src/question-type/entities/question-type.entity';
 
-
 function getByPath(obj: any, path: string): any {
   return path.split('.').reduce((acc, key) => acc && acc[key], obj);
 }
 
 @Injectable()
 export class QuestionsService {
-
   constructor(
     @InjectModel(Question.name) private readonly questionModel: Model<Question>,
-    @InjectModel(QuestionCategory.name) private readonly questionCategoryModel: Model<QuestionCategory>,
-    @InjectModel(QuestionType.name) private readonly questionTypeModel: Model<QuestionType>
+    @InjectModel(QuestionCategory.name)
+    private readonly questionCategoryModel: Model<QuestionCategory>,
+    @InjectModel(QuestionType.name)
+    private readonly questionTypeModel: Model<QuestionType>,
   ) {}
 
   async importQuestions(
     files: Express.Multer.File[],
     fieldsMapping: Record<string, string>,
     jsonPathsStr?: string,
-    globalsMapping: Record<string, string> = {}
+    globalsMapping: Record<string, string> = {},
   ) {
     let questions: Question[] = [];
     for (const file of files) {
@@ -37,7 +37,7 @@ export class QuestionsService {
         ) {
           const raw = fs.readFileSync(file.path, 'utf8');
           const data = JSON.parse(raw);
-  
+
           if (jsonPathsStr) {
             const jsonPaths: string[] = JSON.parse(jsonPathsStr);
             for (const path of jsonPaths) {
@@ -45,13 +45,17 @@ export class QuestionsService {
               if (Array.isArray(arr)) {
                 // Récupère dynamiquement les valeurs globales
                 const globals: any = {};
-                for (const [globalField, globalPath] of Object.entries(globalsMapping)) {
+                for (const [globalField, globalPath] of Object.entries(
+                  globalsMapping,
+                )) {
                   globals[globalField] = getByPath(data, globalPath as string);
                 }
-  
+
                 arr.forEach((q) => {
                   const questionObj: any = {};
-                  for (const [field, fieldPath] of Object.entries(fieldsMapping)) {
+                  for (const [field, fieldPath] of Object.entries(
+                    fieldsMapping,
+                  )) {
                     questionObj[field] = getByPath(q, fieldPath as string);
                   }
                   // Ajoute dynamiquement les valeurs globales
@@ -61,9 +65,28 @@ export class QuestionsService {
                 });
               }
             }
+          } else if (Array.isArray(data)) {
+            // Cas où le fichier est un tableau de questions à la racine
+            // Récupère dynamiquement les valeurs globales
+            const globals: any = {};
+            for (const [globalField, globalPath] of Object.entries(
+              globalsMapping,
+            )) {
+              globals[globalField] = getByPath(data, globalPath as string);
+            }
+
+            data.forEach((q) => {
+              const questionObj: any = {};
+              for (const [field, fieldPath] of Object.entries(fieldsMapping)) {
+                questionObj[field] = getByPath(q, fieldPath as string);
+              }
+              Object.assign(questionObj, globals);
+              questionObj.type = 'qcm';
+              questions.push(questionObj);
+            });
           } else {
             throw new BadRequestException(
-              'jsonPaths requis pour ce type de fichier',
+              'Aucun chemin jsonPaths fourni et le fichier ne contient pas un tableau de questions à la racine.',
             );
           }
         } else {
@@ -74,7 +97,9 @@ export class QuestionsService {
       }
     }
     if (questions.length === 0) {
-      throw new BadRequestException('Aucune question trouvée dans les fichiers');
+      throw new BadRequestException(
+        'Aucune question trouvée dans les fichiers',
+      );
     }
 
     for (const question of questions) {
@@ -114,14 +139,11 @@ export class QuestionsService {
       await newQuestion.save(); // Enregistrez la question dans la base de données
     }
 
-
-
     return {
       imported: questions.length,
-      questions
+      questions,
     };
   }
-  
 
   create(createQuestionDto: CreateQuestionDto) {
     return 'This action adds a new question';
