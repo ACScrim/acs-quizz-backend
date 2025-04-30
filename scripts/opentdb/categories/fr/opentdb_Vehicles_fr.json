@@ -1,0 +1,971 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Quelle est la voiture légale la plus rapide au monde?",
+    "correct_answer": "Koenigsegg Agera RS",
+    "incorrect_answers": [
+      "Hennessy Venom GT",
+      "Bugatti Veyron Super Sport",
+      "Pagani Huayra Colombie-Britannique",
+      "Koenigsegg Agera RS"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Enzo Ferrari était à l'origine un pilote automobile pour quel fabricant avant de fonder sa propre société automobile ?",
+    "correct_answer": "Alfa Romeo",
+    "incorrect_answers": [
+      "Union automobile",
+      "Mercedes Benz",
+      "Bentley",
+      "Alfa Romeo"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Bugatti était un constructeur automobile italien.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Arriva appartient à la Deutsche Bahn.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel de ces modèles automobiles est produit par Lamborghini?",
+    "correct_answer": "Aventador",
+    "incorrect_answers": [
+      "Huayra",
+      "918",
+      "Chiron",
+      "Aventador"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quel constructeur automobile a donné son brevet pour la ceinture de sécurité afin de sauver des vies?",
+    "correct_answer": "Volvo",
+    "incorrect_answers": [
+      "Ferrari",
+      "Ford",
+      "Renault",
+      "Volvo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "La British Rail Classe 700, la classe 707 et la classe 717 font partie de quelle famille de trains?",
+    "correct_answer": "Ville de Desiro",
+    "incorrect_answers": [
+      "Réseau",
+      "Aventra",
+      "Electrostar",
+      "Ville de Desiro"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Lequel de ces codes de châssis est utilisé par BMW Série 3 ?",
+    "correct_answer": "E46",
+    "incorrect_answers": [
+      "E39",
+      "E85",
+      "F10",
+      "E46"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Laquelle de ces entreprises ne fabrique PAS de motocyclettes?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Kawasaki",
+      "Yamaha",
+      "Toyota"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel des éléments suivants n'est PAS un constructeur automobile russe?",
+    "correct_answer": "BUDGET",
+    "incorrect_answers": [
+      "Silencieux",
+      "Dragon",
+      "GAZ",
+      "BUDGET"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quelle société japonaise est le plus grand fabricant de motos au monde?",
+    "correct_answer": "Honda",
+    "incorrect_answers": [
+      "Yamaha",
+      "Suzuki",
+      "Kawasaki",
+      "Honda"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quel surnom a été donné au vol 143 d'Air Canada après qu'il a manqué de carburant et est passé en sécurité en 1983?",
+    "correct_answer": "Gimli Glider",
+    "incorrect_answers": [
+      "Gimli Microlight",
+      "Gimli Chaser",
+      "Gimli Superbe",
+      "Gimli Glider"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "BMW M GmbH est une filiale de BMW AG qui se concentre sur la performance automobile.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Où sont fabriqués les voitures de la marque \"Ferrari\"?",
+    "correct_answer": "Italie",
+    "incorrect_answers": [
+      "Roumanie",
+      "Allemagne",
+      "Russie",
+      "Italie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Lequel des systèmes d'évitement de collision suivants permet aux avions d'éviter les collisions entre eux?",
+    "correct_answer": "TCAS",
+    "incorrect_answers": [
+      "GPWS",
+      "OCAS",
+      "TÂCHES",
+      "TCAS"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quel est le moteur du Lexus SC400?",
+    "correct_answer": "1UZ-FE",
+    "incorrect_answers": [
+      "2JZ-GTE",
+      "7M-GTE",
+      "5M-GE",
+      "1UZ-FE"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "La motoneige a été inventée par le Canadien Joseph-Armand Bombardier en 1937.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quand Cadillac a-t-il été fondé ?",
+    "correct_answer": "1902",
+    "incorrect_answers": [
+      "1964",
+      "1898",
+      "1985",
+      "1902"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Le moteur LS1 est combien de pouces cubes?",
+    "correct_answer": "346",
+    "incorrect_answers": [
+      "350",
+      "355",
+      "360",
+      "346"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel des véhicules suivants présentait un toit en verre au modèle de base?",
+    "correct_answer": "Renault Avantime",
+    "incorrect_answers": [
+      "Chevy Volt",
+      "Mercedes-Benz Classe A",
+      "Hydraulique Honda",
+      "Renault Avantime"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "En 2014, plus de 6 millions de véhicules General Motors ont été rappelés en raison de quel défaut critique?",
+    "correct_answer": "Interrupteur d'allumage défectueux",
+    "incorrect_answers": [
+      "Pédalier à gaz défectueux",
+      "Briser les lignes de carburant",
+      "Plaquettes de frein défaillantes",
+      "Interrupteur d'allumage défectueux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel n'est PAS la fonction de l'huile moteur dans les moteurs automobiles?",
+    "correct_answer": "Combustion",
+    "incorrect_answers": [
+      "Lubrification",
+      "Refroidissement",
+      "Réduire la corrosion",
+      "Combustion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quel fabricant a fait utiliser la voiture dans Back to the Future?",
+    "correct_answer": "DeLorean",
+    "incorrect_answers": [
+      "Ford",
+      "Toyota",
+      "Daihatsu",
+      "DeLorean"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Lequel de la FIA suivante Les voitures de rallye ont été approuvées pour être utilisées en première classe du groupe B?",
+    "correct_answer": "Porsche 911 Turbo",
+    "incorrect_answers": [
+      "Audi Quattro A2",
+      "BMW M1",
+      "Rallye de Lancia 037",
+      "Porsche 911 Turbo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Dans quel pays le Trabant 601 était-il fabriqué ?",
+    "correct_answer": "Allemagne de l'Est",
+    "incorrect_answers": [
+      "Union soviétique",
+      "Hongrie",
+      "France",
+      "Allemagne de l'Est"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Lequel d'entre eux n'est PAS un modèle automobile produit par le constructeur automobile malaisien Proton?",
+    "correct_answer": "Kelisa",
+    "incorrect_answers": [
+      "Saga",
+      "Perdana",
+      "Inspiration",
+      "Kelisa"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Quel fabricant de pneus de voiture est célèbre pour sa marque de pneus \"Eagle\" et est le fournisseur officiel de pneus de NASCAR?",
+    "correct_answer": "Bonne année",
+    "incorrect_answers": [
+      "Pirelli",
+      "Pierre de pont",
+      "Michelin",
+      "Bonne année"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quel était le nom de la première voiture à propulsion avant produite par Datsun (aujourd'hui Nissan)?",
+    "correct_answer": "Cerise",
+    "incorrect_answers": [
+      "Ensoleillé",
+      "Oiseau bleu",
+      "Ciel",
+      "Cerise"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel des jets passagers suivants est le plus long?",
+    "correct_answer": "Boeing 747-8",
+    "incorrect_answers": [
+      "Airbus A350-1000",
+      "Airbus A330-200",
+      "Boeing 787-10",
+      "Boeing 747-8"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quel constructeur automobile a créé le \"Aventador\"?",
+    "correct_answer": "Lamborghini",
+    "incorrect_answers": [
+      "Ferrari",
+      "Pagani",
+      "Bugatti",
+      "Lamborghini"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quelle est la puissance produite par la locomotive SD40-2 ?",
+    "correct_answer": "3 000",
+    "incorrect_answers": [
+      "3 200",
+      "2 578",
+      "2 190",
+      "3 000"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quelle partie d'un moteur automobile utilise des lobes pour ouvrir et fermer les soupapes d'admission et d'échappement, et permet un mélange air/carburant dans le moteur?",
+    "correct_answer": "Cambre",
+    "incorrect_answers": [
+      "Piston",
+      "Arbre d'entraînement",
+      "Arbre à cran",
+      "Cambre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "La différence entre les longueurs d'un Boeing 777-300ER et d'un Airbus A350-1000 est la plus proche de:",
+    "correct_answer": "0,1 m",
+    "incorrect_answers": [
+      "1m",
+      "10m",
+      "100m",
+      "0,1 m"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Quelle ville italienne abrite le constructeur automobile 'Fiat'?",
+    "correct_answer": "Turin",
+    "incorrect_answers": [
+      "Maranello",
+      "Modène",
+      "Rome",
+      "Turin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel des éléments suivants n'est pas fabriqué par Ford ?",
+    "correct_answer": "Camry",
+    "incorrect_answers": [
+      "Fusion",
+      "Modèle A",
+      "F-150",
+      "Camry"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quel genre de train était Stepney, un train sur le Bluebell Railway remarquable pour son apparition dans \"The Railway Series\"?",
+    "correct_answer": "LB&SCR A1X",
+    "incorrect_answers": [
+      "LB&SCR E2",
+      "LB&SCR J1",
+      "LB&SCR D1",
+      "LB&SCR A1X"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Les automobiles produites par Tesla Motors fonctionnent sur quelle forme d'énergie?",
+    "correct_answer": "Électricité",
+    "incorrect_answers": [
+      "Essence",
+      "Diesel",
+      "Nucléaire",
+      "Électricité"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quelle marque de voiture n'appartient PAS à General Motors ?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Buick",
+      "Cadillac",
+      "Chevrolet",
+      "Ford"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Le nom anglais complet du constructeur automobile BMW est Bavarian Motor Works",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Quelles sont les parties du cylindre qui pompent vers le haut et vers le bas dans le moteur?",
+    "correct_answer": "Pistons",
+    "incorrect_answers": [
+      "Ressorts de feuilles",
+      "Radiateurs",
+      "ABS",
+      "Pistons"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel des modèles de voitures suivants a été le plus perfectionné (rebaptisé) ?",
+    "correct_answer": "Isuzu Trooper",
+    "incorrect_answers": [
+      "Holden Monaro",
+      "Suzuki Swift",
+      "Chevy Camaro",
+      "Isuzu Trooper"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Ferrari n'a jamais fabriqué de moteur V10 pour aucune de ses voitures.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Il existe un modèle Rolls-Royce appelé 'Spectre'",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quelle variable La technologie Valve Timing est utilisée par BMW ?",
+    "correct_answer": "VANOS",
+    "incorrect_answers": [
+      "VVT-iw",
+      "VVEL",
+      "MultiAir",
+      "VANOS"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "En 1993, le constructeur automobile suédois Saab a expérimenté le remplacement du volant par un joystick dans un Saab 9000.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Que représentent les 4 anneaux dans Audi's Logo?",
+    "correct_answer": "Fabricants d'automobiles précédemment indépendants",
+    "incorrect_answers": [
+      "États dans lesquels Audi fait le plus de ventes",
+      "Principales villes vitales pour Audi",
+      "Pays dans lesquels Audi fait le plus de ventes",
+      "Fabricants d'automobiles précédemment indépendants"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lorsque BMW a été fondée en 1916, il produisait des automobiles.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Le moteur LS3 fait combien de pouces cubes ?",
+    "correct_answer": "376",
+    "incorrect_answers": [
+      "346",
+      "364",
+      "427",
+      "376"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Quel est le nom de Nissan' la voiture électrique la plus populaire?",
+    "correct_answer": "Feuille",
+    "incorrect_answers": [
+      "Arbre",
+      "Cerf",
+      "Racines",
+      "Feuille"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quand Tesla a-t-elle été fondée ?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2008",
+      "2005",
+      "2007",
+      "2003"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Les Japonais Shinkansen ont battu le TGV 's record de vitesse pour le train électrique le plus rapide.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quelle société de supercars vient de Suède ?",
+    "correct_answer": "M. Koenigsegg",
+    "incorrect_answers": [
+      "Bugatti",
+      "Lamborghini",
+      "C'est moi",
+      "M. Koenigsegg"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Lequel des fabricants d'automobiles suivants a eu une guerre qui porte son nom?",
+    "correct_answer": "Toyota",
+    "incorrect_answers": [
+      "Honda",
+      "Ford",
+      "Volkswagen",
+      "Toyota"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quelle voiture est le premier véhicule hybride de série?",
+    "correct_answer": "Toyota Prius",
+    "incorrect_answers": [
+      "Chevrolet Volt",
+      "Honda Fit",
+      "Peugeot 308 R HYbrid",
+      "Toyota Prius"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "La Chevrolet Corvette a toujours été fabriquée exclusivement avec des moteurs V8.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "La majorité des véhicules Subaru sont fabriqués en Chine.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Le General Motors EV1 a été le premier véhicule électrique de production légale.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Ce que le Royaume-Uni Le train ne dépasse pas 125MPH?",
+    "correct_answer": "Sprinter",
+    "incorrect_answers": [
+      "Classe 43",
+      "Javelin",
+      "Pendolino",
+      "Sprinter"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Jaguar Cars était auparavant propriétaire de quel constructeur automobile ?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Chrysler",
+      "Moteurs généraux",
+      "Fiat",
+      "Ford"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "La Honda Motor Corporation est originaire du Japon",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Mitsubishi Motors a un partenariat de 30 ans avec Jackie Chan, dont les films ont mis en vedette leurs véhicules.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quel modèle a été la voiture de sport offerte à Yuri Gagarin par le gouvernement français en 1965 ?",
+    "correct_answer": "Matra Djet",
+    "incorrect_answers": [
+      "Porsche 911",
+      "Alpin A110",
+      "Cobra AC",
+      "Matra Djet"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Le moteur LS2 fait combien de pouces cubes ?",
+    "correct_answer": "364",
+    "incorrect_answers": [
+      "346",
+      "376",
+      "402",
+      "364"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quel pays a la lettre d'immatriculation internationale du véhicule 'A'?",
+    "correct_answer": "Autriche",
+    "incorrect_answers": [
+      "Afghanistan",
+      "Australie",
+      "Arménie",
+      "Autriche"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "En quelle année le mini camion Chevrolet LUV a-t-il fait ses débuts ?",
+    "correct_answer": "1972",
+    "incorrect_answers": [
+      "1982",
+      "1975",
+      "1973",
+      "1972"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Laquelle des sociétés suivantes n'est PAS une filiale du groupe Volkswagen?",
+    "correct_answer": "Opel",
+    "incorrect_answers": [
+      "Porsche",
+      "Bugatti",
+      "Bentley",
+      "Opel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Lequel des pays suivants a officiellement interdit l'utilisation civile de caméras de bord dans les voitures?",
+    "correct_answer": "Autriche",
+    "incorrect_answers": [
+      "États-Unis",
+      "République tchèque",
+      "Corée du Sud",
+      "Autriche"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Quelles caractéristiques animales sur le logo d'Abarth, la division sport automobile de Fiat ?",
+    "correct_answer": "Société",
+    "incorrect_answers": [
+      "Serpent",
+      "Bull",
+      "Chevaux",
+      "Société"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Le constructeur italien Lamborghini utilise quel animal comme logo ?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Bat",
+      "Chevaux",
+      "Serpent",
+      "Bull"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Laquelle de ces voitures n'est PAS considérée comme l'une des 5 Supercars modernes de Ferrari?",
+    "correct_answer": "Testarossa",
+    "incorrect_answers": [
+      "Enzo Ferrari",
+      "F40",
+      "288 GTO",
+      "Testarossa"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Le moteur LS7 fait combien de pouces cubes ?",
+    "correct_answer": "427",
+    "incorrect_answers": [
+      "346",
+      "364",
+      "376",
+      "427"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Le terme \"GTO\" est originaire de Ferrari?",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Dans quel pays est la supercar Hussarya, fabriquée par le constructeur automobile \"Arrinera\", assemblée?",
+    "correct_answer": "Pologne",
+    "incorrect_answers": [
+      "Chine",
+      "Suède",
+      "Italie",
+      "Pologne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Volkswagen's légendaire moteur VR6 a cylindres positionnés à quel angle de degré?",
+    "correct_answer": "15 degrés",
+    "incorrect_answers": [
+      "30 degrés",
+      "45 degrés",
+      "90 degrés",
+      "15 degrés"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Vehicles",
+    "question": "Quel fabricant de pneus de voiture est célèbre pour sa ligne \"P Zero\"?",
+    "correct_answer": "Pirelli",
+    "incorrect_answers": [
+      "Bonne année",
+      "Pierre de pont",
+      "Michelin",
+      "Pirelli"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Compléter l'analogie suivante: Audi est à Volkswagen comme Infiniti est à ?",
+    "correct_answer": "Nissan",
+    "incorrect_answers": [
+      "Honda",
+      "Hyundai",
+      "Sous-marin",
+      "Nissan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Vehicles",
+    "question": "Quelle Audi n'utilise pas le système d'entraînement de toutes roues basé sur Haldex?",
+    "correct_answer": "Audi A8",
+    "incorrect_answers": [
+      "Audi TT",
+      "Audi S3",
+      "Audi A3",
+      "Audi A8"
+    ]
+  }
+]

@@ -1,0 +1,694 @@
+[
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Tupac Shakur est mort en raison de complications suite à un coup de poignard en 1996.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Laquelle de ces célébrités n'était pas membre du Jackson 5 ?",
+    "correct_answer": "Bo Jackson",
+    "incorrect_answers": [
+      "Tito Jackson",
+      "Jermaine Jackson",
+      "Marlon Jackson",
+      "Bo Jackson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Nommé d'après un personnage qu'il a joué dans un film de 1969, quel est le nom de la station de ski en Utah que Robert Redford a acheté en 1968?",
+    "correct_answer": "Danse solaire",
+    "incorrect_answers": [
+      "Bois",
+      "Turner",
+      "Booker",
+      "Danse solaire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Lequel de ces gens ne fait PAS partie du groupe de comédies sur Internet Mega64 ?",
+    "correct_answer": "Jon Jafari",
+    "incorrect_answers": [
+      "Rocco Botte",
+      "Derrick Acosta",
+      "Shawn Chatfield",
+      "Jon Jafari"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Aubrey Graham est mieux connu comme",
+    "correct_answer": "Drake",
+    "incorrect_answers": [
+      "Travis Scott",
+      "Lil Wayne",
+      "2 Chaînes",
+      "Drake"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Lady Gaga' son vrai nom est Stefani Joanne Angelina Germanotta.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Sur quoi le cinéaste Dan Bell concentre-t-il ses films ?",
+    "correct_answer": "Bâtiments abandonnés et centres commerciaux morts",
+    "incorrect_answers": [
+      "Marques historiques",
+      "Films d'action",
+      "Documentaires",
+      "Bâtiments abandonnés et centres commerciaux morts"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Neil Hamburger est joué par quel comédien ?",
+    "correct_answer": "Gregg Turkington",
+    "incorrect_answers": [
+      "Nathan Fielder",
+      "Tim Heidecker",
+      "Verre Todd",
+      "Gregg Turkington"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quand est né Elvis Presley ?",
+    "correct_answer": "8 janvier 1935",
+    "incorrect_answers": [
+      "13 décembre 1931",
+      "18 juillet 1940",
+      "17 avril 1938",
+      "8 janvier 1935"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Pourquoi Jake Lloyd qui jouait Anakin Skywalker dans The Phantom Menace a arrêté de jouer ?",
+    "correct_answer": "Intimidation",
+    "incorrect_answers": [
+      "Dossier pénal",
+      "Nomination pour le pire acteur",
+      "Racisme",
+      "Intimidation"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Billy Herrington est de quel État ?",
+    "correct_answer": "New York",
+    "incorrect_answers": [
+      "Arizona",
+      "Californie",
+      "Géorgie",
+      "New York"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Quelle célébrité a annoncé sa présidence en 2015 ?",
+    "correct_answer": "Kanye Ouest",
+    "incorrect_answers": [
+      "Donald Trump",
+      "Leonardo DiCaprio",
+      "Miley Cyrus",
+      "Kanye Ouest"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Paul McCartney a toujours utilisé son second prénom. Quel est son vrai prénom ?",
+    "correct_answer": "Jacques",
+    "incorrect_answers": [
+      "Jean",
+      "Jack",
+      "Justin",
+      "Jacques"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Terry Gilliam est le seul membre américain de la troupe de comédies \"Monty Python.\"",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Qui était la première femme de Donald Trump '?",
+    "correct_answer": "Ivana Zelníčková",
+    "incorrect_answers": [
+      "Melania Knauss",
+      "Érables Marla",
+      "Nancy Davis",
+      "Ivana Zelníčková"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Quelle est la taille de Tom Cruise ?",
+    "correct_answer": "5′ 7″",
+    "incorrect_answers": [
+      "5′ 9″",
+      "5′ 4″",
+      "5′ 5″",
+      "5′ 7″"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "En quelle année \"Bob Ross\" est-il mort?",
+    "correct_answer": "1995",
+    "incorrect_answers": [
+      "1986",
+      "1989",
+      "1997",
+      "1995"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quelle célébrité américaine est morte en 1977 en jouant au golf à La Moraleja, Madrid ?",
+    "correct_answer": "Bing Crosby",
+    "incorrect_answers": [
+      "Elvis Presley",
+      "Charlie Chaplin",
+      "Groucho Marx",
+      "Bing Crosby"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Avant de chanter Pearl dans Steven Universe, Deedee Magno Hall faisait partie de quel groupe américain ?",
+    "correct_answer": "Le Parti",
+    "incorrect_answers": [
+      "Les filles météo",
+      "Les poupées Pussycat",
+      "Les filles de Cheetah",
+      "Le Parti"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Quelle était la religion de la célèbre chanteuse \"Freddie Mercury\"?",
+    "correct_answer": "Zoroastrianisme",
+    "incorrect_answers": [
+      "Paganisme",
+      "Asurisme",
+      "Judaïsme",
+      "Zoroastrianisme"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Donald J. Trump & #039; s Middle Name est...",
+    "correct_answer": "Jean",
+    "incorrect_answers": [
+      "Jeff",
+      "Jerald",
+      "Jason",
+      "Jean"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Dans quelle émission le chef Gordon Ramsay n'est-il pas apparu ?",
+    "correct_answer": "Chasseurs aux enchères",
+    "incorrect_answers": [
+      "Ramsay's cauchemars de cuisine",
+      "Hôtel Hell",
+      "Hell's Cuisine",
+      "Chasseurs aux enchères"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quelle personnalité radio s'appelle le roi de tous les médias?",
+    "correct_answer": "Howard Stern",
+    "incorrect_answers": [
+      "Rush Limbaugh",
+      "Pete Tong",
+      "Ryan Seacrest",
+      "Howard Stern"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Qui de ces actrices est la plus jeune ?",
+    "correct_answer": "Kiernan Shipka",
+    "incorrect_answers": [
+      "Ariel Hiver",
+      "Emma Watson",
+      "Bonnie Wright",
+      "Kiernan Shipka"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quel célèbre campeur de New York Yankees a épousé Marilyn Monroe ?",
+    "correct_answer": "Joe DiMaggio",
+    "incorrect_answers": [
+      "Tino Martinez",
+      "Bébé Ruth",
+      "Mason Williams",
+      "Joe DiMaggio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "S'il était encore en vie, en quelle année Elvis Presley fêterait-il ses 100 ans ?",
+    "correct_answer": "2035",
+    "incorrect_answers": [
+      "2030",
+      "2040",
+      "2045",
+      "2035"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quel âge avait Muhammad Ali quand il est mort ?",
+    "correct_answer": "74",
+    "incorrect_answers": [
+      "61",
+      "Il est toujours en vie",
+      "56",
+      "74"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quelle était la cause du décès de Freddie Mercury ?",
+    "correct_answer": "Pneumonie",
+    "incorrect_answers": [
+      "Cancer de l'estomac",
+      "VIH",
+      "Hémorragie cérébrale",
+      "Pneumonie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "En 2014, ce nouveau rappeur du top 100 qui figurait dans \"Computers\" et \"Body Dance\" a été arrêté dans une recherche de la police de New York pour meurtre.",
+    "correct_answer": "Bobby Shmurda",
+    "incorrect_answers": [
+      "DJ Snake",
+      "Swae Lee",
+      "Jeune Thug",
+      "Bobby Shmurda"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Quelle était la cause du suicide de Marilyn Monroes ?",
+    "correct_answer": "Surdose",
+    "incorrect_answers": [
+      "Attaque de couteau",
+      "Feu de maison",
+      "Coup de feu",
+      "Surdose"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quel chef TV a écrit une autobiographie intitulée \"Humble Pie\"?",
+    "correct_answer": "Gordon Ramsay",
+    "incorrect_answers": [
+      "Jamie Oliver",
+      "Ainsley Harriott",
+      "Antony Worrall Thompson",
+      "Gordon Ramsay"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "De quel nom Carlos Estevez est-il mieux connu ?",
+    "correct_answer": "Charlie Sheen",
+    "incorrect_answers": [
+      "Ricky Martin",
+      "Bruno Mars",
+      "Joaquin Phoenix",
+      "Charlie Sheen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Combien de poids Chris Pratt perd pour son rôle de Star-Lord dans \"Guardians of the Galaxy\"?",
+    "correct_answer": "60 lbs",
+    "incorrect_answers": [
+      "30 livres",
+      "50 lbs",
+      "70 lbs",
+      "60 lbs"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quelle année l'icône de radio Howard Stern a-t-elle commencé à travailler à la station de radio WNBC ?",
+    "correct_answer": "1982",
+    "incorrect_answers": [
+      "1985",
+      "1984",
+      "1995",
+      "1982"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Nikki Diamond a décrit quel Gladiator dans l'émission télévisée de 1992 \"Gladiators\"?",
+    "correct_answer": "Scorpion",
+    "incorrect_answers": [
+      "Jet",
+      "Rasoir de nuit",
+      "Faucon",
+      "Scorpion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Quelle école a fréquenté Steve Backshall à Surrey ?",
+    "correct_answer": "Collège Collingwood",
+    "incorrect_answers": [
+      "École Tomlinscote",
+      "Les Rois International Collège",
+      "École Lyndhurst",
+      "Collège Collingwood"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Le philosophe naturel excentrique Tycho Brahe gardait quoi comme animal de compagnie ?",
+    "correct_answer": "Moose",
+    "incorrect_answers": [
+      "Chien",
+      "Ours",
+      "Chèvre",
+      "Moose"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Michael Jackson avait un python pour animaux nommé ‘Crusher’.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Quel était le dernier rôle de James Coburn', avant sa mort?",
+    "correct_answer": "Arme américaine",
+    "incorrect_answers": [
+      "Monsters Inc",
+      "Rangers du Texas",
+      "Chiens de neige",
+      "Arme américaine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Dans quelle émission de télévision Dan Gheesling a-t-il joué ?",
+    "correct_answer": "Grand frère",
+    "incorrect_answers": [
+      "Mise en danger",
+      "Survivant",
+      "Le baccalauréat",
+      "Grand frère"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Où est né Kanye West ?",
+    "correct_answer": "Atlanta, Géorgie",
+    "incorrect_answers": [
+      "Chicago, Illinois",
+      "Los Angeles, Californie",
+      "Détroit, Michigan",
+      "Atlanta, Géorgie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Gwyneth Paltrow a une fille nommée..?",
+    "correct_answer": "Pommes",
+    "incorrect_answers": [
+      "Lily",
+      "Français",
+      "Dakota",
+      "Pommes"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Marilyn Monroe est née le 1er juillet 1926.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quelle actrice s'appelait Frances Ethel Gumm?",
+    "correct_answer": "Judy Garland",
+    "incorrect_answers": [
+      "Jour de la doris",
+      "Julie Andrews",
+      "Marilyn Monroe",
+      "Judy Garland"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quel était le nom du premier mari de Marilyn Monroe'?",
+    "correct_answer": "James Dougherty",
+    "incorrect_answers": [
+      "Joe Dimaggio",
+      "Kirk Douglas",
+      "Arthur Miller",
+      "James Dougherty"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Celebrities",
+    "question": "Gabe Newell est né en quelle année ?",
+    "correct_answer": "1962",
+    "incorrect_answers": [
+      "1970",
+      "1960",
+      "1972",
+      "1962"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "De quel nom est Ramon Estevez mieux connu comme?",
+    "correct_answer": "Martin Sheen",
+    "incorrect_answers": [
+      "Charlie Sheen",
+      "Ramon Sheen",
+      "Emilio Estevez",
+      "Martin Sheen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quel est le nom de Doug Walker's YouTube?",
+    "correct_answer": "La critique Nostalgie",
+    "incorrect_answers": [
+      "Le jeu vidéo en colère Nerd",
+      "AngryJoeShow",
+      "Le film Snob",
+      "La critique Nostalgie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Qui est \"James Rolfe\" mieux connu comme?",
+    "correct_answer": "Le jeu vidéo en colère Nerd",
+    "incorrect_answers": [
+      "Total Biscuit",
+      "Beurre d'arachideGamer",
+      "PewDiePie",
+      "Le jeu vidéo en colère Nerd"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Dans quelle situation le musicien John Lennon a-t-il été assassiné ?",
+    "correct_answer": "Tenter d'entrer dans le bâtiment Dakota Apartments",
+    "incorrect_answers": [
+      "Pendant une promenade impromptue à travers Central Park",
+      "Signature d'un autographe à l'extérieur du studio Record Plant",
+      "Attendre devant une salle de musique à Manhattan après un concert",
+      "Tenter d'entrer dans le bâtiment Dakota Apartments"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "En quelle année O.J. Simpson a-t-il été acquitté de ses accusations de meurtre ?",
+    "correct_answer": "1995",
+    "incorrect_answers": [
+      "1992",
+      "1996",
+      "1991",
+      "1995"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "Quelle actrice a épousé Michael Douglas en 2000 ?",
+    "correct_answer": "Catherine Zeta-Jones",
+    "incorrect_answers": [
+      "Ruth Jones",
+      "Pam Ferris",
+      "Sara Sugarman",
+      "Catherine Zeta-Jones"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Quel est le vrai nom de \"moot\", fondateur du tableau d'images 4chan?",
+    "correct_answer": "Christopher Poole",
+    "incorrect_answers": [
+      "Mark Zuckerberg",
+      "Allison Harvard",
+      "Catie Wayne",
+      "Christopher Poole"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Qu'est-ce qui est généralement considéré comme étant William Shakespeare' date de naissance?",
+    "correct_answer": "23 avril 1564",
+    "incorrect_answers": [
+      "4 juillet 1409",
+      "29 septembre 1699",
+      "1er décembre 1750",
+      "23 avril 1564"
+    ]
+  }
+]

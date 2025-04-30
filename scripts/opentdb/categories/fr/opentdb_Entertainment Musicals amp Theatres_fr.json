@@ -1,0 +1,451 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Dans quelle pièce Shakespeare vous trouverez le suicide d'Ophelia ?",
+    "correct_answer": "Hameau",
+    "incorrect_answers": [
+      "Macbeth",
+      "Othello",
+      "Roi Lear",
+      "Hameau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui a écrit le prix gagnant musical \"Dans The Heights\"?",
+    "correct_answer": "Lin-Manuel Miranda",
+    "incorrect_answers": [
+      "Steven Sondheim",
+      "Francis Scott Clé",
+      "John Phillips Sousa",
+      "Lin-Manuel Miranda"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Laquelle des pièces suivantes n'est pas une pièce de la comédie musicale West Side Story?",
+    "correct_answer": "L'allée arrière",
+    "incorrect_answers": [
+      "Le président",
+      "Ce soir",
+      "Mambo",
+      "L'allée arrière"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Les noms des protagonistes dans 'Who's Peur de Virginia Woolf', George et Martha, provenaient de George Washington et de son épouse.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "La musique \"Dirty Rotten Scoundrels\" est située dans quel pays?",
+    "correct_answer": "France",
+    "incorrect_answers": [
+      "ÉTATS-UNIS",
+      "Allemagne",
+      "Suède",
+      "France"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "IMAX signifie Image Maximum.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Dans Les Misérables, qui est le code pénitentiaire 24601?",
+    "correct_answer": "Jean Valjean",
+    "incorrect_answers": [
+      "Marius Pontmercy",
+      "Javert",
+      "Jean Claude Van Damme",
+      "Jean Valjean"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui est le directeur musical du prix musical \"Hamilton\"?",
+    "correct_answer": "Alex Lacamoire",
+    "incorrect_answers": [
+      "Lin-Manuel Miranda",
+      "Renee Elise-Goldberry",
+      "Leslie Odom Jr.",
+      "Alex Lacamoire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Quel était le dernier opéra de George Bizet'?",
+    "correct_answer": "Carmen",
+    "incorrect_answers": [
+      "Don Rodrigue",
+      "Grisélidis",
+      "Les pêcheurs de perles",
+      "Carmen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui a joué Marquis de Lafayette et Thomas Jefferson dans la série originale de Broadway de Hamilton ?",
+    "correct_answer": "Les Diggs",
+    "incorrect_answers": [
+      "Lin-Manuel Miranda",
+      "Javier Muñoz",
+      "Wayne Brady",
+      "Les Diggs"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Laquelle de ces pièces a été célèbrement jouée posthume après le suicide de l'auteur ?",
+    "correct_answer": "4.48 Psychose",
+    "incorrect_answers": [
+      "Hamilton",
+      "Beaucoup d'Ado sur rien",
+      "La fête d'anniversaire",
+      "4.48 Psychose"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Après l'Angleterre, plus de pièces de Shakespeare sont mises dans ce pays actuel que dans n'importe quel autre.",
+    "correct_answer": "Italie",
+    "incorrect_answers": [
+      "États-Unis",
+      "Grèce",
+      "France",
+      "Italie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Quel jeu Shakespeare présente la direction de la scène \"Entrez un messager, avec deux têtes et une main\"?",
+    "correct_answer": "Titus Andronicus",
+    "incorrect_answers": [
+      "Othello",
+      "Macbeth",
+      "Roi Lear",
+      "Titus Andronicus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Dans lequel Shakespeare joue le personnage Marcellus dit, \" Quelque chose est pourri dans l'état du Danemark\"?",
+    "correct_answer": "Hameau",
+    "incorrect_answers": [
+      "Macbeth",
+      "Roi Lear",
+      "Douzième nuit",
+      "Hameau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Combien de pièces Shakespeare est généralement considéré comme ayant écrit?",
+    "correct_answer": "37",
+    "incorrect_answers": [
+      "18",
+      "54",
+      "25",
+      "37"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui a joué \"Charlie Price\" dans la musique \"Kinky Boots\" sur Broadway à New York du 26 mai au 6 août 2017?",
+    "correct_answer": "Brendon Urie",
+    "incorrect_answers": [
+      "Le Président",
+      "Tom Cruise",
+      "Semaines de Dallon",
+      "Brendon Urie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qu'est-ce que le premier numéro de prisonnier de Jean ValJean'?",
+    "correct_answer": "24601",
+    "incorrect_answers": [
+      "9430",
+      "1729",
+      "32769",
+      "24601"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Quelle pièce Shakespeare a inspiré la musique 'West Side Story'?",
+    "correct_answer": "Roméo & Juliette",
+    "incorrect_answers": [
+      "Hameau",
+      "Macbeth",
+      "Othello",
+      "Roméo & Juliette"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Le Andrew Lloyd Webber musical \"Cats\" est basé sur un livre de poèmes écrits par quel auteur?",
+    "correct_answer": "T.S. Elliot",
+    "incorrect_answers": [
+      "Andrew Lloyd Webber",
+      "Emily Dickenson",
+      "Robert Frost",
+      "T.S. Elliot"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Le Championnat du monde d'échecs dans les échecs, Act 1 est fixé dans quelle ville italienne?",
+    "correct_answer": "Merano",
+    "incorrect_answers": [
+      "Venise",
+      "Belgique",
+      "Rome",
+      "Merano"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "De quel jeu est la citation \"Hell est d'autres personnes\" de?",
+    "correct_answer": "Pas de sortie",
+    "incorrect_answers": [
+      "Le Diable et le Bon Seigneur",
+      "La condamnation d'Altona",
+      "Les mouches",
+      "Pas de sortie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Doctor Who\" star David Tennant a joué dans un rendu dont Shakespearean jeu?",
+    "correct_answer": "Hameau",
+    "incorrect_answers": [
+      "La tempête",
+      "Othello",
+      "L'apaisement du museau",
+      "Hameau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Dans Jeff Wayne's Musical Version of War of the Worlds, les...",
+    "correct_answer": "Un million à un",
+    "incorrect_answers": [
+      "Un milliard à un",
+      "Un billion à un",
+      "Cent pour un",
+      "Un million à un"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Quand la pièce \"Macbeth\" a-t-elle été écrite?",
+    "correct_answer": "1606",
+    "incorrect_answers": [
+      "1605",
+      "1723",
+      "1628",
+      "1606"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Laquelle de ces comédies musicales a remporté le Tony Award pour la meilleure comédie musicale ?",
+    "correct_answer": "Loyer",
+    "incorrect_answers": [
+      "La couleur pourpre",
+      "Idiot américain",
+      "Nouvelles",
+      "Loyer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Quel est le nom de Broadway's first \"long-run\" musical?",
+    "correct_answer": "Les elfes",
+    "incorrect_answers": [
+      "Wicked",
+      "Hamilton",
+      "Le Livre de Mormon",
+      "Les elfes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Dans Shakespeare's jouer Jules César, César' les derniers mots étaient...",
+    "correct_answer": "Et tu, Brute ?",
+    "incorrect_answers": [
+      "Iacta alea est!",
+      "Vidi, Vini, Vici.",
+      "Aegri somnia vana.",
+      "Et tu, Brute ?"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Dans la pièce Oedipe Rex, Oedipe tue son père en raison de la jalousie d'aimer sa mère.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui a écrit les paroles pour Leonard Bernstein's 1957 Brodway musical West Side Story?",
+    "correct_answer": "Stephen Sondheim",
+    "incorrect_answers": [
+      "Lui-même",
+      "Oscar Hammerstein",
+      "Richard Rodgers",
+      "Stephen Sondheim"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui est l'orateur du prologue dans Shakespeare's Roméo et Juliette?",
+    "correct_answer": "Choeur",
+    "incorrect_answers": [
+      "Montague",
+      "Refus",
+      "Capulet",
+      "Choeur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Quelle musicale a remporté le plus de prix Tony ?",
+    "correct_answer": "Les producteurs",
+    "incorrect_answers": [
+      "Hamilton",
+      "Chicago",
+      "Fantôme de l'Opéra",
+      "Les producteurs"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "À Macbeth, les yeux des animaux utilisés dans les Witches' chaudron?",
+    "correct_answer": "Nouveaux",
+    "incorrect_answers": [
+      "Humains",
+      "Requins",
+      "Calmars",
+      "Nouveaux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui a écrit la pièce 'Angels in America'?",
+    "correct_answer": "Tony Kusher",
+    "incorrect_answers": [
+      "Tom Stoppard",
+      "Matthew Lopez",
+      "Anthony Neilson",
+      "Tony Kusher"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Quel acteur n'a PAS représenté Billy Flynn dans la musique \"Chicago\"?",
+    "correct_answer": "Christopher Walken",
+    "incorrect_answers": [
+      "David Hasselhoff",
+      "Jerry Springer",
+      "Patrick Swayze",
+      "Christopher Walken"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Musicals &amp; Theatres",
+    "question": "Qui a écrit la musique \"Hamilton\"?",
+    "correct_answer": "Lin-Manuel Miranda",
+    "incorrect_answers": [
+      "Andrew Lloyd Webber",
+      "Nell Benjamin",
+      "Tom Kitt",
+      "Lin-Manuel Miranda"
+    ]
+  }
+]

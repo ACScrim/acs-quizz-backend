@@ -1,0 +1,834 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Lequel de ces dieux romains n'a pas d'équivalent dans la mythologie grecque?",
+    "correct_answer": "Janus",
+    "incorrect_answers": [
+      "Vulcane",
+      "Juno",
+      "Mars",
+      "Janus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Le nom grec de Neptune' était...",
+    "correct_answer": "Poséidon",
+    "incorrect_answers": [
+      "Arès",
+      "Zeus",
+      "Apollon",
+      "Poséidon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Quel est le nom du dieu grec des morts pacifiques?",
+    "correct_answer": "Thanatos",
+    "incorrect_answers": [
+      "Tartare",
+      "Hadès",
+      "Moros",
+      "Thanatos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Dans la mythologie nordique, quel est le nom du serpent qui mange les racines du frêne Yggdrasil?",
+    "correct_answer": "Nidhogg",
+    "incorrect_answers": [
+      "Bragi",
+      "Odin",
+      "Ymir",
+      "Nidhogg"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Cette figure mythologique grecque est le dieu/dieu de la stratégie de combat (entre autres).",
+    "correct_answer": "Athéna",
+    "incorrect_answers": [
+      "Arès",
+      "Artémis",
+      "Apollon",
+      "Athéna"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Selon le folklore japonais, quelle est la nourriture préférée de la Kappa.",
+    "correct_answer": "Concombres",
+    "incorrect_answers": [
+      "Kabocha",
+      "Nasu",
+      "Soba",
+      "Concombres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Quelles sont les créatures mytologiques qui ont des visages et des vautours?",
+    "correct_answer": "Harpies",
+    "incorrect_answers": [
+      "Sirènes",
+      "Nymphe",
+      "Lilith",
+      "Harpies"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Selon le mythe égyptien d'Osiris, qui a tué Osiris ?",
+    "correct_answer": "Jeu",
+    "incorrect_answers": [
+      "Horus",
+      "Les",
+      "Anhur",
+      "Jeu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Héra est le dieu de...",
+    "correct_answer": "Mariage",
+    "incorrect_answers": [
+      "Agriculture",
+      "Mer",
+      "Guerre",
+      "Mariage"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Qui est le dieu de la guerre dans la mythologie polynésienne ?",
+    "correct_answer": "'Oro",
+    "incorrect_answers": [
+      "Hina",
+      "C'est vrai",
+      "Māui",
+      "'Oro"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Skaði est la déesse du ski, des montagnes, de l'hiver et de la chasse à l'arc.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Dans la mythologie grecque, qui est le dieu du vin ?",
+    "correct_answer": "Dionysos",
+    "incorrect_answers": [
+      "Héphaeste",
+      "Démètre",
+      "Apollon",
+      "Dionysos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Qui est le dieu égyptien de reproduction et de laitue?",
+    "correct_answer": "Min",
+    "incorrect_answers": [
+      "Menu",
+      "Mut",
+      "Meret",
+      "Min"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Lequel des éléments suivants n'est pas un des Fates Grecs?",
+    "correct_answer": "Narcisse",
+    "incorrect_answers": [
+      "Clotho",
+      "Atropos",
+      "Lachesis",
+      "Narcisse"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Dans la mythologie nordique, Baldr a été tué par Loki avec une lance magique faite à partir de quelle plante ?",
+    "correct_answer": "Gui",
+    "incorrect_answers": [
+      "Loup 's Bane",
+      "Boucle",
+      "Bouclier",
+      "Gui"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Quelle figure de la mythologie grecque a voyagé dans le monde souterrain pour rendre sa femme Eurydice à la terre des vivants ?",
+    "correct_answer": "Orphée",
+    "incorrect_answers": [
+      "Hercules",
+      "Persée",
+      "Dédalus",
+      "Orphée"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Quelle immense structure est appelée dans la mythologie nordique comme l'Yggdrasil.",
+    "correct_answer": "Arbre",
+    "incorrect_answers": [
+      "Montagne",
+      "Temple",
+      "Château",
+      "Arbre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "En mythologie grecque, qui a tué Achille ?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Hector",
+      "Helen",
+      "Périclès",
+      "Paris"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Dans la mythologie nordique, Thor une fois habillé en femme.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Hel était la fille de laquelle Norse Mythological ?",
+    "correct_answer": "Loki",
+    "incorrect_answers": [
+      "Thor",
+      "Odin",
+      "Écailler",
+      "Loki"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "L'Hippogriff, à ne pas confondre avec le Griffon, est une créature magique avec la moitié avant d'un aigle, et la moitié arrière de quoi ?",
+    "correct_answer": "Un cheval",
+    "incorrect_answers": [
+      "Un Dragon",
+      "Un tigre",
+      "Un lion",
+      "Un cheval"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "L'ancien dieu romain de la guerre était communément connu comme lequel des suivants?",
+    "correct_answer": "Mars",
+    "incorrect_answers": [
+      "Jupiter",
+      "Juno",
+      "Arès",
+      "Mars"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Quel est le nom du premier être humain dans la mythologie nordique?",
+    "correct_answer": "Demande",
+    "incorrect_answers": [
+      "Asmund",
+      "Ake",
+      "Abréviation",
+      "Demande"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Qui est un dieu mineur qui est protecteur et créateur de divers arts, tels que la fabrication de fromage et la conservation des abeilles.",
+    "correct_answer": "Aristaeus",
+    "incorrect_answers": [
+      "Autonome",
+      "Carme",
+      "Cephisso",
+      "Aristaeus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Dans la plupart des traditions, qui était la femme de Zeus?",
+    "correct_answer": "Héra",
+    "incorrect_answers": [
+      "Aphrodite",
+      "Athéna",
+      "Hestia",
+      "Héra"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Combien de têtes a Cerberus ?",
+    "correct_answer": "3",
+    "incorrect_answers": [
+      "2",
+      "1",
+      "5",
+      "3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Qui Hippomenes a vaincu dans une course ?",
+    "correct_answer": "Atalanta",
+    "incorrect_answers": [
+      "Peleus",
+      "Thésée",
+      "Jason",
+      "Atalanta"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Lequel Norse Dieu a un cheval nommé Sleipnir ?",
+    "correct_answer": "Odin",
+    "incorrect_answers": [
+      "Thor",
+      "Frigg",
+      "Écailler",
+      "Odin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Un minotaur est à moitié humain quoi ?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Vache",
+      "Chevaux",
+      "Aigle",
+      "Bull"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Dans la Mythologie grecque, le dieu de la guerre s'appelle Mars.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Talos, l'homme de bronze géant mythique, était le protecteur de quelle île ?",
+    "correct_answer": "Crète",
+    "incorrect_answers": [
+      "Sardaigne",
+      "Sicile",
+      "Chypre",
+      "Crète"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Lequel de ce qui suit n'est PAS un dieu en mythologie nordique.",
+    "correct_answer": "Jens",
+    "incorrect_answers": [
+      "Loki",
+      "Année",
+      "Snotra",
+      "Jens"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Avec quel animal la reine Pasipahe a-t-elle couché avant de donner naissance au Minotaure en mythologie grecque ?",
+    "correct_answer": "Bull",
+    "incorrect_answers": [
+      "Porc",
+      "Ox",
+      "Chevaux",
+      "Bull"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Nidhogg est une créature mythique de quelle mythologie ?",
+    "correct_answer": "Nez",
+    "incorrect_answers": [
+      "Égyptienne",
+      "Grèce",
+      "Hindu",
+      "Nez"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Janus était le dieu romain des portes et des passages.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "De quelle mythologie vient le dieu \"Apollo\"?",
+    "correct_answer": "Grec et romain",
+    "incorrect_answers": [
+      "Roman et espagnol",
+      "Grec et chinois",
+      "Grec, romain et nordique",
+      "Grec et romain"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Dans la mythologie grecque, Perséphone doit retourner dans le monde souterrain parce qu'elle avait mangé quel genre de graines?",
+    "correct_answer": "Grenade",
+    "incorrect_answers": [
+      "Tournesol",
+      "Orange",
+      "Graphique",
+      "Grenade"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Selon la mythologie nordique, Loki est une mère.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Qui était le seul dieu grec qui n'a pas obtenu un changement de nom à Rome?",
+    "correct_answer": "Apollon",
+    "incorrect_answers": [
+      "Démètre",
+      "Zeus",
+      "Athéna",
+      "Apollon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Qui était le Roi des Dieux dans la mythologie grecque antique?",
+    "correct_answer": "Zeus",
+    "incorrect_answers": [
+      "Apollon",
+      "Hermes",
+      "Poséidon",
+      "Zeus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Quel dieu grec a jeté une pomme d'or avec les mots \"pour le plus beau\" au milieu de la fête des dieux?",
+    "correct_answer": "Eris",
+    "incorrect_answers": [
+      "Hadès",
+      "Arès",
+      "Artémis",
+      "Eris"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Selon la mythologie grecque, Atlas était un Dieu olympique.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Laquelle des figures mythologiques mésopotamiennes suivantes n'était PAS une divinité?",
+    "correct_answer": "Enkidu",
+    "incorrect_answers": [
+      "Enki",
+      "Autres",
+      "Enkimdu",
+      "Enkidu"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Rannamaari était un démon de la mer qui hantait le peuple des Maldives et devait être apaisé mensuellement avec le sacrifice d'une fille vierge.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Le dieu grec Poséidon était le dieu de quoi ?",
+    "correct_answer": "La mer",
+    "incorrect_answers": [
+      "Guerre",
+      "Soleil",
+      "Feu",
+      "La mer"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Selon la mythologie grecque, Zeus peut contrôler la foudre.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Qui était le dieu romain du feu ?",
+    "correct_answer": "Vulcane",
+    "incorrect_answers": [
+      "Apollon",
+      "Jupiter",
+      "Mercure",
+      "Vulcane"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Le dieu romain \"Jupiter\" a d'abord été connu sous le nom de \"Zeus\" aux Grecs.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Ce nom de déesse grecque a été choisi pour la planète naine responsable de la discorde sur Pluton'.",
+    "correct_answer": "Eris",
+    "incorrect_answers": [
+      "Charon",
+      "Ceres",
+      "Dysnomie",
+      "Eris"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Le dieu nordique Odin a deux corbeaux d'animaux de compagnie appelés \"Huginn\" et \"Muninn\". Que signifient leurs noms ?",
+    "correct_answer": "Mémoire de la pensée &",
+    "incorrect_answers": [
+      "Puissance & Paix",
+      "Apprentissage",
+      "Dormir & Se réveiller",
+      "Mémoire de la pensée &"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Le dieu japonais Izanagi est revenu avec succès sa femme Izanami des Enfers.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Qui est le Dieu Loki ', fils?",
+    "correct_answer": "Fenrir",
+    "incorrect_answers": [
+      "Odin",
+      "Hél",
+      "Sigyn",
+      "Fenrir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Quelle était la punition pour Sysiphus's ruse?",
+    "correct_answer": "Maudit de rouler un rocher sur une colline pour l'éternité.",
+    "incorrect_answers": [
+      "Attaché à un rocher pour l'éternité, étant piqué par les oiseaux.",
+      "Se tenant dans un lac rempli d'eau, il ne pouvait pas boire.",
+      "Pour tomber un arbre qui s'est régénéré après chaque hache.",
+      "Maudit de rouler un rocher sur une colline pour l'éternité."
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Quel est le nom du dieu grec des forgerons?",
+    "correct_answer": "Héphaeste",
+    "incorrect_answers": [
+      "Dyntos",
+      "Vulcane",
+      "Artagatus",
+      "Héphaeste"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "En mythologie grecque, qui était la fille du roi Minos ?",
+    "correct_answer": "Ariane",
+    "incorrect_answers": [
+      "Athéna",
+      "Ariel",
+      "Alana",
+      "Ariane"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Les Maoris soutiennent que quelle nation insulaire a été fondée par Kupe, qui l'a découvert sous un long nuage blanc?",
+    "correct_answer": "Nouvelle-Zélande",
+    "incorrect_answers": [
+      "Vanuatu",
+      "Fidji",
+      "Hawaii",
+      "Nouvelle-Zélande"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Qui dans la mythologie grecque, qui a conduit les Argonautes à la recherche de la Toison d'Or ?",
+    "correct_answer": "Jason",
+    "incorrect_answers": [
+      "Roulette",
+      "Dédalus",
+      "Odysseus",
+      "Jason"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Dans la mythologie africaine, Anansi est un trickster et un conteur qui prend la forme de quel animal ?",
+    "correct_answer": "Araignée",
+    "incorrect_answers": [
+      "Chien sauvage",
+      "Singe",
+      "Crocodile",
+      "Araignée"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "La marque Nike de vêtements et de chaussures prend-elle le nom de la déesse grecque de quoi?",
+    "correct_answer": "Victoire",
+    "incorrect_answers": [
+      "Courage",
+      "Résistance",
+      "Honneur",
+      "Victoire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Selon le folklore algonquien, comment se transforme-t-on en Wendigo ?",
+    "correct_answer": "Participation au cannibalisme.",
+    "incorrect_answers": [
+      "La mutilation excessive des cadavres d'animaux.",
+      "Effectuer un rituel impliquant un meurtre.",
+      "Boire le sang de nombreux animaux tués.",
+      "Participation au cannibalisme."
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Dans la Mythologie grecque, le Gorgon peut transformer ceux qui la voient en pierre.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Quel dieu grec & romain était connu comme le dieu de la musique, la vérité et la prophétie, la guérison, le soleil et la lumière, la peste, la poésie, et plus encore?",
+    "correct_answer": "Apollon",
+    "incorrect_answers": [
+      "Aphrodite",
+      "Artémis",
+      "Athéna",
+      "Apollon"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Un wyvern est le même qu'un dragon.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Mythology",
+    "question": "Dans la mythologie grecque, Héra est la déesse de la moisson.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Laquelle de ces créatures mythologiques serait mi-homme et mi-cheval ?",
+    "correct_answer": "Centaur",
+    "incorrect_answers": [
+      "Minotaure",
+      "Pégases",
+      "Gorgon",
+      "Centaur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Mythology",
+    "question": "Lequel des éléments suivants n'est pas vrai sur la vie de Tiresias?",
+    "correct_answer": "Voilée avec les Argonautes pour trouver la polaire dorée",
+    "incorrect_answers": [
+      "Athéna l'a transformé en femme, puis des années plus tard en homme",
+      "Héra l'a aveuglé après avoir accepté Zeus dans une dispute",
+      "Révélé à Oedipe que Oedipe avait épousé sa propre mère",
+      "Voilée avec les Argonautes pour trouver la polaire dorée"
+    ]
+  }
+]

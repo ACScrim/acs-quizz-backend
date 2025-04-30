@@ -1,0 +1,1040 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel animal faisait partie d'une expérience de domestication russe en 1959 ?",
+    "correct_answer": "Renards",
+    "incorrect_answers": [
+      "Pigeons",
+      "Ours",
+      "Alligators",
+      "Renards"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quelles espèces d'ours bruns ne sont pas éteintes?",
+    "correct_answer": "Ours brun syrien",
+    "incorrect_answers": [
+      "Ours grizzli de Californie",
+      "Ours Atlas",
+      "Ours gris mexicain",
+      "Ours brun syrien"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Lequel des éléments suivants est vrai lorsque les alligators se comportent territorialement?",
+    "correct_answer": "Ils soufflent tout en montrant leur queue et leur cou",
+    "incorrect_answers": [
+      "Ouvrez leurs mâchoires tout en faisant un bruit de clic",
+      "Ils sont en pleine force à la menace",
+      "Frappe leur queue sur le sol",
+      "Ils soufflent tout en montrant leur queue et leur cou"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Une pieuvre peut passer par n'importe quel trou plus grand que son bec.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les lapins peuvent et #039;t vomir.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le nom scientifique du Chimpanzé commun?",
+    "correct_answer": "Pan-troglodytes",
+    "incorrect_answers": [
+      "Gorille",
+      "Paniscus",
+      "Panthera leo",
+      "Pan-troglodytes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel type d'animal est un batteur ?",
+    "correct_answer": "Crapaud",
+    "incorrect_answers": [
+      "Oiseaux",
+      "Poisson",
+      "Insectes",
+      "Crapaud"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Quel est le nom scientifique des humains modernes?",
+    "correct_answer": "Homo Sapiens",
+    "incorrect_answers": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis",
+      "Homo Sapiens"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Quel est le vrai nom de Grumpy Cat'?",
+    "correct_answer": "Sauce au tadar",
+    "incorrect_answers": [
+      "Sauce",
+      "Minnie",
+      "Brocoli",
+      "Sauce au tadar"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Les chiens finlandais Lapphund étaient utilisés pour l'élevage des rennes.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel type de créature est un Bonobo ?",
+    "correct_answer": "Ape",
+    "incorrect_answers": [
+      "Lion",
+      "Perroquet",
+      "Chat sauvage",
+      "Ape"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Comment tu appelles une petite batte ?",
+    "correct_answer": "Pup",
+    "incorrect_answers": [
+      "Cub",
+      "Chick",
+      "Enfant",
+      "Pup"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Lequel des noms suivants est un autre nom pour le \"Poecilotheria Metallica Tarantula\"?",
+    "correct_answer": "Gooty",
+    "incorrect_answers": [
+      "Hopper",
+      "Bande d'argent",
+      "Woebegone",
+      "Gooty"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Une chenille a plus de muscles que les humains.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le nom collectif des ours?",
+    "correct_answer": "Paresseux",
+    "incorrect_answers": [
+      "Drove",
+      "Tribus",
+      "Souris",
+      "Paresseux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Quelle est la couleur de l'oiseau noir féminin?",
+    "correct_answer": "Marron",
+    "incorrect_answers": [
+      "Noir",
+      "Blanc",
+      "Jaune",
+      "Marron"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "En 2016, l'UICN a reclassé le statut des Pandas géants de menacé à vulnérable.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le nom scientifique de l'ours polaire?",
+    "correct_answer": "Ursus Maritimus",
+    "incorrect_answers": [
+      "Ours polaire",
+      "Ursus Spelaeus",
+      "Ursus Arctos",
+      "Ursus Maritimus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quelle est la couleur ou la couleur d'un ours polaire?",
+    "correct_answer": "Noir",
+    "incorrect_answers": [
+      "Blanc",
+      "Rose",
+      "Vert",
+      "Noir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Lequel d'entre eux n'est PAS un serpent venimeux?",
+    "correct_answer": "Python réticulé",
+    "incorrect_answers": [
+      "Kraït malaisien",
+      "Serpent de mer à ventre jaune",
+      "Mamba noire",
+      "Python réticulé"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Les hyènes sont plus étroitement liées aux chats qu'aux chiens.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "À quel sous-ordre scientifique appartient la famille des Hyaenidae?",
+    "correct_answer": "Feliformes",
+    "incorrect_answers": [
+      "Haplorhini",
+      "Caniforme",
+      "Ciconiiformes",
+      "Feliformes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Le Kākāpō est un grand perroquet nocturne, sans vol, originaire de quel pays ?",
+    "correct_answer": "Nouvelle-Zélande",
+    "incorrect_answers": [
+      "Afrique du Sud",
+      "Australie",
+      "Madagascar",
+      "Nouvelle-Zélande"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "L'espèce maintenant éteinte \"Thylacine\" était originaire d'où?",
+    "correct_answer": "Tasmanie, Australie",
+    "incorrect_answers": [
+      "Baloutchistan, Pakistan",
+      "Wallachia, Roumanie",
+      "Oregon, États-Unis",
+      "Tasmanie, Australie"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Le navigateur Internet Firefox est nommé d'après le Panda rouge.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Hippocampus est le nom latin pour quelle créature marine ?",
+    "correct_answer": "Chevaux",
+    "incorrect_answers": [
+      "Dauphin",
+      "Baleine",
+      "Octopus",
+      "Chevaux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Combien de jambes ont les papillons ?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "2",
+      "4",
+      "0",
+      "6"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les chats ont des moustaches sous les jambes.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Le Ceratosaure, un dinosaure connu pour avoir une corne sur le dessus de son nez, est également connu pour être un décendent du Tyrannosaure Rex.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est l'animal le plus rapide?",
+    "correct_answer": "Faucon pèlerin",
+    "incorrect_answers": [
+      "Aigle doré",
+      "Santé",
+      "Vol à cheval",
+      "Faucon pèlerin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Quel est le nom collectif d'un groupe de corbeaux?",
+    "correct_answer": "Meurtre",
+    "incorrect_answers": [
+      "Boîte",
+      "Gaggle",
+      "Exploitation",
+      "Meurtre"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Un troupeau de corbeaux est connu comme un homicide.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Un animal carnivore mange de la chair, que mange un animal nucivore?",
+    "correct_answer": "Noix",
+    "incorrect_answers": [
+      "Rien",
+      "Fruits",
+      "Algues marines",
+      "Noix"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Les tigres ont une couleur de peau malgré la fourrure rayée.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "A quel phylum biologique appartiennent tous les mammifères, oiseaux et reptiles?",
+    "correct_answer": "Chordata",
+    "incorrect_answers": [
+      "Echinodermata",
+      "Annelida",
+      "Placazoa",
+      "Chordata"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Les loutres ont des poches sous les bras pour porter leurs collations et leurs rochers préférés.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Pour quelle raison une hyène tachetée \"laugh\"?",
+    "correct_answer": "Nervosité",
+    "incorrect_answers": [
+      "Excitation",
+      "Agression",
+      "Épuisement",
+      "Nervosité"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les zèbres sont blanches avec des rayures noires.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Laquelle de ces espèces n'a pas disparu?",
+    "correct_answer": "Dragon Komodo",
+    "incorrect_answers": [
+      "Lion de mer japonais",
+      "Tigre de Tasmanie",
+      "Gazelle saoudienne",
+      "Dragon Komodo"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les amphibies d'eau douce, l'Axolotl, peuvent le renaître et les membres.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Combien d'espèces vivantes connues d'hyènes sont là ?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Un sang de limaces est vert.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel était le nom du loup éthiopien avant qu'ils sachent qu'il était lié aux loups?",
+    "correct_answer": "Simien Jackel",
+    "incorrect_answers": [
+      "Coyote éthiopien",
+      "Renard amharique",
+      "Canis Simiensis",
+      "Simien Jackel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Combien de dents a un lapin adulte ?",
+    "correct_answer": "28",
+    "incorrect_answers": [
+      "30",
+      "26",
+      "24",
+      "28"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Lequel de ces animaux n'est PAS un lézard?",
+    "correct_answer": "Tuatara",
+    "incorrect_answers": [
+      "Dragon Komodo",
+      "Monstre Gila",
+      "Iguana verte",
+      "Tuatara"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Contrairement à la plupart des salamandres, cette partie d'un newt est plate ?",
+    "correct_answer": "Queue",
+    "incorrect_answers": [
+      "Tête",
+      "Dent",
+      "Pieds",
+      "Queue"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Un ours ne déféque PAS pendant l'hibernation.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Le Platypus est un mammifère.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Quel est l'animal terrestre le plus rapide?",
+    "correct_answer": "Santé",
+    "incorrect_answers": [
+      "Lion",
+      "Thomson’s Gazelle",
+      "Antelope de Pronghorn",
+      "Santé"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "De quelle catégorie d'animaux appartiennent les novices?",
+    "correct_answer": "Amphibien",
+    "incorrect_answers": [
+      "Poisson",
+      "Reptiles",
+      "Mammifères",
+      "Amphibien"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le nom de la famille dont le chat domestique est membre?",
+    "correct_answer": "Felidae",
+    "incorrect_answers": [
+      "Felinae",
+      "Felis",
+      "Chat",
+      "Felidae"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les kangourous gardent la nourriture dans leur poche à côté de leurs enfants.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Quel est le nom d'un lapin?",
+    "correct_answer": "Burrow",
+    "incorrect_answers": [
+      "Nid",
+      "Den",
+      "Rayons",
+      "Burrow"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les lapins sont des rongeurs.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel est le nom scientifique du guépard ?",
+    "correct_answer": "Acinonyx jubatus",
+    "incorrect_answers": [
+      "Panthera onca",
+      "Lynx rufus",
+      "Felis catus",
+      "Acinonyx jubatus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quelle race de chien est l'une des plus anciennes races de chien et a prospéré depuis avant 400 BCE.",
+    "correct_answer": "Porcs",
+    "incorrect_answers": [
+      "Bulldogs",
+      "Boxers",
+      "Chihuahua",
+      "Porcs"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "L'Axolotl est un amphibiens qui peut passer toute sa vie dans un état larvaire.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le nom d'une abeille mâle issue d'un œuf non fécondé?",
+    "correct_answer": "Drone",
+    "incorrect_answers": [
+      "Soldat",
+      "Travailleur",
+      "Hommes",
+      "Drone"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel est le nom de la protéine riche en cuivre qui crée le sang bleu dans la pieuvre de l'Antarctique?",
+    "correct_answer": "Hémocyanine",
+    "incorrect_answers": [
+      "Cytochrome",
+      "Fer",
+      "Méthionine",
+      "Hémocyanine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Que signifie \"hippopotamus\" et dans quel langage?",
+    "correct_answer": "Cheval de rivière (grec)",
+    "incorrect_answers": [
+      "Cheval de rivière (latin)",
+      "Porc gras (grec)",
+      "Porc gras (latin)",
+      "Cheval de rivière (grec)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "\"Decapods\" sont un ordre de crustacés à dix pieds. Lequel d'entre eux ne sont PAS des décapodes?",
+    "correct_answer": "Krill",
+    "incorrect_answers": [
+      "Homards",
+      "Crevettes",
+      "Crabes",
+      "Krill"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Cashmere est la laine de quel animal ?",
+    "correct_answer": "Chèvre",
+    "incorrect_answers": [
+      "Ovins",
+      "Camel",
+      "Lama",
+      "Chèvre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Le plat Fugu, est fait à partir de quelle famille de poissons?",
+    "correct_answer": "Poisson-pouffe",
+    "incorrect_answers": [
+      "Basse",
+      "Saumon",
+      "Maquereau",
+      "Poisson-pouffe"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "A quelle famille scientifique appartient l'Aardwolf ?",
+    "correct_answer": "Hyaenidae",
+    "incorrect_answers": [
+      "Canidés",
+      "Felidae",
+      "Eupleridae",
+      "Hyaenidae"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Les éponges de mer peuvent avoir des cœurs.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Lequel d'entre eux est une colonie de polypes et non une méduse ?",
+    "correct_answer": "L'homme de guerre portugais",
+    "incorrect_answers": [
+      "Wasp de mer",
+      "Irukandji",
+      "Bouilloire de mer",
+      "L'homme de guerre portugais"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel est le nom collectif des vautours?",
+    "correct_answer": "Réveille-toi",
+    "incorrect_answers": [
+      "Ambouche",
+      "Bâtiment",
+      "Gaz",
+      "Réveille-toi"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le nom collectif pour les rats?",
+    "correct_answer": "Délits",
+    "incorrect_answers": [
+      "Boîte",
+      "Race",
+      "Drift",
+      "Délits"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "L'épaulard est considéré comme un dauphin.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "La durée de vie moyenne d'un chat sauvage est d'environ 5-6 ans.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel est le nom scientifique du Budgerigar ?",
+    "correct_answer": "Melopsittacus undulatus",
+    "incorrect_answers": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao",
+      "Melopsittacus undulatus"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les lapins peuvent voir ce que's derrière eux sans tourner la tête.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les serpents et les lézards sont connus pour scintiller leur langue, ce comportement est à ?",
+    "correct_answer": "Capturer les particules parfumées",
+    "incorrect_answers": [
+      "Goûtez l'air doux",
+      "Menacer d'autres espèces",
+      "Attirer les femelles",
+      "Capturer les particules parfumées"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "En quoi consiste le rhinocéros?",
+    "correct_answer": "Kératine",
+    "incorrect_answers": [
+      "Os",
+      "Ivoire",
+      "Peau",
+      "Kératine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel oiseau naît avec des griffes sur ses chiffres d'aile ?",
+    "correct_answer": "Hoatzin",
+    "incorrect_answers": [
+      "Cormorant",
+      "Cassowaire",
+      "Secrétaire oiseau",
+      "Hoatzin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quelles sont les écailles de tous les serpents et la plupart des lézards sont faits?",
+    "correct_answer": "Kératine",
+    "incorrect_answers": [
+      "Ecdysis",
+      "Epiderme",
+      "Ankyloglossie",
+      "Kératine"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "\"Kamea,\" le mot Gilbertese Islander pour chien, est dérivé de la phrase anglaise \"Venez ici! \"a;",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le plus long serpent venimeux du monde?",
+    "correct_answer": "Roi Cobra",
+    "incorrect_answers": [
+      "Anaconda vert",
+      "Taipan intérieur",
+      "Bride jaune Serpent de mer",
+      "Roi Cobra"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quelle est l'espèce a \"mountain poulet\"?",
+    "correct_answer": "Grenouille",
+    "incorrect_answers": [
+      "Poulet",
+      "Chevaux",
+      "Voler",
+      "Grenouille"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Les lapins sont des carnivores.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Quel est le nom scientifique de Gray Wolf'?",
+    "correct_answer": "Canis Lupus",
+    "incorrect_answers": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon",
+      "Canis Lupus"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Vous pouvez dire l'âge d'une coccinelle en comptant les taches sur son dos.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "Par définition, où vit un animal abyssopélagique?",
+    "correct_answer": "Au fond de l'océan",
+    "incorrect_answers": [
+      "Dans le désert",
+      "Sur une montagne",
+      "Dans un arbre",
+      "Au fond de l'océan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "Quel est le terme courant pour l'encéphalopathie spongiforme bovine (ESB)?",
+    "correct_answer": "Fou Maladie de la vache",
+    "incorrect_answers": [
+      "La maladie de Weil '",
+      "Fièvre laitière",
+      "La fièvre aphteuse",
+      "Fou Maladie de la vache"
+    ]
+  }
+]

@@ -1,0 +1,2173 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Nvidia' siège social sont basés dans quelle ville de Silicon Valley?",
+    "correct_answer": "Santa Clara",
+    "incorrect_answers": [
+      "Palo Alto",
+      "Cupertino",
+      "Vue sur la montagne",
+      "Santa Clara"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Dans quel langage de programmation est écrit GitHub ?",
+    "correct_answer": "Rubis",
+    "incorrect_answers": [
+      "JavaScript",
+      "Python",
+      "Lua",
+      "Rubis"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Le PC IBM a utilisé un microprocesseur Intel 8008 à 4,77 MHz et 8 kilooctets de mémoire.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le langage de programmation 'Swift' a été créé pour remplacer quel autre langage de programmation?",
+    "correct_answer": "Objectif-C",
+    "incorrect_answers": [
+      "C#",
+      "Rubis",
+      "C++",
+      "Objectif-C"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel système d'exploitation a été libéré en premier?",
+    "correct_answer": "Système d'exploitation Mac",
+    "incorrect_answers": [
+      "Windows",
+      "Linux",
+      "OS/2",
+      "Système d'exploitation Mac"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le langage de programmation C a été créé par cet informaticien américain.",
+    "correct_answer": "Dennis Ritchie",
+    "incorrect_answers": [
+      "Tim Berners Lee",
+      "al-Khwārizmī",
+      "Willis Ware",
+      "Dennis Ritchie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel était le nom du premier ordinateur personnel bulgare?",
+    "correct_answer": "IMKO-1",
+    "incorrect_answers": [
+      "Pravetz 82",
+      "Pravetz 8D",
+      "IZOT 1030",
+      "IMKO-1"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "MacOS est basé sur Linux.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Le dernier système d'exploitation Windows à être basé sur le noyau Windows 9x était Windows 98.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Le smartphone T-Mobile Sidekick est une version rebaptisée du Danger Hiptop.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Dans \"Hexadecimal\", quelle couleur serait affichée à partir du code couleur? \"#00FF00\"?",
+    "correct_answer": "Vert",
+    "incorrect_answers": [
+      "Rouge",
+      "Bleu",
+      "Jaune",
+      "Vert"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quand Gmail a lancé, combien de stockage a-t-il fourni pour votre email?",
+    "correct_answer": "1 GO",
+    "incorrect_answers": [
+      "512 MO",
+      "5 GO",
+      "Illimité",
+      "1 GO"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Sur Twitter, quelle était la limite de caractère originale pour un Tweet ?",
+    "correct_answer": "140",
+    "incorrect_answers": [
+      "120",
+      "160",
+      "100",
+      "140"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quelle société a été créée le 1er avril 1976 par Steve Jobs, Steve Wozniak et Ronald Wayne ?",
+    "correct_answer": "Pommes",
+    "incorrect_answers": [
+      "Microsoft",
+      "Atari",
+      "Commodore",
+      "Pommes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Sur quel port HTTP fonctionne-t-il ?",
+    "correct_answer": "80",
+    "incorrect_answers": [
+      "53",
+      "443",
+      "23",
+      "80"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "L'Australie, le Japon et l'Asie du Sud-Est sont dans quelle région de l'UIT?",
+    "correct_answer": "Région 3",
+    "incorrect_answers": [
+      "Région 1",
+      "Région 2",
+      "Région 4",
+      "Région 3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Dans CSS, laquelle de ces valeurs CANNOT est utilisée avec la propriété \"position\"?",
+    "correct_answer": "centre",
+    "incorrect_answers": [
+      "statique",
+      "absolue",
+      "relatif",
+      "centre"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Il est impossible de formater un disque dur DVD-R protégé par écrit.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Que signifie AD par rapport aux systèmes d'exploitation Windows ?",
+    "correct_answer": "Répertoire actif",
+    "incorrect_answers": [
+      "Lecteur alternatif",
+      "Base de données automatisée",
+      "Département actif",
+      "Répertoire actif"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel est le nom du thème par défaut qui est installé avec Windows XP?",
+    "correct_answer": "Luna",
+    "incorrect_answers": [
+      "Neptune",
+      "Quitter",
+      "Bénédiction",
+      "Luna"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quand le langage de programmation \"C#\" a-t-il été publié?",
+    "correct_answer": "2000",
+    "incorrect_answers": [
+      "1998",
+      "1999",
+      "2001",
+      "2000"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "\"Windows NT\" est un noyau monolithique.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Le premier bug informatique a été formé par des fils défectueux.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le temps sur ordinateur est mesuré par le système EPOX.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lenovo a acquis IBM's division informatique personnelle, y compris la ligne ThinkPad des ordinateurs portables et tablettes, en quelle année?",
+    "correct_answer": "2005",
+    "incorrect_answers": [
+      "1999",
+      "2002",
+      "2008",
+      "2005"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Dans la programmation, comment appelez-vous des fonctions du même nom mais des implémentations différentes ?",
+    "correct_answer": "Surchargement",
+    "incorrect_answers": [
+      "Dépassement",
+      "Résumé",
+      "Héritage",
+      "Surchargement"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que représente LTS sur le marché des logiciels?",
+    "correct_answer": "Soutien à long terme",
+    "incorrect_answers": [
+      "Long Taco Service",
+      "Vitesse de transfert ludique",
+      "Turbovitesse légère",
+      "Soutien à long terme"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel est le nom donné au calque 4 du modèle Open Systems Interconnection (ISO) ?",
+    "correct_answer": "Transports",
+    "incorrect_answers": [
+      "Séance",
+      "Lien de données",
+      "Réseau",
+      "Transports"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "La série de graphiques Intel HD qui succède à celle des séries 5000 et 6000 (Broadwell) s'appelle :",
+    "correct_answer": "Graphiques HD 500",
+    "incorrect_answers": [
+      "Graphiques HD 700",
+      "Graphiques HD 600",
+      "Graphiques HD 7000",
+      "Graphiques HD 500"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que représente le \"MP\" en MP3?",
+    "correct_answer": "Image en mouvement",
+    "incorrect_answers": [
+      "Joueur de musique",
+      "Multipass",
+      "Micropoint",
+      "Image en mouvement"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Linus Sebastian est le créateur du noyau Linux, qui a continué à être utilisé dans Linux, Android et Chrome OS.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Que représente l'acronyme CDN en termes de réseautage?",
+    "correct_answer": "Réseau de livraison de contenu",
+    "incorrect_answers": [
+      "Distribution du contenu Réseau",
+      "Calculation Réseau de données",
+      "Réseau de données compressé",
+      "Réseau de livraison de contenu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel était le premier processeur d'ordinateur disponible ?",
+    "correct_answer": "Intel 4004",
+    "incorrect_answers": [
+      "Intel 486SX",
+      "TMS 1000",
+      "AMD AM386",
+      "Intel 4004"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel langage de codage était le langage de programmation #1 en termes d'utilisation sur GitHub en 2015?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "C#",
+      "Python",
+      "PHP",
+      "JavaScript"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Qu'est-ce que \"le cerveau\" de l'ordinateur?",
+    "correct_answer": "Groupe central de traitement",
+    "incorrect_answers": [
+      "Carte mère",
+      "Unité de traitement des graphiques",
+      "Clavier",
+      "Groupe central de traitement"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "En termes de calcul, qu'est-ce que l'ICL représente habituellement?",
+    "correct_answer": "Interface de ligne de commande",
+    "incorrect_answers": [
+      "Entrée linguistique commune",
+      "Interface de ligne de contrôle",
+      "Interface linguistique commune",
+      "Interface de ligne de commande"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Combien de temps dure une adresse IPv6 ?",
+    "correct_answer": "128 bits",
+    "incorrect_answers": [
+      "32 bits",
+      "64 bits",
+      "128 octets",
+      "128 bits"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel genre d'algorithme Ron Rivest n'est pas célèbre pour créer ?",
+    "correct_answer": "Système de partage secret",
+    "incorrect_answers": [
+      "Algorithme de hashing",
+      "Chiffrement asymétrique",
+      "Chiffre du flux",
+      "Système de partage secret"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Lequel d'entre eux est le nom du dispositif d'escroquerie à clé défaillant introduit par l'Agence de sécurité nationale en 1993?",
+    "correct_answer": "Chip de pince",
+    "incorrect_answers": [
+      "Enigma Machine",
+      "Sautoir",
+      "Nautilus",
+      "Chip de pince"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": ".rs est le domaine de premier niveau pour quel pays ?",
+    "correct_answer": "Serbie",
+    "incorrect_answers": [
+      "Roumanie",
+      "Russie",
+      "Rwanda",
+      "Serbie"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Les versions Android sont nommées par ordre alphabétique.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "La RAM précoce était directement assise sur la carte mère et ne pouvait pas être facilement enlevée.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Le nom de la société de technologie HP représente quoi ?",
+    "correct_answer": "Hewlett-Packard",
+    "incorrect_answers": [
+      "Le Président",
+      "Husker-Pollosk",
+      "M. Hellman-Pohl",
+      "Hewlett-Packard"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Le premier processeur à double cœur était Intel Pentium D.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quelle vulnérabilité s'est classée au premier rang du Top 10 du PAOAO en 2013?",
+    "correct_answer": "Injection",
+    "incorrect_answers": [
+      "Authentification brisée",
+      "Scénarios croisés",
+      "Références d'objets directs non sécurisées",
+      "Injection"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Les imprimantes jet laser et jet d'encre sont deux exemples de quel type d'imprimante?",
+    "correct_answer": "Imprimante sans impact",
+    "incorrect_answers": [
+      "Imprimante à impact",
+      "Imprimante Daisywheel",
+      "Imprimante de matrice de points",
+      "Imprimante sans impact"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Sur un clavier QWERTY américain standard, quel symbole entrerez-vous si vous maintenez la touche de changement et appuyez sur 1 ?",
+    "correct_answer": "Marque d'exclusion",
+    "incorrect_answers": [
+      "Signe dollar",
+      "Pourcentage de signe",
+      "Astérisque",
+      "Marque d'exclusion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Qu'est-ce que \"LCD\" représente?",
+    "correct_answer": "Affichage cristal liquide",
+    "incorrect_answers": [
+      "Conception du contrôle linguistique",
+      "Dernier écart commun",
+      "Conception longue continue",
+      "Affichage cristal liquide"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Lequel de ces langages de programmation est un langage de bas niveau?",
+    "correct_answer": "Assemblée",
+    "incorrect_answers": [
+      "Python",
+      "C#",
+      "Pascal",
+      "Assemblée"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Ada Lovelace est souvent considérée comme le premier programmeur informatique.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "DHCP représente le port de configuration dynamique de l'hôte.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel de ces commutateurs de clavier mécanique Cherry MX est à la fois tactile et clicky?",
+    "correct_answer": "Cerise MX Bleu",
+    "incorrect_answers": [
+      "Cerise MX Noir",
+      "Cerise MX Rouge",
+      "Cerise MX Brown",
+      "Cerise MX Bleu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel d'entre eux n'est pas une valeur clé du développement logiciel Agile?",
+    "correct_answer": "Documentation complète",
+    "incorrect_answers": [
+      "Personnes et interactions",
+      "Collaboration avec les clients",
+      "Répondre au changement",
+      "Documentation complète"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quand le service de streaming en ligne \"Mixer\" a-t-il été lancé?",
+    "correct_answer": "2016",
+    "incorrect_answers": [
+      "2013",
+      "2009",
+      "2011",
+      "2016"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Linux a d'abord été créé comme une alternative à Windows XP.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "\"HTML\" représente le langage de balisage hypertexte.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Selon DeMorgan's Theorem, l'expression booléenne (AB)' est équivalente à:",
+    "correct_answer": "A' + B'",
+    "incorrect_answers": [
+      "A'B + B'A",
+      "A'B'",
+      "AB' + AB",
+      "A' + B'"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel protocole Internet a été documenté dans RFC 1459?",
+    "correct_answer": "IRC",
+    "incorrect_answers": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "IRC"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Sur quel périphérique informatique se trouve la puce BIOS ?",
+    "correct_answer": "Carte mère",
+    "incorrect_answers": [
+      "Disque dur",
+      "Groupe central de traitement",
+      "Unité de traitement des graphiques",
+      "Carte mère"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Dans n'importe quel langage de programmation, quelle est la façon la plus courante d' itérer à travers un tableau?",
+    "correct_answer": "Lignes 'Pour '",
+    "incorrect_answers": [
+      "Déclarations 'If'",
+      "'Pendant le temps' boucles",
+      "'Pendant' boucles",
+      "Lignes 'Pour '"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Dans l'informatique, que représente MIDI ?",
+    "correct_answer": "Instrument de musique Interface numérique",
+    "incorrect_answers": [
+      "Interface musicale des instruments numériques",
+      "Interface modulaire des instruments numériques",
+      "Instrument de musique Interface de données",
+      "Instrument de musique Interface numérique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Qu'est-ce que le processeur principal est le Sega Mega Drive / Sega Genesis?",
+    "correct_answer": "Motorola 68000",
+    "incorrect_answers": [
+      "Zilog Z80",
+      "Yamaha YM2612",
+      "Intel 8088",
+      "Motorola 68000"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Qu'est-ce que le système international des quantités appelle 1024 octets?",
+    "correct_answer": "Kibioctet",
+    "incorrect_answers": [
+      "Kylooctet",
+      "Kilooctet",
+      "Kelooctet",
+      "Kibioctet"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Moore's loi a initialement déclaré que le nombre de transistors sur une puce de microprocesseur...",
+    "correct_answer": "Année",
+    "incorrect_answers": [
+      "Quatre ans",
+      "Deux ans",
+      "Huit ans",
+      "Année"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Que représente le 'S' dans l'algorithme de chiffrement RSA?",
+    "correct_answer": "Shamir",
+    "incorrect_answers": [
+      "Sécurisation",
+      "Scotky",
+      "Stable",
+      "Shamir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Combien Hz est-ce que la vidéo standard PAL prend en charge?",
+    "correct_answer": "50",
+    "incorrect_answers": [
+      "59",
+      "60",
+      "25",
+      "50"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Qui est l'auteur original du moteur physique en temps réel PhysX ?",
+    "correct_answer": "NovodeX",
+    "incorrect_answers": [
+      "Âge",
+      "Nvidia",
+      "AMD",
+      "NovodeX"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "L'architecture de Harvard pour les micro-contrôleurs a ajouté quel bus supplémentaire?",
+    "correct_answer": "Instruction",
+    "incorrect_answers": [
+      "Adresse",
+      "Données",
+      "Contrôle",
+      "Instruction"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quel est le format d'image le plus utilisé pour les logos dans la base de données Wikimedia ?",
+    "correct_answer": ".svg",
+    "incorrect_answers": [
+      ".png",
+      ".jpeg",
+      ".gif",
+      ".svg"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Lequel d'entre eux est un ordinateur personnel fabriqué par la société japonaise Fujitsu ?",
+    "correct_answer": "FM-7",
+    "incorrect_answers": [
+      "PC-9801",
+      "Xmillénium",
+      "MSX",
+      "FM-7"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel est le terme correct pour l'objet métallique entre le processeur et le ventilateur du processeur dans un système informatique?",
+    "correct_answer": "Évier thermique",
+    "incorrect_answers": [
+      "CPU Évent",
+      "Décipateur de température",
+      "Évent thermique",
+      "Évier thermique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Si vous deviez coder un logiciel dans cette langue, vous'd ne pouvez que taper 0's et 1's.",
+    "correct_answer": "Binaire",
+    "incorrect_answers": [
+      "JavaScript",
+      "C++",
+      "Python",
+      "Binaire"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le système d'exploitation Windows 7 a six éditions principales.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que représente le CPU ?",
+    "correct_answer": "Groupe central de traitement",
+    "incorrect_answers": [
+      "Groupe des processus centraux",
+      "Groupe des ordinateurs personnels",
+      "Processeur central Unité",
+      "Groupe central de traitement"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quel langage informatique associeriez-vous à Django ?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "C#",
+      "C++",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Ce système d'exploitation mobile détenait la plus grande part de marché en 2012.",
+    "correct_answer": "iOS",
+    "incorrect_answers": [
+      "Android",
+      "Noir",
+      "Symbien",
+      "iOS"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel des éléments suivants n'est PAS un algorithme informatique?",
+    "correct_answer": "Tri de flot",
+    "incorrect_answers": [
+      "Tri bulle",
+      "Fusionner",
+      "Tri rapide",
+      "Tri de flot"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Dans le web design, que représente CSS ?",
+    "correct_answer": "Feuille de style en cascade",
+    "incorrect_answers": [
+      "Contre-attaque : Source",
+      "Feuille de style correctif",
+      "Feuille de style informatique",
+      "Feuille de style en cascade"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Les pointeurs n'ont pas été utilisés dans l'original C langage de programmation; ils ont été ajoutés plus tard dans C++.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Dans le langage de programmation Java, lequel de ces mots clés metriez-vous sur une variable pour s'assurer qu'elle ne fait pas 't être modifiée?",
+    "correct_answer": "Finale",
+    "incorrect_answers": [
+      "Statique",
+      "Privé",
+      "Public",
+      "Finale"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "L'ordinateur Electron a été publié en Grande-Bretagne en 1983 pour le marché de l'informatique à domicile, par quelle société?",
+    "correct_answer": "Ordinateurs de maïs",
+    "incorrect_answers": [
+      "Recherche Sinclair",
+      "Amstrad PLC",
+      "Commodore Machines d'affaires",
+      "Ordinateurs de maïs"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Une valeur booléenne de \"0\" représente lequel de ces mots?",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quelle a été la première version Android spécifiquement optimisée pour les tablettes?",
+    "correct_answer": "Honeycomb",
+    "incorrect_answers": [
+      "Éclair",
+      "Froyo",
+      "Maréchal",
+      "Honeycomb"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Environ combien Apple I ordinateurs personnels ont été créés?",
+    "correct_answer": "200",
+    "incorrect_answers": [
+      "100",
+      "500",
+      "1 000",
+      "200"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel jour le World Wide Web est-il allé en ligne?",
+    "correct_answer": "20 décembre 1990",
+    "incorrect_answers": [
+      "17 décembre 1996",
+      "12 novembre 1990",
+      "24 novembre 1995",
+      "20 décembre 1990"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel est le nombre de clés sur un clavier Windows standard ?",
+    "correct_answer": "104",
+    "incorrect_answers": [
+      "64",
+      "94",
+      "76",
+      "104"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le NVidia GTX 1080 obtient son nom car il ne peut rendre qu'à une résolution d'écran 1920x1080.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quelle entreprise Internet a commencé à vivre comme une librairie en ligne appelée 'Cadabra'?",
+    "correct_answer": "Amazone",
+    "incorrect_answers": [
+      "e Baie",
+      "Surstock",
+      "Magasiner",
+      "Amazone"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quelle est la vitesse d'USB 3.1 Gen 2 théoriquement?",
+    "correct_answer": "10 Gb/s",
+    "incorrect_answers": [
+      "5 Gb/s",
+      "8 Gb/s",
+      "1 Gb/s",
+      "10 Gb/s"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "La norme HTML5 a été publiée en 2014.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel type de puce sonore le Super Nintendo Entertainment System (SNES) possède-t-il ?",
+    "correct_answer": "Échantillonneur ADPCM",
+    "incorrect_answers": [
+      "Synthétiseur FM",
+      "Générateur de son programmable (PSG)",
+      "PCM Échantillonneur",
+      "Échantillonneur ADPCM"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Dans l'industrie de l'hébergement de serveurs, IaaS représente...",
+    "correct_answer": "L'infrastructure comme service",
+    "incorrect_answers": [
+      "Internet comme service",
+      "Internet et un serveur",
+      "Infrastructure comme serveur",
+      "L'infrastructure comme service"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel était le nom de la vulnérabilité à la sécurité trouvée à Bash en 2014 ?",
+    "correct_answer": "Coque",
+    "incorrect_answers": [
+      "Saignement de cœur",
+      "Bashbug",
+      "Stagefright",
+      "Coque"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le premier PC IBM est sorti en 1981.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le langage de programmation Python reçoit son nom du groupe de comédie britannique \"Monty Python.\"",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Tous les programmes suivants sont classés comme éditeurs graphiques de raster EXCEPT:",
+    "correct_answer": "Encre",
+    "incorrect_answers": [
+      "Peinture.NET",
+      "GEMPS",
+      "Adobe Photoshop",
+      "Encre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Que représente le terme GPU ?",
+    "correct_answer": "Unité de traitement des graphiques",
+    "incorrect_answers": [
+      "Unité de processeur de jeu",
+      "Unité de production de graphite",
+      "Propriétaire graphique Unité",
+      "Unité de traitement des graphiques"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quel est le nom de Layer 7 du modèle OSI ?",
+    "correct_answer": "Demande",
+    "incorrect_answers": [
+      "Séance",
+      "Réseau",
+      "Présent",
+      "Demande"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel était le nom du Tor Anonymity Network?",
+    "correct_answer": "Le routeur à oignons",
+    "incorrect_answers": [
+      "Le seul routeur",
+      "Le Routeur Orange",
+      "Le Routeur Opineux",
+      "Le routeur à oignons"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Un Mac n'est pas un PC",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel type de tableau RAID est associé au miroir de données ?",
+    "correct_answer": "AIDE 1",
+    "incorrect_answers": [
+      "AIDE 0",
+      "AIDE 10",
+      "AIDE 5",
+      "AIDE 1"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Combien de kilooctets en un gigaoctet (en décimale)?",
+    "correct_answer": "1000000",
+    "incorrect_answers": [
+      "1024",
+      "1 000",
+      "1048576",
+      "1000000"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Qu'est-ce que RAID représente ?",
+    "correct_answer": "Tableau redondant des disques indépendants",
+    "incorrect_answers": [
+      "Accès rapide pour les appareils indexés",
+      "Gamme d'applications avec des dessins identiques",
+      "Description de l'identification sommaire randomisée",
+      "Tableau redondant des disques indépendants"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Combien de valeurs un seul octet peut-il représenter?",
+    "correct_answer": "256",
+    "incorrect_answers": [
+      "8",
+      "1",
+      "1024",
+      "256"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Linus Torvalds a créé Linux et Git.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quelle a été la première entreprise à utiliser le terme \"Golden Master\"?",
+    "correct_answer": "Pommes",
+    "incorrect_answers": [
+      "IBM",
+      "Microsoft",
+      "Google",
+      "Pommes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quelle langue de programmation partage son nom avec une île d'Indonésie ?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "Python",
+      "C",
+      "Jakarta",
+      "Java"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Laquelle des langues suivantes est utilisée comme langage de script dans le moteur de jeu Unity 3D ?",
+    "correct_answer": "C#",
+    "incorrect_answers": [
+      "Java",
+      "C++",
+      "Objectif-C",
+      "C#"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Dans la plupart des langages de programmation, l'opérateur ++ est équivalent à l'énoncé \"+= 1\".",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel des composants d'ordinateur suivants peut être construit en utilisant seulement des portes NAND?",
+    "correct_answer": "ALU",
+    "incorrect_answers": [
+      "CPU",
+      "RAM",
+      "Registre",
+      "ALU"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Whistler était le nom de code de ce système d'exploitation Microsoft.",
+    "correct_answer": "Windows XP",
+    "incorrect_answers": [
+      "Windows 2000",
+      "Windows 7",
+      "Windows 95",
+      "Windows XP"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quel est le nom de code pour le système d'exploitation mobile Android 7.0?",
+    "correct_answer": "Nougat",
+    "incorrect_answers": [
+      "Sandwich à la crème glacée",
+      "Jelly Bean",
+      "Marshmallow",
+      "Nougat"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel de ces noms était un nom de code réel pour un projet Microsoft annulé ?",
+    "correct_answer": "Neptune",
+    "incorrect_answers": [
+      "Encelade",
+      "Pollux",
+      "Saturne",
+      "Neptune"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Le domaine .fm est le domaine de premier niveau du code pays pour lequel la nation insulaire de l'océan Pacifique ?",
+    "correct_answer": "Micronésie",
+    "incorrect_answers": [
+      "Fidji",
+      "Tuvalu",
+      "Îles Marshall",
+      "Micronésie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Lequel de ces gens n'était PAS un fondateur d'Apple Inc?",
+    "correct_answer": "Jonathan Ive",
+    "incorrect_answers": [
+      "Steve Jobs",
+      "Ronald Wayne",
+      "Steve Wozniak",
+      "Jonathan Ive"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Tous les codes de programme doivent être compilés dans un fichier exécutable pour être exécutés. Ce fichier peut ensuite être exécuté sur n'importe quelle machine.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Généralement, quel composant d'un ordinateur tire le plus de puissance?",
+    "correct_answer": "Carte vidéo",
+    "incorrect_answers": [
+      "Disque dur",
+      "Processeur",
+      "Alimentation électrique",
+      "Carte vidéo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Que représente le terme MIME en ce qui concerne l'informatique?",
+    "correct_answer": "Extensions de courrier Internet polyvalentes",
+    "incorrect_answers": [
+      "Courriel Internet Échange de courrier",
+      "Feuilles multiples Échange de courrier",
+      "Entre parenthèses Échange de méthodes",
+      "Extensions de courrier Internet polyvalentes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel est le nom du processus qui envoie un qubit d'information en utilisant deux bits d'information classique?",
+    "correct_answer": "Téléportation quantique",
+    "incorrect_answers": [
+      "Codage super dense",
+      "Enveloppe quantique",
+      "Programmation quantique",
+      "Téléportation quantique"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "La série 'Raspberry Pi' d'ordinateurs à une seule carte a été créée aux États-Unis.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quel mot clé SQL est utilisé pour récupérer les données d'une base de données ?",
+    "correct_answer": "SÉLECTIONNER",
+    "incorrect_answers": [
+      "INDEX",
+      "VALEURS",
+      "EXEC",
+      "SÉLECTIONNER"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "RAM représente la mémoire d'accès aléatoire.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Selon le Système international d'unités, combien d'octets sont dans un kilooctet de RAM?",
+    "correct_answer": "1 000",
+    "incorrect_answers": [
+      "512",
+      "1024",
+      "500",
+      "1 000"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que représente l'acronyme JVM ?",
+    "correct_answer": "Java Virtual Machine",
+    "incorrect_answers": [
+      "Fournisseur Java Machine",
+      "Appareil visuel Java",
+      "Juste une machine virtuelle",
+      "Java Virtual Machine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "En HTML, quelle balise non standard était utilisée pour faire défiler les éléments sur le port de vue?",
+    "correct_answer": "et de la marque;",
+    "incorrect_answers": [
+      "etlt; scroll></ scroll>",
+      "etlt; move></move>",
+      "etlt;slide></slide>",
+      "et de la marque;"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": ".at est le domaine de premier niveau pour quel pays ?",
+    "correct_answer": "Autriche",
+    "incorrect_answers": [
+      "Argentine",
+      "Australie",
+      "Angola",
+      "Autriche"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "La théière souvent vue dans de nombreuses applications de modélisation 3D s'appelle quoi ?",
+    "correct_answer": "Théière Utah",
+    "incorrect_answers": [
+      "Théière Pixar",
+      "Théière 3D",
+      "Théière Tennessee",
+      "Théière Utah"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Dans le langage de programmation \"Python\", lequel de ces énoncés afficherait la chaîne \"Hello World\" correctement?",
+    "correct_answer": "imprimer(\"Hello World\")",
+    "incorrect_answers": [
+      "console.log(\"Hello World\")",
+      "echo \"Hello World\"",
+      "printf(\"Hello World\")",
+      "imprimer(\"Hello World\")"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Dans la programmation, l'opérateur ternaire est principalement défini avec quel(s) symbole(s)?",
+    "correct_answer": "? :",
+    "incorrect_answers": [
+      "?",
+      "si alors",
+      "?",
+      "? :"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Qui a inventé le protocole \"Spanning Tree \"?",
+    "correct_answer": "Radia Perlman",
+    "incorrect_answers": [
+      "Paul Vixie",
+      "Vintre Cerf",
+      "Michael Roberts",
+      "Radia Perlman"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le système de numérotation avec un radix de 16 est plus communément appelé",
+    "correct_answer": "Hexidécimal",
+    "incorrect_answers": [
+      "Binaire",
+      "Duodécimal",
+      "Octal",
+      "Hexidécimal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "L'acronyme \"RIP\" représente lequel d'entre eux?",
+    "correct_answer": "Protocole d'information sur l'acheminement",
+    "incorrect_answers": [
+      "Processus d'instance en cours d'exécution",
+      "Procédés d'intervalle réguliers",
+      "Protocole d ' inspection de routine",
+      "Protocole d'information sur l'acheminement"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Le programme open source Redis est un serveur de base de données relationnelle.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quelle est la langue utilisée par Node.js?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "Java",
+      "Source Java",
+      "Code source Joomla",
+      "JavaScript"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Alors que Apple a été formé en Californie, dans quel État occidental a été fondé Microsoft?",
+    "correct_answer": "Nouveau-Mexique",
+    "incorrect_answers": [
+      "Washington",
+      "Colorado",
+      "Arizona",
+      "Nouveau-Mexique"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Le tout premier ordinateur enregistré \"bug\" était un papillon de nuit trouvé dans un ordinateur de Harvard Mark II.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Unix Time est défini comme le nombre de secondes qui se sont écoulées depuis quand?",
+    "correct_answer": "Minuit, 1er janvier 1970",
+    "incorrect_answers": [
+      "Minuit, 4 juillet 1976",
+      "Minuit sur le créateur d'Unix's anniversaire",
+      "Minuit, 4 juillet 1980",
+      "Minuit, 1er janvier 1970"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Lequel d'entre eux n'est pas un nom officiel de développement pour une sortie Ubuntu ?",
+    "correct_answer": "Mansion mystique",
+    "incorrect_answers": [
+      "Confiance Tahr",
+      "Licorne utopique",
+      "Le loup-garou",
+      "Mansion mystique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que signifie GHz?",
+    "correct_answer": "Gigahertz",
+    "incorrect_answers": [
+      "Gigahotz",
+      "Gigahetz",
+      "Gigahatz",
+      "Gigahertz"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le système d'exploitation Windows ME a été publié en l'an 2000.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le langage de programmation \"Python\" est basé sur une version modifiée de \"JavaScript\".",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel est le nom donné à Android 4.3 ?",
+    "correct_answer": "Jelly Bean",
+    "incorrect_answers": [
+      "Lollipop",
+      "Nutella",
+      "Froyo",
+      "Jelly Bean"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "À quelle structure de données la FILO s'applique-t-elle?",
+    "correct_answer": "Stack",
+    "incorrect_answers": [
+      "Demande",
+      "Taille",
+      "Arbre",
+      "Stack"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quel langage de programmation a été développé par Sun Microsystems en 1995?",
+    "correct_answer": "Java",
+    "incorrect_answers": [
+      "Python",
+      "Solaris OS",
+      "C++",
+      "Java"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "AMD a créé le premier processeur 64 bits consommateur.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "L'ordinateur fabricant OEM Clevo, connu pour son Sager ligne portable, est basé dans quel pays?",
+    "correct_answer": "Taïwan",
+    "incorrect_answers": [
+      "États-Unis",
+      "Allemagne",
+      "Chine (People' République de)",
+      "Taïwan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Combien de bits composent la partie significative d'un seul numéro de point flottant de précision?",
+    "correct_answer": "23",
+    "incorrect_answers": [
+      "8",
+      "53",
+      "15",
+      "23"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Le logo pour Snapchat est un Bell.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "L'acronyme commun de programmation de logiciels \"I18N\" provient du terme \"Interlocalisation\".",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quelle est la devise de la société IBM Computer ?",
+    "correct_answer": "Réfléchis",
+    "incorrect_answers": [
+      "Cliquez sur",
+      "Logique",
+      "Pixel",
+      "Réfléchis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel de ces ordinateurs est le plus ancien par date de sortie?",
+    "correct_answer": "TRS-80",
+    "incorrect_answers": [
+      "Commodore 64",
+      "Spectre ZX",
+      "Pommes 3",
+      "TRS-80"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Laquelle des typologies physiques suivantes est utilisée avec Ethernet Networks?",
+    "correct_answer": "Étoile",
+    "incorrect_answers": [
+      "Anneau",
+      "Mesh",
+      "Hex",
+      "Étoile"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quelle quantité de bits équivaut généralement à un octet?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "64",
+      "8"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Quelle était la limite de taille des blocs Bitcoin's en 2010?",
+    "correct_answer": "1 MB",
+    "incorrect_answers": [
+      "1 GO",
+      "1 KB",
+      "1 TB",
+      "1 MB"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Qui est le fondateur de Palantir ?",
+    "correct_answer": "Pierre Thiel",
+    "incorrect_answers": [
+      "Mark Zuckerberg",
+      "Marc Benioff",
+      "Jack Dorsey",
+      "Pierre Thiel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quel est le nom de domaine du pays Tuvalu ?",
+    "correct_answer": ".tv",
+    "incorrect_answers": [
+      ".tu",
+      ".tt",
+      ".tl",
+      ".tv"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Pour contourner les lois américaines sur l'exportation de munitions, le créateur du PGP a publié tout le code source sous forme de livre.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel d'entre eux n'est pas une couche dans le modèle OSI pour les communications de données?",
+    "correct_answer": "Couche de connexion",
+    "incorrect_answers": [
+      "Couche d'application",
+      "Couche de transport",
+      "Couche physique",
+      "Couche de connexion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Spécialiste néerlandais de l'informatique Marquer Overmars est connu pour créer quel moteur de développement de jeu?",
+    "correct_answer": "Créateur de jeux",
+    "incorrect_answers": [
+      "Exercice",
+      "Construction",
+      "Couple 2D",
+      "Créateur de jeux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Lequel était le nom d'un bug trouvé en avril 2014 dans la bibliothèque de cryptographie OpenSSL accessible au public ?",
+    "correct_answer": "Saignement de cœur",
+    "incorrect_answers": [
+      "Coque",
+      "Sang corrompu",
+      "Shellscript",
+      "Saignement de cœur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel langage de programmation majeur utilise Unreal Engine 4 ?",
+    "correct_answer": "C++",
+    "incorrect_answers": [
+      "Assemblée",
+      "C#",
+      "ECMAScript",
+      "C++"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Quel appareil informatique fournit une interface pour tous les autres appareils connectés à communiquer?",
+    "correct_answer": "Carte mère",
+    "incorrect_answers": [
+      "Groupe central de traitement",
+      "Disque dur",
+      "Mémoire d'accès aléatoire",
+      "Carte mère"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Quel est le nom de code de la micro-architecture Intel Core de huitième génération lancée en octobre 2017 ?",
+    "correct_answer": "Lac du café",
+    "incorrect_answers": [
+      "Pont Sandy",
+      "Skylake",
+      "Broadwell",
+      "Lac du café"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Utilisé à l'origine dans les adaptateurs PCM, quelle est la fréquence standard pour l'échantillonnage audio au format Compact Disc Digital Audio ?",
+    "correct_answer": "44,1 kHz",
+    "incorrect_answers": [
+      "32,0 kHz",
+      "1,5 MHz",
+      "20,5 kHz",
+      "44,1 kHz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Combien de cœurs le Intel i7-6950X possède-t-il ?",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "12",
+      "8",
+      "4",
+      "10"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "FLAC représente \"Free Lossless Condenseur audio; et#039;",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "HTML est quel type de langue?",
+    "correct_answer": "Langue de marquage",
+    "incorrect_answers": [
+      "Langue macro",
+      "Langue de programmation",
+      "Langue de script",
+      "Langue de marquage"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "JavaScript dérive d'une version ultérieure de Java",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Combien d'octets sont dans un seul Kibibyte ?",
+    "correct_answer": "1024",
+    "incorrect_answers": [
+      "2400",
+      "1 000",
+      "1240",
+      "1024"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "Que fait le bouton Prt Sc?",
+    "correct_answer": "Capture ce que 's à l'écran et le copie dans votre presse-papiers",
+    "incorrect_answers": [
+      "Rien",
+      "Enregistre un fichier .png de what's à l'écran dans votre dossier screenshots en photos",
+      "Ferme toutes les fenêtres",
+      "Capture ce que 's à l'écran et le copie dans votre presse-papiers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "Publié en 2001, la première édition d'Apple's système d'exploitation Mac OS X (version 10.0) a été donné quel nom de code animal?",
+    "correct_answer": "Santé",
+    "incorrect_answers": [
+      "Puma",
+      "Tigre",
+      "Léopard",
+      "Santé"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Computers",
+    "question": "America Online (AOL) a commencé comme lequel de ces fournisseurs de services en ligne?",
+    "correct_answer": "Lien quantique",
+    "incorrect_answers": [
+      "CompuServe",
+      "Prodige",
+      "GÉNIE",
+      "Lien quantique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "En informatique, qu'est-ce que LAN représente ?",
+    "correct_answer": "Réseau local",
+    "incorrect_answers": [
+      "Long nœud d'antenne",
+      "Noeud d'accès léger",
+      "Navigation des adresses terrestres",
+      "Réseau local"
+    ]
+  }
+]

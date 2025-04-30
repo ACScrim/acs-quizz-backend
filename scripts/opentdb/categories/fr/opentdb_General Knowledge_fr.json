@@ -1,0 +1,4593 @@
+[
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Coca-Cola' la couleur originale était verte.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel signe zodiaque est représenté par une paire d'écailles?",
+    "correct_answer": "Balance",
+    "incorrect_answers": [
+      "Bélier",
+      "Capricorne",
+      "Sagittaire",
+      "Balance"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quand la Déclaration d'indépendance a-t-elle été approuvée par le deuxième Congrès continental?",
+    "correct_answer": "4 juillet 1776",
+    "incorrect_answers": [
+      "4 mai 1776",
+      "4 juin 1776",
+      "2 juillet 1776",
+      "4 juillet 1776"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel jouet le plus vendu de 1983 a causé une hystérie, entraînant des émeutes dans les magasins ?",
+    "correct_answer": "Lot de choux Enfants",
+    "incorrect_answers": [
+      "Transformateurs",
+      "Les ours aidants",
+      "Rubik’ Cube",
+      "Lot de choux Enfants"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Lors d'un entretien avec CBS en 1994, le co-fondateur de Microsoft, Bill Gates, a réalisé ce truc inhabituel sur la caméra ?",
+    "correct_answer": "Sauter sur une chaise de bureau",
+    "incorrect_answers": [
+      "Saut en arrière sur un bureau",
+      "Sur sa tête",
+      "Dactylographie sur un clavier pendant une tribune",
+      "Sauter sur une chaise de bureau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Laquelle des langues suivantes ne fait PAS partie de sa grammaire?",
+    "correct_answer": "Turquie",
+    "incorrect_answers": [
+      "Allemand",
+      "Danois",
+      "Polonais",
+      "Turquie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Cofondateur Apple Steve Jobs est mort de complications de quelle forme de cancer ?",
+    "correct_answer": "Pancréatique",
+    "incorrect_answers": [
+      "Os",
+      "Foie",
+      "Estomac",
+      "Pancréatique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans la demi-vie, quel est le nom de l'étranger qui s'attache aux têtes?",
+    "correct_answer": "Gratte-tête",
+    "incorrect_answers": [
+      "Taureau",
+      "Vortigaunt",
+      "Visage",
+      "Gratte-tête"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel slogan la société de restauration rapide, McDonald's, a-t-elle utilisé avant leur slogan?",
+    "correct_answer": "Nous aimons vous voir sourire",
+    "incorrect_answers": [
+      "Pourquoi payer plus!?",
+      "A votre façon",
+      "Rendre les gens heureux grâce à la nourriture",
+      "Nous aimons vous voir sourire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Macintosh a nommé six de ses systèmes d'exploitation après les gros chats. Quel grand chat Macintosh a nommé leur sortie 2007 après ?",
+    "correct_answer": "Léopard",
+    "incorrect_answers": [
+      "Tigre",
+      "Panthère",
+      "Puma",
+      "Léopard"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans \"Katamari Damacy\", vous contrôlez un personnage appelé:",
+    "correct_answer": "Le Prince",
+    "incorrect_answers": [
+      "Fujio",
+      "Ichigo",
+      "Foomin",
+      "Le Prince"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Haggis est traditionnellement mangé le soir de Burns.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel signe du zodiaque vient entre Virgo et Scorpion ?",
+    "correct_answer": "Balance",
+    "incorrect_answers": [
+      "Gémeaux",
+      "Taureau",
+      "Capricorne",
+      "Balance"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "\"a;27 Club\" est un terme utilisé pour désigner une liste d'acteurs, de musiciens et d'artistes célèbres qui sont morts à l'âge de 27 ans.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est l'unité de monnaie au Laos?",
+    "correct_answer": "Kip",
+    "incorrect_answers": [
+      "Rouble",
+      "Konra",
+      "Dollar",
+      "Kip"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Site web de streaming vidéo YouTube a été acheté en elle's complet par Facebook pour $1,65 milliards en stock.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle brasserie américaine a mené le pays en ventes en volume en 2015 ?",
+    "correct_answer": "D. G. Yuengling et Son, Inc",
+    "incorrect_answers": [
+      "Anheuser Busch",
+      "Boston Beer Company",
+      "Miller Coors",
+      "D. G. Yuengling et Son, Inc"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le mot italien pour \"tomato\"?",
+    "correct_answer": "Pomodoro",
+    "incorrect_answers": [
+      "Aglio",
+      "Cipolla",
+      "Peperoncino",
+      "Pomodoro"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le cartel de la drogue dirigé par Pablo Escobar est originaire de quelle ville sud-américaine ?",
+    "correct_answer": "La mention «Médellí»",
+    "incorrect_answers": [
+      "- Bogotá",
+      "Quito",
+      "Cali",
+      "La mention «Médellí»"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "A qui est le visage à l'échelle grise sur l'émotique kappa sur Twitch ?",
+    "correct_answer": "Josh DeSeno",
+    "incorrect_answers": [
+      "Justin DeSeno",
+      "John DeSeno",
+      "Jimmy DeSeno",
+      "Josh DeSeno"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Comment la Banque d'Amérique a-t-elle été créée à l'origine?",
+    "correct_answer": "Banque d'Italie",
+    "incorrect_answers": [
+      "Banque de Long Island",
+      "Banque de Pennsylvanie",
+      "Banque de Charlotte",
+      "Banque d'Italie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La ressemblance de quel président figure sur la rare facture de 2 $ de la monnaie américaine ?",
+    "correct_answer": "Thomas Jefferson",
+    "incorrect_answers": [
+      "Martin Van Buren",
+      "Ulysse Grant",
+      "John Quincy Adams",
+      "Thomas Jefferson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel canal relie la mer Méditerranée à la mer Rouge ?",
+    "correct_answer": "Canal de Suez",
+    "incorrect_answers": [
+      "Canal de Panama",
+      "Canal du Sinaï",
+      "Canal de Qaraqum",
+      "Canal de Suez"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel condiment essentiel est aussi connu sous le nom de raifort japonais?",
+    "correct_answer": "Wasabi",
+    "incorrect_answers": [
+      "Mentsuyu",
+      "Karashi",
+      "Ponzu",
+      "Wasabi"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans la langue anglaise, quel est le nom du caractère \"&\"?",
+    "correct_answer": "Ampersand",
+    "incorrect_answers": [
+      "Huit coups",
+      "Et signez",
+      "Obélis",
+      "Ampersand"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Laquelle des universités Ivy League suivantes a sa devise officielle en hébreu et en latin?",
+    "correct_answer": "Université de Yale",
+    "incorrect_answers": [
+      "Université de Princeton",
+      "Université Harvard",
+      "Université Columbia",
+      "Université de Yale"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Laquelle d'entre elles n'est pas typique de la conception européenne de l'épée?",
+    "correct_answer": "Scimitar",
+    "incorrect_answers": [
+      "Falchion",
+      "Ulfberht",
+      "Inflammation",
+      "Scimitar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La médaille Fields, l'une des récompenses les plus recherchées en mathématiques, est décernée tous les combien d'années?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "La théorie des spons est une théorie, utilisant \"Spoons\" comme métaphore de l'énergie qu'ils peuvent utiliser en un jour.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est la dernière lettre de l'alphabet grec ?",
+    "correct_answer": "Oméga",
+    "incorrect_answers": [
+      "Mu",
+      "Epsilon",
+      "Kappa",
+      "Oméga"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle est la plus grande espèce vivante de pingouins?",
+    "correct_answer": "Empereur",
+    "incorrect_answers": [
+      "Roi",
+      "Nom de Dieu",
+      "Adèle",
+      "Empereur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Entreprise de réalité virtuelle Oculus VR a perdu lequel d'entre eux ' est co-fondateur dans un accident de voiture bizarre en 2013?",
+    "correct_answer": "Andrew Scott Reisse",
+    "incorrect_answers": [
+      "Nate Mitchell",
+      "Jack McCauley",
+      "Palmer Luckey",
+      "Andrew Scott Reisse"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel des jeux de rythme suivants a été fait par Harmonix ?",
+    "correct_answer": "Bande de rock",
+    "incorrect_answers": [
+      "Viande Beat Mania",
+      "Guitare Hero Live",
+      "Révolution de danse",
+      "Bande de rock"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Parmi les mois suivants, qui a le plus de jours?",
+    "correct_answer": "Décembre",
+    "incorrect_answers": [
+      "Avril",
+      "Septembre",
+      "Novembre",
+      "Décembre"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La purée instantanée de pommes de terre a été inventée par le Canadien Edward Asselbergs en 1962.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le titre complet du Premier ministre du Royaume-Uni?",
+    "correct_answer": "Premier Seigneur du Trésor",
+    "incorrect_answers": [
+      "Duc de Cambridge",
+      "Sa Majesté et #039; opposition loyal",
+      "Gestionnaire de la succession de la Couronne",
+      "Premier Seigneur du Trésor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qui a joué le général Aladeen dans The Dictator ?",
+    "correct_answer": "Sacha Baron Cohen",
+    "incorrect_answers": [
+      "Johnny Depp",
+      "James Franco",
+      "Leonardo Dicaprio",
+      "Sacha Baron Cohen"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La vapeur produite par les cigarettes électroniques est en fait de l'eau.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce qu'un milliner fabrique et vend ?",
+    "correct_answer": "Chapeaux",
+    "incorrect_answers": [
+      "Chaussures",
+      "Ceintures",
+      "Chemises",
+      "Chapeaux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Virgin Trains, Virgin Atlantic et Virgin Racing sont toutes des entreprises appartenant à quel célèbre entrepreneur ?",
+    "correct_answer": "Richard Branson",
+    "incorrect_answers": [
+      "Alan Sucre",
+      "Donald Trump",
+      "Bill Gates",
+      "Richard Branson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Lequel des Monarques britanniques suivants n'est jamais apparu sur une pièce en livre sterling circulée?",
+    "correct_answer": "Édouard VIII",
+    "incorrect_answers": [
+      "Victoria",
+      "George VI",
+      "Charles II",
+      "Édouard VIII"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "L'animal national d'Écosse est la Licorne.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "King Gizzard & The Lizard Wizard's album \"Nonagon Infinity\" peut être mis en boucle de façon transparente.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qui est considéré comme le père de la philosophie moderne?",
+    "correct_answer": "René Descartes",
+    "incorrect_answers": [
+      "Platon",
+      "Albert Einstein",
+      "Antoine Lavoisser",
+      "René Descartes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Si vous êtes pris \"Goldbricking\", que faites-vous de mal?",
+    "correct_answer": "Échec",
+    "incorrect_answers": [
+      "Fumer",
+      "Vols",
+      "Déchire",
+      "Échec"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Est-ce que Michael Jackson a inventé la marche de la lune ?",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Sur un tableau de bord, quel numéro est directement en face du numéro 1?",
+    "correct_answer": "19",
+    "incorrect_answers": [
+      "20",
+      "12",
+      "15",
+      "19"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle mitrailleuse américaine fabriquée était officieusement connue par les soldats américains qui l'utilisaient comme arme à sous-munitions?",
+    "correct_answer": "M3",
+    "incorrect_answers": [
+      "Colt 9mm",
+      "Annexe",
+      "MAC-10",
+      "M3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Lequel d'entre eux est le nom d'un système japonais de médecine alternative, qui signifie littéralement \"finger pressure\"?",
+    "correct_answer": "Chiatsu",
+    "incorrect_answers": [
+      "Ukiyo",
+      "Majime",
+      "Ikigai",
+      "Chiatsu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "D'où viennent les bouteilles d'eau de source de Pologne ?",
+    "correct_answer": "Maine, États-Unis",
+    "incorrect_answers": [
+      "Hesse, Allemagne",
+      "Masovia, Pologne",
+      "Bavière, Pologne",
+      "Maine, États-Unis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Laquelle des céréales monstres de la General Mills Corporation a été la dernière à être libérée dans les années 1970?",
+    "correct_answer": "Brute de fruits",
+    "incorrect_answers": [
+      "Comte Chocula",
+      "Franken Berry",
+      "Boo-Berry",
+      "Brute de fruits"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "D'où provenait l'ananas ?",
+    "correct_answer": "Amérique du Sud",
+    "incorrect_answers": [
+      "Hawaii",
+      "Europe",
+      "Asie",
+      "Amérique du Sud"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quand vous pleurez dans l'espace, vos larmes vous collent au visage.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le terme \"scientifiques\" a été inventé en quelle année?",
+    "correct_answer": "1833",
+    "incorrect_answers": [
+      "1933",
+      "1942",
+      "1796",
+      "1833"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Disney's Haunted Mansion abrite un trio de Hitchhiking Ghosts. Lequel d'entre eux n'est PAS l'un d'entre eux?",
+    "correct_answer": "Harry",
+    "incorrect_answers": [
+      "Gus",
+      "Phinées",
+      "Ezra",
+      "Harry"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quand la Playstation 3 a-t-elle été libérée ?",
+    "correct_answer": "Le 11 novembre 2006",
+    "incorrect_answers": [
+      "8 janvier 2007",
+      "25 décembre 2007",
+      "16 juillet 2006",
+      "Le 11 novembre 2006"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel musicien a collaboré avec le producteur américain Porter Robinson et a publié la chanson 2016 \"Shelter\"?",
+    "correct_answer": "Fait",
+    "incorrect_answers": [
+      "Mat Zo",
+      "deadmau5",
+      "Zedd",
+      "Fait"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Dans un jeu de cartes standard, qui est le seul roi sans moustache ?",
+    "correct_answer": "Coeurs",
+    "incorrect_answers": [
+      "Pâtes",
+      "Diamants",
+      "Clubs",
+      "Coeurs"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle langue n'est pas indo-européenne?",
+    "correct_answer": "Hongrois",
+    "incorrect_answers": [
+      "Russe",
+      "Grèce",
+      "Lettonie",
+      "Hongrois"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel type d'avion a été développé par Igor Sikorsky aux États-Unis en 1942 ?",
+    "correct_answer": "Hélicoptère",
+    "incorrect_answers": [
+      "Vols Blimp",
+      "Jet",
+      "Capsule spatiale",
+      "Hélicoptère"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est la direction de la Statue de la Liberté ?",
+    "correct_answer": "Sud-est",
+    "incorrect_answers": [
+      "Sud-ouest",
+      "Nord-Ouest",
+      "Nord-est",
+      "Sud-est"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle chaîne de restauration rapide a le plus d'emplacements à l'échelle mondiale?",
+    "correct_answer": "Métro",
+    "incorrect_answers": [
+      "Les étoilés",
+      "McDonalds",
+      "KFC",
+      "Métro"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le monoxyde de dihydrogène est un produit chimique dangereux.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel restaurant est un clown ?",
+    "correct_answer": "C'est-à-dire :",
+    "incorrect_answers": [
+      "Whataburger",
+      "Burger King",
+      "Sonique",
+      "C'est-à-dire :"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Où se trouve le siège social d'Apple Inc.?",
+    "correct_answer": "Cupertino, Californie",
+    "incorrect_answers": [
+      "Redwood City, Californie",
+      "Redmond, Washington",
+      "Santa Monica, CA",
+      "Cupertino, Californie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Lequel de ces Nicktoons n'était PAS à l'origine un court sur Oh Yeah! Des dessins animés avant de devenir leur propre série ?",
+    "correct_answer": "Danny Phantom",
+    "incorrect_answers": [
+      "Zone Chalk",
+      "Ma vie de robot adolescent",
+      "Les justes parents",
+      "Danny Phantom"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel pays, y compris le Japon, compte le plus de Japonais?",
+    "correct_answer": "Brésil",
+    "incorrect_answers": [
+      "Chine",
+      "Corée du Sud",
+      "États-Unis d ' Amérique",
+      "Brésil"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "L'Écosse a voté pour devenir un pays indépendant lors du référendum de septembre 2014.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Jingle Bells était initialement destiné à Thanksgiving",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Laquelle de ces banques n'est PAS autorisée à émettre des billets en devises à Hong Kong?",
+    "correct_answer": "OCBC",
+    "incorrect_answers": [
+      "HSBC",
+      "Norme agréée",
+      "Banque de Chine",
+      "OCBC"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Si vous plantez les graines de Quercus Robur, qu'est-ce qui pousserait ?",
+    "correct_answer": "Arbres",
+    "incorrect_answers": [
+      "Grains",
+      "Légumes",
+      "Fleurs",
+      "Arbres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Qui a inventé le pastafarisme ?",
+    "correct_answer": "Bobby Henderson",
+    "incorrect_answers": [
+      "Eric Tignor",
+      "Projet de loi Nye",
+      "Zach Soldi",
+      "Bobby Henderson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle est la taille du Burj Khalifa ?",
+    "correct_answer": "2 722 ft",
+    "incorrect_answers": [
+      "2717 pieds",
+      "2,546 ft",
+      "3 024 pieds",
+      "2 722 ft"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Fabricant d'ordinateurs Compaq a été acheté pour 25 milliards de dollars en 2002 par quelle entreprise?",
+    "correct_answer": "Hewlett-Packard",
+    "incorrect_answers": [
+      "Toshiba",
+      "Asus",
+      "Dell",
+      "Hewlett-Packard"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Selon le Bureau australien de statistique 2014-2015, quel pourcentage d'Australiens sont nés à l'étranger?",
+    "correct_answer": "28%",
+    "incorrect_answers": [
+      "13%",
+      "20%",
+      "7%",
+      "28%"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Que représentent les lettres de la chaîne de restauration rapide KFC?",
+    "correct_answer": "Poulet frit du Kentucky",
+    "incorrect_answers": [
+      "Fromage frais du Kentucky",
+      "Vache kiblée",
+      "Aliments Kiwi coupés",
+      "Poulet frit du Kentucky"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quelle est la vitesse d'un hirondelle à vide?",
+    "correct_answer": "24 MPH",
+    "incorrect_answers": [
+      "15 MPH",
+      "20 MPH",
+      "200 MPH",
+      "24 MPH"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Combien de temps a-t-il fallu aux rondelles motorisées du World Trade Center pour nettoyer tout l'extérieur du bâtiment?",
+    "correct_answer": "1 mois",
+    "incorrect_answers": [
+      "3 semaines",
+      "1 semaine",
+      "2 mois",
+      "1 mois"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quand \"YouTube\" a-t-il été fondé?",
+    "correct_answer": "14 février 2005",
+    "incorrect_answers": [
+      "22 mai 2004",
+      "12 septembre 2005",
+      "19 juillet 2009",
+      "14 février 2005"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Qui a fondé l'Académie Khan ?",
+    "correct_answer": "Sal Khan",
+    "incorrect_answers": [
+      "Ben Khan",
+      "Kitt Khan",
+      "Adel Khan",
+      "Sal Khan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel est le poids d'une barre d'or à Fallout: New Vegas?",
+    "correct_answer": "35 livres",
+    "incorrect_answers": [
+      "30 livres",
+      "40 livres",
+      "32,50 Livres",
+      "35 livres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "En aérodynamique, quelle force pousse un objet vers le haut ?",
+    "correct_answer": "Soulève",
+    "incorrect_answers": [
+      "Faites glisser",
+      "Poids",
+      "Poussière",
+      "Soulève"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "L'architecte connu sous le nom de Le Corbusier était une figure importante dans quel style d'architecture ?",
+    "correct_answer": "Modernisme",
+    "incorrect_answers": [
+      "Néoclassique",
+      "Baroque",
+      "Renouveau gothique",
+      "Modernisme"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Un crayon et #039; le plomb est généralement fait de graphite, pas de plomb",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Dans la Grèce antique, si votre travail était un \"hippeus\" lequel de ceux-ci posséderiez-vous?",
+    "correct_answer": "Chevaux",
+    "incorrect_answers": [
+      "Poids",
+      "Guitare",
+      "Bateau",
+      "Chevaux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Combien de calories sont dans une boîte de 355 ml de Pepsi Cola?",
+    "correct_answer": "150",
+    "incorrect_answers": [
+      "200",
+      "100",
+      "155",
+      "150"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel élément de machine est situé au centre des spinners fidget?",
+    "correct_answer": "Roulements",
+    "incorrect_answers": [
+      "Essieux",
+      "Équipement",
+      "Ceintures",
+      "Roulements"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce que la communauté autonome espagnole de Catalogne a interdit en 2010, qui est entrée en vigueur en 2012 ?",
+    "correct_answer": "Lutte contre la bourde",
+    "incorrect_answers": [
+      "Fêtes",
+      "Flamenco",
+      "Mariachi",
+      "Lutte contre la bourde"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans l'architecture, un \"pecklesteiner\" est un ensemble de portes qui se chevauchent lorsqu'elles sont fermées et qui peuvent être verrouillées par un seul trou.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le nom de l'accompagnateur de poisson chantant animonique populaire, en chantant de tels succès comme \"Don't Worry, Be Happy\"?",
+    "correct_answer": "Grande bouche Billy Bass",
+    "incorrect_answers": [
+      "Gros Billy Bass",
+      "Poissons chanteurs",
+      "Sardeen",
+      "Grande bouche Billy Bass"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "SCP-173 a été le premier article de SCP rédigé pour le projet de fiction collaborative sur le Web connu sous le nom de Fondation \"SCP;",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le mot allemand pour \"spoon\"?",
+    "correct_answer": "Löffel",
+    "incorrect_answers": [
+      "Gabel",
+      "Messer",
+      "Essstä bchen",
+      "Löffel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Lequel des éléments suivants est une famille existante dans \"The Sims\"?",
+    "correct_answer": "La famille Goth",
+    "incorrect_answers": [
+      "La famille",
+      "La famille Simoleon",
+      "La famille fière",
+      "La famille Goth"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle boisson alcoolique est principalement faite à partir de baies de genièvre?",
+    "correct_answer": "Gin",
+    "incorrect_answers": [
+      "Vodka",
+      "Rhum",
+      "Tequila",
+      "Gin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel de ces mots fait référence à quelque chose fabriqué, distribué ou vendu illégalement?",
+    "correct_answer": "Bouton",
+    "incorrect_answers": [
+      "Bootnoir",
+      "Le lacet",
+      "Pistolet",
+      "Bouton"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Adolf Hitler est né en Australie.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quand le site web \"Facebook\" a-t-il été lancé?",
+    "correct_answer": "2004",
+    "incorrect_answers": [
+      "2005",
+      "2003",
+      "2006",
+      "2004"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel était le propriétaire de l'avion qui s'est écrasé au large des côtes de la Nouvelle-Écosse en 1998?",
+    "correct_answer": "Swiss Air",
+    "incorrect_answers": [
+      "Air France",
+      "British Airways",
+      "TWA",
+      "Swiss Air"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Linus Pauling, l'un des seuls lauréats de plusieurs prix Nobel, a remporté ses prix Nobel de chimie et quoi ?",
+    "correct_answer": "Paix",
+    "incorrect_answers": [
+      "Physique",
+      "Économie",
+      "Physiologie/médicine",
+      "Paix"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel est le nom le plus couramment utilisé en anglais?",
+    "correct_answer": "Heure",
+    "incorrect_answers": [
+      "Sommaire",
+      "Eau",
+      "Homme",
+      "Heure"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans le passé, qu'est-ce qu'un gentleman garderait dans sa poche ?",
+    "correct_answer": "Regarder",
+    "incorrect_answers": [
+      "Monnaie",
+      "Clés",
+      "Cahier",
+      "Regarder"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce que VR représente ?",
+    "correct_answer": "Réalité virtuelle",
+    "incorrect_answers": [
+      "Très réel",
+      "Reconnaissance visuelle",
+      "Reconnaissance vocale",
+      "Réalité virtuelle"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le premier livre de l'Ancien Testament?",
+    "correct_answer": "Genèse",
+    "incorrect_answers": [
+      "Exode",
+      "Lévitique",
+      "Nombres",
+      "Genèse"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle iconique Disneyland attraction a été fermé en 2017 pour être remodelé comme un \"Guardians de la Galaxy\" thème ride?",
+    "correct_answer": "Tour Twilight Zone de Terror",
+    "incorrect_answers": [
+      "La Maison hantée",
+      "Pirates des Caraïbes",
+      "Peter Pan' vol",
+      "Tour Twilight Zone de Terror"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel était le nom de l'équipe de lutte professionnelle WWF composée des lutteurs Ax et Smash ?",
+    "correct_answer": "Démolition",
+    "incorrect_answers": [
+      "L'équipe de rêve",
+      "Les Bushwhackers",
+      "Les Bulldogs britanniques",
+      "Démolition"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel d'entre eux n'est PAS considéré comme une couleur qui compose l'arc-en-ciel?",
+    "correct_answer": "Rose",
+    "incorrect_answers": [
+      "Bleu",
+      "Violet",
+      "Orange",
+      "Rose"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quelle star a sa statue sur la place Leicester ?",
+    "correct_answer": "Charlie Chaplin",
+    "incorrect_answers": [
+      "Paul Newman",
+      "Rowan Atkinson",
+      "Alfred Hitchcock",
+      "Charlie Chaplin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel des composants sanguins suivants forme un bouchon au site des blessures?",
+    "correct_answer": "Plaquettes",
+    "incorrect_answers": [
+      "Globules rouges",
+      "Globules blancs",
+      "Plasma sanguin",
+      "Plaquettes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Lequel de ces mots signifie \"idle spectateur\"?",
+    "correct_answer": "Gongoozler",
+    "incorrect_answers": [
+      "Gossypibome",
+      "Jentaculaire",
+      "Méupareunia",
+      "Gongoozler"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quand Pong a-t-il été libéré ?",
+    "correct_answer": "29 novembre 1972",
+    "incorrect_answers": [
+      "29 mars 2017",
+      "29 novembre 1970",
+      "14 décembre 1974",
+      "29 novembre 1972"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "De quoi la cynophobie a - t - elle peur?",
+    "correct_answer": "Chiens",
+    "incorrect_answers": [
+      "Oiseaux",
+      "Volant",
+      "Germes",
+      "Chiens"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle société a développé le vocaloïde Hatsune Miku ?",
+    "correct_answer": "Crypton Future Media",
+    "incorrect_answers": [
+      "Sega",
+      "Sony",
+      "Société Yamaha",
+      "Crypton Future Media"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qui est l'auteur du Jurassic Park ?",
+    "correct_answer": "Michael Crichton",
+    "incorrect_answers": [
+      "Peter Benchley",
+      "Chuck Paluhniuk",
+      "Irvine gallois",
+      "Michael Crichton"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le plus grand nombre d'étoiles Michelin qu'un restaurant puisse recevoir?",
+    "correct_answer": "Trois",
+    "incorrect_answers": [
+      "Quatre",
+      "Cinq",
+      "Six",
+      "Trois"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle était la boisson gazeuse Pepsi initialement introduite comme?",
+    "correct_answer": "Brad' s Bois",
+    "incorrect_answers": [
+      "Pepsin Pop",
+      "Caroline Cola",
+      "Sirop de pepsin",
+      "Brad' s Bois"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le nouveau One World Trade Center de Manhattan, à New York, a été conçu par quel architecte ?",
+    "correct_answer": "David Enfants",
+    "incorrect_answers": [
+      "Bjarke Ingels",
+      "Michael Arad",
+      "Fumihiko Maki",
+      "David Enfants"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Foie gras est une délicatesse française typiquement faite à partir de quelle partie d'un canard ou d'une oie?",
+    "correct_answer": "Foie",
+    "incorrect_answers": [
+      "Coeur",
+      "Estomac",
+      "Intestines",
+      "Foie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel type d'animal était Harambe, qui a été abattu après qu'un enfant soit tombé dans l'enceinte du zoo de Cincinnati?",
+    "correct_answer": "Gorille",
+    "incorrect_answers": [
+      "Tigre",
+      "Panda",
+      "Crocodile",
+      "Gorille"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Les mots \"bungalow\" et \"shampoo\" proviennent des langues de quel pays?",
+    "correct_answer": "Inde",
+    "incorrect_answers": [
+      "Papouasie Nouvelle Guinée",
+      "Éthiopie",
+      "Chine",
+      "Inde"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Ping-Pong est originaire d'Angleterre",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le nom de la société dans Lethal Company?",
+    "correct_answer": "La société",
+    "incorrect_answers": [
+      "Planète Scrap Co.",
+      "Robotique létale",
+      "Compagnie d'expédition Gordian.",
+      "La société"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Le mot \"aprosexia\" signifie lequel des suivants?",
+    "correct_answer": "L'incapacité de se concentrer sur quelque chose",
+    "incorrect_answers": [
+      "L'incapacité de prendre des décisions",
+      "Un désir fébrile d'arracher un' des vêtements",
+      "L'incapacité de se lever",
+      "L'incapacité de se concentrer sur quelque chose"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Dans \"Battle Cats\", quel est le taux de pourcentage critique de Moneko / MISS Moneko'?",
+    "correct_answer": "15%",
+    "incorrect_answers": [
+      "20%",
+      "10%",
+      "25%",
+      "15%"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Death Valley's Badwater Basin is North America's point d'altitude la plus basse à combien de pieds au-dessous du niveau de la mer?",
+    "correct_answer": "282 pieds",
+    "incorrect_answers": [
+      "79 pieds",
+      "1 640 pieds",
+      "12 092 pieds",
+      "282 pieds"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel a été le surnom donné au Hughes H-4 Hercules, un bateau de transport lourd qui a atteint le vol en 1947?",
+    "correct_answer": "Oie des épinettes",
+    "incorrect_answers": [
+      "Noah's Arche",
+      "Homme gras",
+      "Cheval de Troie",
+      "Oie des épinettes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel est le mot arabe romain pour \"moon\"?",
+    "correct_answer": "Qamar",
+    "incorrect_answers": [
+      "Najma",
+      "Kawkab",
+      "Shams",
+      "Qamar"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le mot français pour voyager est \"Travail\"",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Le mot suédois \"Grunka\" signifie quoi en anglais?",
+    "correct_answer": "Chose",
+    "incorrect_answers": [
+      "Personnes",
+      "Lieu",
+      "Ananas",
+      "Chose"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le mot suédois pour \"window\"?",
+    "correct_answer": "Fönster",
+    "incorrect_answers": [
+      "La recherche et le développement",
+      "Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre",
+      "Ruta",
+      "Fönster"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Combien de couleurs y a-t-il dans un arc-en-ciel ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le français est une langue officielle au Canada.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Furby a été libéré en 1998.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La somme de tous les chiffres sur une roulette est de 666.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La mitochondrie est la puissance de la cellule.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le nom de la nouvelle année juive?",
+    "correct_answer": "Rosh Hashanah",
+    "incorrect_answers": [
+      "Elul",
+      "Nouvel an",
+      "Succoss",
+      "Rosh Hashanah"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quelle église ' l'intérieur de la Cité du Vatican a été conçu en 1503 par des architectes de renaissance dont Bramante, Michelangelo et Bernini?",
+    "correct_answer": "St. Peter' Basilique",
+    "incorrect_answers": [
+      "Cathédrale de Catane",
+      "Basilique St. Mark&rsquo",
+      "Le Duomo de Florence",
+      "St. Peter' Basilique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel est le mot coréen romain pour \"heart\"?",
+    "correct_answer": "Simjang",
+    "incorrect_answers": [
+      "Aejeong",
+      "Jeongsin",
+      "Segseu",
+      "Simjang"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce que la langue officielle, la langue la plus parlée?",
+    "correct_answer": "Espagnol",
+    "incorrect_answers": [
+      "Portugais",
+      "Français",
+      "Italien",
+      "Espagnol"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "La sciophobie est la peur de quoi ?",
+    "correct_answer": "Ombres",
+    "incorrect_answers": [
+      "Manger",
+      "Lumières lumineuses",
+      "Transports",
+      "Ombres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans le jeu vidéo franchise Kingdom Hearts, le protagoniste principal, porte une arme avec quelle forme?",
+    "correct_answer": "Clé",
+    "incorrect_answers": [
+      "Épée",
+      "Stylo",
+      "Téléphone cellulaire",
+      "Clé"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le plus grand organe du corps humain?",
+    "correct_answer": "Peau",
+    "incorrect_answers": [
+      "Coeur",
+      "gros intestin",
+      "Foie",
+      "Peau"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Les taureaux sont attirés par la couleur rouge.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Buffle \"Buffle Buffalo buffalo buffalo Buffalo buffalo.\" est une phrase grammaticalement correcte.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce que la Tasmanie?",
+    "correct_answer": "Un État australien",
+    "incorrect_answers": [
+      "Une saveur de Ben et Jerry's glaces",
+      "Un trouble psychologique",
+      "Le nom d'un personnage de caricature des frères Warner",
+      "Un État australien"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Stagecoach possédait \"South West Trains\" avant de perdre les droits de FirstGroup et de MTR en mars 2017.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel constructeur automobile italien a obtenu le contrôle majoritaire du constructeur automobile américain Chrysler en 2011 ?",
+    "correct_answer": "Fiat",
+    "incorrect_answers": [
+      "Maserati",
+      "Alfa Romeo",
+      "Ferrari",
+      "Fiat"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le surnom de l'État américain de Californie ?",
+    "correct_answer": "État d ' or",
+    "incorrect_answers": [
+      "État du soleil",
+      "État de Bay",
+      "État du trésor",
+      "État d ' or"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Un pasodoble est un type de sauce italienne.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le popcorn a été inventé en 1871 par Frederick W. Rueckheim aux États-Unis où il a vendu la collation dans les rues de Chicago.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Lequel des produits chimiques suivants se trouve dans les graines d'aubergine?",
+    "correct_answer": "Nicotine",
+    "incorrect_answers": [
+      "Mescaline",
+      "Cyanure",
+      "Psilocybine",
+      "Nicotine"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "\"Ananas\" est principalement utilisé comme mot pour Ananas dans d'autres langues.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est la caractéristique caractéristique de quelqu'un qui est décrit comme hirsute?",
+    "correct_answer": "Poils",
+    "incorrect_answers": [
+      "Rude",
+      "C'est drôle",
+      "Grande",
+      "Poils"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Les restes enterrés dont l'explorateur anglais d'Australie a été trouvé à Londres en janvier 2019 ?",
+    "correct_answer": "Matthew Flinders",
+    "incorrect_answers": [
+      "William Bourke",
+      "Abel Tasman",
+      "Dirk Hartog",
+      "Matthew Flinders"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Dans le code Morse, quelle lettre est indiquée par 3 points?",
+    "correct_answer": "S",
+    "incorrect_answers": [
+      "O",
+      "A",
+      "C",
+      "S"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Earl Le thé gris est aromatisé avec quoi ?",
+    "correct_answer": "Huile de Bergamote",
+    "incorrect_answers": [
+      "Lavande",
+      "Vanille",
+      "Chérie",
+      "Huile de Bergamote"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La femme moyenne est 5 pouces / 13 centimètres de plus que l'homme moyen.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le nom scientifique des Lumières du Sud est Aurora Australis ?",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce qu'un funambuliste marche ?",
+    "correct_answer": "Une corde serrée",
+    "incorrect_answers": [
+      "Verre cassé",
+      "Balles",
+      "La Lune",
+      "Une corde serrée"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "En 2013, combien d'argent a été perdu par les escroqueries nigérianes ?",
+    "correct_answer": "12,7 milliards de dollars",
+    "incorrect_answers": [
+      "95 millions de dollars",
+      "956 millions de dollars",
+      "2,7 milliards de dollars",
+      "12,7 milliards de dollars"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quels sont les trois starter Pokemon disponibles en Pokemon Noir et Blanc?",
+    "correct_answer": "Snivy, Tepig, Oshawott",
+    "incorrect_answers": [
+      "Snivy, Fennekin, Froakie",
+      "Chespin, Tepig, Froakie",
+      "Chespin, Fennekin, Oshawott",
+      "Snivy, Tepig, Oshawott"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans quelle chaîne de restauration rapide pouvez-vous commander un Jamocha Shake?",
+    "correct_answer": "Autres",
+    "incorrect_answers": [
+      "C'est-à-dire :",
+      "Burger King",
+      "Wendy's",
+      "Autres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel était le nom original du moteur de recherche \"Google\"?",
+    "correct_answer": "BackRub",
+    "incorrect_answers": [
+      "Massage de chat",
+      "SearchPro",
+      "Navigateur Netscape",
+      "BackRub"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Les chaînes de restauration rapide Carl's Jr. et Hardee's appartiennent à la même entreprise.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel signe du zodiaque est représenté par le crabe?",
+    "correct_answer": "Cancer",
+    "incorrect_answers": [
+      "Balance",
+      "Virgo",
+      "Sagittaire",
+      "Cancer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "De quoi est fait le vrai haggis ?",
+    "correct_answer": "Ovins et n° 039;s coeur, foie et poumons",
+    "incorrect_answers": [
+      "Ovins, rognons et poumons",
+      "Foie, reins et yeux",
+      "Moutons entiers",
+      "Ovins et n° 039;s coeur, foie et poumons"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La Slovaquie est membre de l'Union européenne",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel des points de repère suivants n'est pas situé à New York?",
+    "correct_answer": "Mémorial Lincoln",
+    "incorrect_answers": [
+      "Empire State Building",
+      "Times Square",
+      "Parc central",
+      "Mémorial Lincoln"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Lequel de ces chanteurs et compositeurs américains a remporté le prix Nobel de littérature?",
+    "correct_answer": "Bob Dylan",
+    "incorrect_answers": [
+      "Buddy Holly",
+      "Johnny espèces",
+      "Alice Cooper",
+      "Bob Dylan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La Terre est située dans quelle galaxie ?",
+    "correct_answer": "La galaxie de la Voie lactée",
+    "incorrect_answers": [
+      "La galaxie Mars",
+      "La note Galaxy",
+      "Le trou noir",
+      "La galaxie de la Voie lactée"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Frank Lloyd Wright était l'architecte derrière quel bâtiment célèbre ?",
+    "correct_answer": "Les Guggenheim",
+    "incorrect_answers": [
+      "Villa Savoye",
+      "Opéra de Sydney",
+      "L'aiguille spatiale",
+      "Les Guggenheim"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le nom de la Pologne en polonais ?",
+    "correct_answer": "Pologne",
+    "incorrect_answers": [
+      "Pupcia",
+      "Polszka",
+      "Pó terre",
+      "Pologne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Dans \"Résident Evil 3\", combien de machines à sous d'inventaire Jill a au début du jeu?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "6",
+      "10",
+      "12",
+      "8"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "En quelle année la comète Halley's, qui n'apparaîtra plus qu'en 2061, s'approchait-elle auparavant de la Terre?",
+    "correct_answer": "1986",
+    "incorrect_answers": [
+      "2001",
+      "1942",
+      "1909",
+      "1986"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "En quelle année le robot RoboSapien a-t-il été libéré ?",
+    "correct_answer": "2004",
+    "incorrect_answers": [
+      "2000",
+      "2001",
+      "2006",
+      "2004"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "En langues scandinaves, la lettre Å signifie rivière.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "En moyenne, au moins une personne est tuée par un conducteur ivre aux États-Unis toutes les heures.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Ce domaine est parfois connu sous le nom de “The Dismal Science.”",
+    "correct_answer": "Économie",
+    "incorrect_answers": [
+      "Philosophie",
+      "Politique",
+      "Physique",
+      "Économie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle fausseté logique signifie attaquer le caractère de votre adversaire plutôt que leurs arguments ?",
+    "correct_answer": "Ad hominem",
+    "incorrect_answers": [
+      "Ergo propter hoc",
+      "Tu quoque",
+      "Argumentum ad populum",
+      "Ad hominem"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quelle année est née la reine Elizabeth II?",
+    "correct_answer": "1926",
+    "incorrect_answers": [
+      "1923",
+      "1929",
+      "1930",
+      "1926"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Dans le MMO RPG \"Realm of the Mad God\", quel donjon est généralement considéré comme le plus difficile?",
+    "correct_answer": "Le Shatter 's",
+    "incorrect_answers": [
+      "Poitrine de serpent",
+      "Le tombeau de l'Acien's",
+      "The Puppet Master 's Theater",
+      "Le Shatter 's"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "En quelle année McDonald ' a-t-il été fondé?",
+    "correct_answer": "1955",
+    "incorrect_answers": [
+      "1964",
+      "1951",
+      "1947",
+      "1955"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Laquelle de ces entreprises ne fabrique PAS d'automobiles?",
+    "correct_answer": "Ducati",
+    "incorrect_answers": [
+      "Nissan",
+      "GMC",
+      "Fiat",
+      "Ducati"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Il est automatiquement considéré comme un piège aux États-Unis si la police vous vend des substances illégales sans se révéler.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le nom du télescope spatial le plus célèbre de la NASA?",
+    "correct_answer": "Télescope spatial Hubble",
+    "incorrect_answers": [
+      "Gros oeil",
+      "Étoile de la mort",
+      "Faucon du millénaire",
+      "Télescope spatial Hubble"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle est la langue officielle du Brésil?",
+    "correct_answer": "Portugais",
+    "incorrect_answers": [
+      "Brésil",
+      "Espagnol",
+      "Changements climatiques",
+      "Portugais"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel style de bière aura généralement une teneur en houblon supérieure à la moyenne?",
+    "correct_answer": "Inde Pale Ale",
+    "incorrect_answers": [
+      "Stout",
+      "Amère spéciale",
+      "Ale écossaise",
+      "Inde Pale Ale"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Il y a 86400 secondes par jour.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le drapeau national du Vietnam est une étoile rouge devant un fond jaune.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Un chien est un mammifère ?",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Après combien d'années fêteriez-vous votre anniversaire de cristal ?",
+    "correct_answer": "15",
+    "incorrect_answers": [
+      "20",
+      "10",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Combien de furlongs y a-t-il en un kilomètre ?",
+    "correct_answer": "Huit",
+    "incorrect_answers": [
+      "Deux",
+      "Quatre",
+      "Six",
+      "Huit"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle rivière traverse la ville écossaise de Glasgow ?",
+    "correct_answer": "Clyde",
+    "incorrect_answers": [
+      "Tay",
+      "Dee",
+      "Poivrons",
+      "Clyde"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Lequel des noms suivants n'est pas un autre nom pour l'aubergine?",
+    "correct_answer": "Potimarron",
+    "incorrect_answers": [
+      "Brinjal",
+      "Guinée Squash",
+      "Mélongène",
+      "Potimarron"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Toutes les fraises sont rouges.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La couleur orange porte le nom du fruit.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel vêtement est habituellement porté par un Écossais lors d'un mariage?",
+    "correct_answer": "Kilt",
+    "incorrect_answers": [
+      "Jupe",
+      "Robe",
+      "Choux",
+      "Kilt"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Que représente le F au FBI ?",
+    "correct_answer": "Fédéral",
+    "incorrect_answers": [
+      "Étrangères",
+      "Forme",
+      "Première",
+      "Fédéral"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Laquelle de ces couleurs ne figure PAS dans le logo de Google ?",
+    "correct_answer": "Rose",
+    "incorrect_answers": [
+      "Jaune",
+      "Bleu",
+      "Vert",
+      "Rose"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle année Apple Inc. a-t-elle été fondée?",
+    "correct_answer": "1976",
+    "incorrect_answers": [
+      "1978",
+      "1980",
+      "1974",
+      "1976"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel élément chimique, numéro 11 dans le tableau périodique, a le symbole Na?",
+    "correct_answer": "Sodium",
+    "incorrect_answers": [
+      "Carbone",
+      "Plomb",
+      "Azote",
+      "Sodium"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel président américain apparaît sur un billet d'un dollar ?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "M. Benjamin Franklin",
+      "George Washington"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qui est le plus jeune à recevoir un prix Nobel?",
+    "correct_answer": "Malala Yousafzai",
+    "incorrect_answers": [
+      "Lawrence Bragg",
+      "Werner Heisenberg",
+      "Yasser Arafat",
+      "Malala Yousafzai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Selon la comptine, quel fruit le petit Jack Horner a-t-il sorti de sa tarte de Noël ?",
+    "correct_answer": "Prune",
+    "incorrect_answers": [
+      "Pommes",
+      "Pêche",
+      "Poire",
+      "Prune"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le terme \"Spam\" est venu avant le produit alimentaire \"Spam\".",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Red Vines est une marque de quel type de bonbons ?",
+    "correct_answer": "Librairie",
+    "incorrect_answers": [
+      "Lollipop",
+      "Chocolat",
+      "Bubblegum",
+      "Librairie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Laquelle des boissons gazeuses suivantes a été introduite en premier?",
+    "correct_answer": "Dr Pepper",
+    "incorrect_answers": [
+      "Coca-Cola",
+      "Sprite",
+      "Dew des montagnes",
+      "Dr Pepper"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le mot français pour \"glass\" est \"glace\".",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est la durée de vie moyenne d'une fourmi de jardin?",
+    "correct_answer": "15 ans",
+    "incorrect_answers": [
+      "24 heures",
+      "1 semaine",
+      "3 ans",
+      "15 ans"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est la monnaie de la Pologne?",
+    "correct_answer": "Zloty",
+    "incorrect_answers": [
+      "Rouble",
+      "Euro",
+      "Krone",
+      "Zloty"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "La popularité du producteur de musique électronique Kygo' a explosé après un certain remix. Quelle chanson a-t-il remixée ?",
+    "correct_answer": "Ed Sheeran - Je vois le feu",
+    "incorrect_answers": [
+      "Marvin Gaye - Guérison sexuelle",
+      "Coldplay - Minuit",
+      "a-ha - Prends-moi",
+      "Ed Sheeran - Je vois le feu"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Crystal Pepsi a été vendu pour la première fois sur les marchés américains en 1993.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel nom représente la lettre \"M\" dans l'alphabet phonétique de l'OTAN?",
+    "correct_answer": "C'est vrai",
+    "incorrect_answers": [
+      "Matthieu",
+      "Marquer",
+      "Max",
+      "C'est vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le 10 mars est aussi connu sous le nom de Jour du 10 mars.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel était le troisième pays à avoir un restaurant McDonald'?",
+    "correct_answer": "Costa Rica",
+    "incorrect_answers": [
+      "Japon",
+      "France",
+      "Australie",
+      "Costa Rica"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Vous pouvez légalement boire de l'alcool en conduisant dans le Mississippi.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Qui est le fondateur de \"The Lego Group\"?",
+    "correct_answer": "Ole Kirk Christiansen",
+    "incorrect_answers": [
+      "Jens Niels Christiansen",
+      "Kirstine Christiansen",
+      "Gerhardt Kirk Christiansen",
+      "Ole Kirk Christiansen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "En vertu du Code international des signaux, quel drapeau unique est interprété comme \"J'ai besoin d'aide (pas de détresse)\"?",
+    "correct_answer": "Victor",
+    "incorrect_answers": [
+      "Kilo",
+      "Papa",
+      "Delta",
+      "Victor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel des jeux de cartes suivants tourne autour des chiffres et des mathématiques de base?",
+    "correct_answer": "Uno",
+    "incorrect_answers": [
+      "Aller au poisson",
+      "Twister",
+      "Munchkin",
+      "Uno"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le drapeau de l'Union européenne a combien d'étoiles?",
+    "correct_answer": "12",
+    "incorrect_answers": [
+      "10",
+      "14",
+      "16",
+      "12"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Francis Bacon est mort d'un cas mortel de pneumonie alors qu'il essayait de préserver la viande en farçant un poulet de neige.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le service d'hébergement de fichiers, \"Google Drive\" a été lancé quel jour?",
+    "correct_answer": "Le 24 avril 2012",
+    "incorrect_answers": [
+      "12 janvier 2014",
+      "14 novembre 2008",
+      "20 janvier 2010",
+      "Le 24 avril 2012"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quand Nintendo a-t-il été fondé ?",
+    "correct_answer": "23 septembre 1889",
+    "incorrect_answers": [
+      "19 octobre 1891",
+      "4 mars 1887",
+      "27 décembre 1894",
+      "23 septembre 1889"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "La chartreuse est une couleur entre le jaune et quoi ?",
+    "correct_answer": "Vert",
+    "incorrect_answers": [
+      "Rouge",
+      "Noir",
+      "Pourpre",
+      "Vert"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle étape de la respiration cellulaire forme l'ATP?",
+    "correct_answer": "Phosphorylation oxydative",
+    "incorrect_answers": [
+      "Glycolyse",
+      "Oxydation du pyruvate",
+      "Cycle Calvin",
+      "Phosphorylation oxydative"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Amsterdam La station Centraal est jumelée à quelle station ?",
+    "correct_answer": "Londres Liverpool Street",
+    "incorrect_answers": [
+      "Francfort (Main) Hauptbahnhof",
+      "Paris Gare du Nord",
+      "Bruxelles Midi",
+      "Londres Liverpool Street"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quels sont les écrous utilisés dans la production de massepain?",
+    "correct_answer": "Amandes",
+    "incorrect_answers": [
+      "Oignons",
+      "Noix communes",
+      "Pistaches",
+      "Amandes"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Nutella est produite par la société allemande Ferrero.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Située au Chili, El Teniente est la plus grande mine souterraine au monde et n°039?",
+    "correct_answer": "Cuivre",
+    "incorrect_answers": [
+      "Fer",
+      "Nickel",
+      "Argent",
+      "Cuivre"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "C'est l'orthographe correcte de \"Supercalifragilisticexpialidocious\".",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel type de chien est 'Handsome Dan', la mascotte de l'Université Yale?",
+    "correct_answer": "Bulldog",
+    "incorrect_answers": [
+      "Territoire du Yorkshire",
+      "Boxer",
+      "Pug",
+      "Bulldog"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Selon Fair Works Australia, combien de temps avez-vous à travailler pour obtenir un congé de longue durée?",
+    "correct_answer": "7 ans",
+    "incorrect_answers": [
+      "2 ans",
+      "8 ans",
+      "6 mois",
+      "7 ans"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le nom donné à la nourriture indienne cuite sur du charbon dans un four à argile?",
+    "correct_answer": "Tandoori",
+    "incorrect_answers": [
+      "Biryani",
+      "Pani puri",
+      "Tiki masala",
+      "Tandoori"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel élément a le symbole chimique Kr ?",
+    "correct_answer": "Krypton",
+    "incorrect_answers": [
+      "Kerosine",
+      "Cinéticium",
+      "Curium",
+      "Krypton"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle est la profession d'Elon Musk's maman, Maye Musk?",
+    "correct_answer": "Modèle",
+    "incorrect_answers": [
+      "Professeur",
+      "Biologiste",
+      "Musicien",
+      "Modèle"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Rolex est une entreprise spécialisée dans quel type de produit ?",
+    "correct_answer": "Montres",
+    "incorrect_answers": [
+      "Voitures",
+      "Ordinateurs",
+      "Matériel de sport",
+      "Montres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Laquelle de ces villes n'a PAS d'emplacement de mine aux États-Unis?",
+    "correct_answer": "Saint Louis, MO",
+    "incorrect_answers": [
+      "San Fransisco, CA",
+      "Philidelphia, PA",
+      "West Point, New York",
+      "Saint Louis, MO"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le gherkin mariné a d'abord été ajouté aux hamburgers parce qu'une loi américaine sur la santé exigeait que tous les fast-food incluent une source de vitamine C.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Que signifient les lettres dans le fuseau horaire GMT?",
+    "correct_answer": "Temps moyen de Greenwich",
+    "incorrect_answers": [
+      "Temps mondial méridien",
+      "Médiane général Heure",
+      "Glasgow Homme Heure",
+      "Temps moyen de Greenwich"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le roumain appartient à la famille de langue romane, partagée avec le français, l'espagnol, le portugais et l'italien.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Vous êtes autorisé à vendre votre âme sur eBay.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "A l'origine un autre mot pour le pavot, le coquelicot est une ombre de quoi ?",
+    "correct_answer": "Rouge",
+    "incorrect_answers": [
+      "Vert",
+      "Bleu",
+      "Rose",
+      "Rouge"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle est la deuxième langue maternelle parlée en Espagne par le nombre de locuteurs?",
+    "correct_answer": "Catalan",
+    "incorrect_answers": [
+      "Portugais",
+      "Espagnol",
+      "Français",
+      "Catalan"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La ligne d'urgence américaine est 911 à cause des attentats terroristes du 11 septembre.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "L'organisation britannique CAMRA représente The Campaign for Real Ale.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Dans quel pays ont eu lieu les Jeux olympiques d'été de 1992?",
+    "correct_answer": "Espagne",
+    "incorrect_answers": [
+      "Russie",
+      "Corée",
+      "ÉTATS-UNIS",
+      "Espagne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel pays conduit du côté gauche de la route ?",
+    "correct_answer": "Japon",
+    "incorrect_answers": [
+      "Allemagne",
+      "Russie",
+      "Chine",
+      "Japon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel produit Nokia, la société de télécommunications, a-t-elle vendu à l'origine ?",
+    "correct_answer": "Papier",
+    "incorrect_answers": [
+      "Téléphones",
+      "Ordinateurs",
+      "Processeurs",
+      "Papier"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "La néphélocoque est la pratique de faire quoi?",
+    "correct_answer": "Trouver des formes dans les nuages",
+    "incorrect_answers": [
+      "Dormir les yeux ouverts",
+      "Briser le verre avec votre voix",
+      "Natation dans l'eau glacée",
+      "Trouver des formes dans les nuages"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le mot espagnol pour \"donkey\"?",
+    "correct_answer": "Burro",
+    "incorrect_answers": [
+      "Caballo",
+      "Toro",
+      "Perro",
+      "Burro"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle année a été le premier iPod Apple présenté?",
+    "correct_answer": "2001",
+    "incorrect_answers": [
+      "2000",
+      "1999",
+      "1998",
+      "2001"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Directement entre le Washington Monument et la piscine réfléchissante est un mémorial de quelle guerre?",
+    "correct_answer": "Deuxième guerre mondiale",
+    "incorrect_answers": [
+      "Guerre du Vietnam",
+      "Guerre civile américaine",
+      "Guerre révolutionnaire américaine",
+      "Deuxième guerre mondiale"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qui est représenté sur le billet de 100 dollars?",
+    "correct_answer": "M. Benjamin Franklin",
+    "incorrect_answers": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "M. Benjamin Franklin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Quel est le mot chinois romain pour \"airplane\"?",
+    "correct_answer": "Feiji",
+    "incorrect_answers": [
+      "Qiche",
+      "Zongxian",
+      "Huojian",
+      "Feiji"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Dans DC BD où habite la Green Arrow (Oliver Queen)?",
+    "correct_answer": "Ville Étoile",
+    "incorrect_answers": [
+      "Ville centrale",
+      "Gotham City",
+      "Métropoles",
+      "Ville Étoile"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Selon le BBPA, quel est le nom de pub le plus courant au Royaume-Uni?",
+    "correct_answer": "Lion rouge",
+    "incorrect_answers": [
+      "Chêne royal",
+      "Blanc Hart",
+      "Roi et chef",
+      "Lion rouge"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel caractère était autrefois considéré comme la 27e lettre de l'alphabet?",
+    "correct_answer": "Ampersand",
+    "incorrect_answers": [
+      "Interrobang",
+      "Tilde",
+      "Pèlerins",
+      "Ampersand"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Lequel des bâtiments suivants est l'exemple d'une structure construite principalement dans le style architectural Art Déco?",
+    "correct_answer": "Édifice Niagara Mohawk",
+    "incorrect_answers": [
+      "Taipei 101",
+      "Un centre de Detroit",
+      "Westendstrasse 1",
+      "Édifice Niagara Mohawk"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Waluigi' la première apparition a été dans quel jeu?",
+    "correct_answer": "Mario Tennis 64 (N64)",
+    "incorrect_answers": [
+      "Wario Land: Super Mario Land 3",
+      "Parti Mario (N64)",
+      "Super Smash Bros. Ultime",
+      "Mario Tennis 64 (N64)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel organe produit la bile ?",
+    "correct_answer": "Foie",
+    "incorrect_answers": [
+      "Détonateur",
+      "Pancréas",
+      "Estomac",
+      "Foie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quand WhatsApp a - t - il été fondé?",
+    "correct_answer": "2009",
+    "incorrect_answers": [
+      "2007",
+      "2012",
+      "2010",
+      "2009"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quels bonbons ne sont pas fabriqués par Mars?",
+    "correct_answer": "Amande Joy",
+    "incorrect_answers": [
+      "M&M's",
+      "Deux fois",
+      "Snickers",
+      "Amande Joy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce qu'un \"dakimakura\"?",
+    "correct_answer": "Un oreiller corporel",
+    "incorrect_answers": [
+      "Un repas chinois, composé essentiellement de poissons",
+      "Une posture de yoga",
+      "Un mot utilisé pour décrire deux personnes qui s'aiment vraiment",
+      "Un oreiller corporel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Le mot \"abulia\" signifie lequel des suivants?",
+    "correct_answer": "L'incapacité de prendre des décisions",
+    "incorrect_answers": [
+      "L'incapacité de se lever",
+      "L'incapacité de se concentrer sur quelque chose",
+      "Un désir fébrile d'arracher un' des vêtements",
+      "L'incapacité de prendre des décisions"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Que représente le 'S' dans l'abréviation SIM, comme dans la carte SIM?",
+    "correct_answer": "Abonné",
+    "incorrect_answers": [
+      "Personne seule",
+      "Sécurisation",
+      "Solide",
+      "Abonné"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Gumbo est un ragoût originaire de Louisiane.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel des éléments suivants n'est pas l'hôte d'un programme sur NPR?",
+    "correct_answer": "Ben Shapiro",
+    "incorrect_answers": [
+      "Terry Gross",
+      "Verre Ira",
+      "Peter Sagal",
+      "Ben Shapiro"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Une statue de Charles Darwin se trouve dans quel musée de Londres ?",
+    "correct_answer": "Musée d'histoire naturelle",
+    "incorrect_answers": [
+      "Tate",
+      "British Museum",
+      "Musée des sciences",
+      "Musée d'histoire naturelle"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Une aubergine est un légume.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel de ces jeux Marvel est sorti sur Playstation 2 ?",
+    "correct_answer": "Spider-Man 2",
+    "incorrect_answers": [
+      "Surfer en argent",
+      "Howard le canard",
+      "Wolverine: Rage d'Adamantium",
+      "Spider-Man 2"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Que traduit la phrase latine \"Veni, vidi, vici\" en anglais?",
+    "correct_answer": "Je suis venu, j'ai vu, j'ai conquis",
+    "incorrect_answers": [
+      "Ne voyez pas le mal, n'entendez pas le mal, ne dites pas le mal",
+      "Vie, liberté et bonheur",
+      "Passé, présent et futur",
+      "Je suis venu, j'ai vu, j'ai conquis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La Hyundai Motor Company a été fondée dans quel pays ?",
+    "correct_answer": "Corée du Sud",
+    "incorrect_answers": [
+      "Russie",
+      "Japon",
+      "Chine",
+      "Corée du Sud"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le whisky écossais et Drambuie composent quel cocktail ?",
+    "correct_answer": "Nail Rusty",
+    "incorrect_answers": [
+      "Tournevis",
+      "Sexe sur la plage",
+      "Manhattan",
+      "Nail Rusty"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel des codes suivants est le code IATA pour l'aéroport de Manchester?",
+    "correct_answer": "HOMME",
+    "incorrect_answers": [
+      "ÉCOLE",
+      "LHR",
+      "GECT",
+      "HOMME"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La pièce d'un dollar canadien est communément connue comme quoi?",
+    "correct_answer": "Loonie",
+    "incorrect_answers": [
+      "Boolie",
+      "Folie",
+      "Moodie",
+      "Loonie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Un médecin avec un doctorat est un médecin de quoi ?",
+    "correct_answer": "Philosophie",
+    "incorrect_answers": [
+      "Psychologie",
+      "Phrénologie",
+      "Thérapie physique",
+      "Philosophie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Qui est co-fondateur du service de streaming musical Spotify ?",
+    "correct_answer": "Daniel Ek",
+    "incorrect_answers": [
+      "Sean Parker",
+      "Félix Miller",
+      "Michael Breidenbruecker",
+      "Daniel Ek"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Comment dire au revoir en espagnol ?",
+    "correct_answer": "Adiós",
+    "incorrect_answers": [
+      "Hola",
+      "Au revoir",
+      "Salir",
+      "Adiós"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La zone 51 est située dans quel État américain?",
+    "correct_answer": "Nevada",
+    "incorrect_answers": [
+      "Arizona",
+      "Nouveau-Mexique",
+      "Utah",
+      "Nevada"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle langue est la plus parlée en Suisse?",
+    "correct_answer": "Allemand",
+    "incorrect_answers": [
+      "Français",
+      "Italien",
+      "Suisse",
+      "Allemand"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le mot \"news\" provient des premières lettres des 4 directions principales sur une boussole (Nord, Est, Ouest, Sud).",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le Soleil se lève du Nord.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "C'est quoi un centre commercial mort ?",
+    "correct_answer": "Un centre commercial avec des taux de vacance élevés ou un faible trafic routier",
+    "incorrect_answers": [
+      "Un centre commercial sans magasins",
+      "Un centre commercial qui a été condamné",
+      "Un centre commercial après les heures d'ouverture",
+      "Un centre commercial avec des taux de vacance élevés ou un faible trafic routier"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce qui est exposé dans le musée de Madame Tussaud', à Londres?",
+    "correct_answer": "Sculptures de cire",
+    "incorrect_answers": [
+      "Vêtements design",
+      "Bobines de film inédites",
+      "Voitures anciennes",
+      "Sculptures de cire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle a été la première ligne de métro de Londres à être construite ?",
+    "correct_answer": "Ligne métropolitaine",
+    "incorrect_answers": [
+      "Ligne circulaire",
+      "Ligne Bakerloo",
+      "Victoria Ligne",
+      "Ligne métropolitaine"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel était le slogan original de Mountain Dew'?",
+    "correct_answer": "La rosée des montagnes... Ça te chatouille les entrailles !",
+    "incorrect_answers": [
+      "Donne-moi une rosée",
+      "Faites la rosée",
+      "Get' ce sentiment de pieds nus' buvez' Mountain Dew",
+      "La rosée des montagnes... Ça te chatouille les entrailles !"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Un criminel qui a fait cuire les livres a pris part à quel type de comportement illégal?",
+    "correct_answer": "Fraude comptable",
+    "incorrect_answers": [
+      "Le blanchiment d'argent",
+      "Extorsion",
+      "Le chantage",
+      "Fraude comptable"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle était la destination du vol MH370 manquant?",
+    "correct_answer": "Pékin",
+    "incorrect_answers": [
+      "Kuala Lumpur",
+      "Singapour",
+      "Tokyo",
+      "Pékin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Au début de quelle décennie, la sous-culture Goth a-t-elle commencé?",
+    "correct_answer": "années 1980",
+    "incorrect_answers": [
+      "années 1990",
+      "2000",
+      "années 1970",
+      "années 1980"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le nom du groupe antagoniste chez Danganronpa Un autre épisode : Des filles du désespoir ?",
+    "correct_answer": "Les guerriers de l'espoir",
+    "incorrect_answers": [
+      "Les Monokoubs",
+      "Les guerriers du désespoir",
+      "Le désespoir ultime",
+      "Les guerriers de l'espoir"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le Mexique Beer \"Corona\" est quel type de bière?",
+    "correct_answer": "Lager pâle",
+    "incorrect_answers": [
+      "Inde Pale Ale",
+      "Pilfsner",
+      "Porteur de la Baltique",
+      "Lager pâle"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quand Hubba Bubba a-t-il été présenté pour la première fois ?",
+    "correct_answer": "1979",
+    "incorrect_answers": [
+      "1984",
+      "1972",
+      "1980",
+      "1979"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Si vous êtes assis plus de trois heures par jour, vous pouvez réduire votre espérance de vie de deux ans.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "La Grande Muraille de Chine est visible depuis la lune.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Avant le 19ème siècle, le \"Living Room\" était appelé...",
+    "correct_answer": "Parleur",
+    "incorrect_answers": [
+      "Salle ouverte",
+      "Salle de réunion",
+      "Loft",
+      "Parleur"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "\"Typewriter\" est le mot le plus long qui peut être tapé en utilisant seulement la première ligne sur un clavier QWERTY.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Selon Sherlock Holmes, \"Si vous éliminez l'impossible, tout ce qui reste, aussi improbable soit-il, doit être le...\"",
+    "correct_answer": "Vérité",
+    "incorrect_answers": [
+      "Réponse",
+      "Cause",
+      "Source",
+      "Vérité"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Laquelle de ces sociétés suédoises a été fondée en 1943 ?",
+    "correct_answer": "IKEA",
+    "incorrect_answers": [
+      "H & M",
+      "Lindex",
+      "Clas Ohlson",
+      "IKEA"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle est la forme du jouet inventé par le professeur hongrois Ernő Rubik ?",
+    "correct_answer": "Cube",
+    "incorrect_answers": [
+      "Sphère",
+      "Cylindre",
+      "Pyramide",
+      "Cube"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Selon les États-Unis et le CDC, un sur combien d'Américains meurent chaque année à cause du tabagisme?",
+    "correct_answer": "Cinq",
+    "incorrect_answers": [
+      "Vingt",
+      "Dix",
+      "Cent",
+      "Cinq"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Le Quadrangularis Reversum est mieux décrit comme lequel des suivants?",
+    "correct_answer": "Un instrument de percussion",
+    "incorrect_answers": [
+      "Un bâtiment à l'Université d'Oxford",
+      "Un mouvement d'échecs",
+      "Théorème géométrique",
+      "Un instrument de percussion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel d'entre eux n'est pas une université Ivy League ?",
+    "correct_answer": "États-Unis",
+    "incorrect_answers": [
+      "Université de Pennsylvanie",
+      "La Communauté européenne",
+      "Princeton",
+      "États-Unis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Bob et Mike Bryan étaient des frères bien connus dans quel sport ?",
+    "correct_answer": "Tennis",
+    "incorrect_answers": [
+      "Basketball",
+      "Football",
+      "Baseball",
+      "Tennis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La suite moins connue du dicton \"Curiosité a tué le chat...\" est:",
+    "correct_answer": "\"...mais la satisfaction l'a ramené. \"a;",
+    "incorrect_answers": [
+      "\"... et la souris silencieuse y est restée.\"",
+      "\"...qui lui a appris à ne pas faire ça. \"a;",
+      "la mort par la vérité vaut mieux que l'ignorance. \"a;",
+      "\"...mais la satisfaction l'a ramené. \"a;"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Que signifie le \"G\" dans \"G-Man\"?",
+    "correct_answer": "Gouvernement",
+    "incorrect_answers": [
+      "Aller",
+      "Fantôme",
+      "Geronimo",
+      "Gouvernement"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "\"Number 16 Bus Shelter\" était un nom d'enfant' qui a été approuvé par le gouvernement de Nouvelle-Zélande.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le mot japonais romain pour \"university\"?",
+    "correct_answer": "Daigaku",
+    "incorrect_answers": [
+      "Toshokan",
+      "Jimusho",
+      "Shokudou",
+      "Daigaku"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Kraft \"Cheez Whiz\" contient de la culture du fromage, mais ne't contient en fait du fromage",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le slogan du New York Times est : Adapté à …”",
+    "correct_answer": "Imprimer",
+    "incorrect_answers": [
+      "Digest",
+      "Regarde",
+      "Lire",
+      "Imprimer"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "L'eau pure conduit efficacement l'électricité",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le nom de la toute première vidéo téléchargée sur YouTube ?",
+    "correct_answer": "Moi au zoo",
+    "incorrect_answers": [
+      "hommage",
+      "carrie monte un camion",
+      "Son nouveau chiot du grand-père Vern.",
+      "Moi au zoo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel pays possède la brasserie la plus trappiste ?",
+    "correct_answer": "Belgique",
+    "incorrect_answers": [
+      "Belgique",
+      "France",
+      "ÉTATS-UNIS",
+      "Belgique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qui a inventé la première chocolaterie en 1847 ?",
+    "correct_answer": "Joseph Fry",
+    "incorrect_answers": [
+      "Andrew Johnson",
+      "John Cadbury",
+      "John Tyler",
+      "Joseph Fry"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le célèbre nom de famille de Papa John'?",
+    "correct_answer": "Attaque",
+    "incorrect_answers": [
+      "Hotte",
+      "Autres",
+      "ANDERSON",
+      "Attaque"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le nom du personnage principal de la série: Dead Space?",
+    "correct_answer": "Isaac Clarke",
+    "incorrect_answers": [
+      "Ellen Ripley",
+      "Commandant Shepard",
+      "Capitaine Kirk",
+      "Isaac Clarke"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le mot portugais pour \"Brésil\"?",
+    "correct_answer": "Brésil",
+    "incorrect_answers": [
+      "Brésil",
+      "Brésil",
+      "Le Brasíl",
+      "Brésil"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Terry Gilliam était un animateur qui travaillait avec quel groupe de comédies britanniques ?",
+    "correct_answer": "Monty Python",
+    "incorrect_answers": [
+      "Les Goodies‎",
+      "La Ligue des Gentlemen‎",
+      "Les horreurs de Penny",
+      "Monty Python"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quand quelqu'un est inexpérimenté, on dit qu'il est de quelle couleur ?",
+    "correct_answer": "Vert",
+    "incorrect_answers": [
+      "Rouge",
+      "Bleu",
+      "Jaune",
+      "Vert"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Albert Einstein avait des problèmes avec les mathématiques quand il était à l'école.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est la langue parlée la plus populaire dans l'hémisphère sud?",
+    "correct_answer": "Portugais",
+    "incorrect_answers": [
+      "Changements climatiques",
+      "Espagnol",
+      "Français",
+      "Portugais"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Dans les systèmes de vol, que représente l'initialisme \"TCAS\"?",
+    "correct_answer": "Système d'évitement des collisions",
+    "incorrect_answers": [
+      "Système d'alerte à la circulation",
+      "Système d'alignement de configuration du trafic",
+      "Système d'abréviation de signalisation routière",
+      "Système d'évitement des collisions"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Le mot \"astasia\" signifie lequel des suivants?",
+    "correct_answer": "L'incapacité de se lever",
+    "incorrect_answers": [
+      "L'incapacité de prendre des décisions",
+      "L'incapacité de se concentrer sur quelque chose",
+      "Un désir fébrile d'arracher un' des vêtements",
+      "L'incapacité de se lever"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Embrasser quelqu'un pendant une minute brûle environ 2 calories.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Combien de notes y a-t-il sur un piano à queue standard ?",
+    "correct_answer": "88",
+    "incorrect_answers": [
+      "98",
+      "108",
+      "78",
+      "88"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce qu'un Burgee ?",
+    "correct_answer": "Un drapeau",
+    "incorrect_answers": [
+      "Une corde",
+      "Une fenêtre",
+      "Un type d'aliment",
+      "Un drapeau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quand quelqu'un est lâche, on dit qu'il a quelle couleur de ventre ?",
+    "correct_answer": "Jaune",
+    "incorrect_answers": [
+      "Vert",
+      "Rouge",
+      "Bleu",
+      "Jaune"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Où se trouve la gare ferroviaire \"Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch\"?",
+    "correct_answer": "Pays de Galles",
+    "incorrect_answers": [
+      "Moldova",
+      "République tchèque",
+      "Danemark",
+      "Pays de Galles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel pays a l'Union Jack dans son drapeau ?",
+    "correct_answer": "Nouvelle-Zélande",
+    "incorrect_answers": [
+      "Afrique du Sud",
+      "Canada",
+      "Hong Kong",
+      "Nouvelle-Zélande"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle est la planète la plus proche de notre système solaire?",
+    "correct_answer": "Mercure",
+    "incorrect_answers": [
+      "Mars",
+      "Jupiter",
+      "Terre",
+      "Mercure"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le mot russe romain pour \"winter\"?",
+    "correct_answer": "Zima",
+    "incorrect_answers": [
+      "Leto",
+      "Vesna",
+      "Osen '",
+      "Zima"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quand le site a-t-il été fondé ?",
+    "correct_answer": "2005",
+    "incorrect_answers": [
+      "2008",
+      "2004",
+      "2006",
+      "2005"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le Groupe Lego a été fondé en 1932.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le monoxyde de dihydrogène a été interdit en raison de risques pour la santé après avoir été découvert en 1983 à l'intérieur des piscines et de l'eau potable.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le mot français pour \"hat\"?",
+    "correct_answer": "Chapeau",
+    "incorrect_answers": [
+      "Bonnet",
+      "Écharpe",
+      "Casque",
+      "Chapeau"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "\"Santa Claus\" est une variété de melon.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle boisson alcoolique est faite de mélasse?",
+    "correct_answer": "Rhum",
+    "incorrect_answers": [
+      "Gin",
+      "Vodka",
+      "Whisky",
+      "Rhum"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Nommée d'après la fleur de mauve, mauve est une ombre de quoi ?",
+    "correct_answer": "Pourpre",
+    "incorrect_answers": [
+      "Rouge",
+      "Marron",
+      "Rose",
+      "Pourpre"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Pluton est une planète.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Laquelle de ces chaînes de restauration rapide n'est PAS principalement connue pour vendre des pizzas?",
+    "correct_answer": "Wendy's",
+    "incorrect_answers": [
+      "Domino's",
+      "Petits Césars",
+      "Papa John 's",
+      "Wendy's"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "De Eemhof, Port Zelande et Het Heijderbos sont des villas de vacances appartenant à quelle société?",
+    "correct_answer": "Centre Parcs",
+    "incorrect_answers": [
+      "Village de Yelloh",
+      "Camp clé",
+      "Villa Plus",
+      "Centre Parcs"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le mot français pour \"fish\"?",
+    "correct_answer": "poisson",
+    "incorrect_answers": [
+      "fiche",
+      "escargot",
+      "pour",
+      "poisson"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le bikini est nommé d'après le \"Bikini Atoll\", une île où les États-Unis ont effectué des essais sur des bombes atomiques.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le signe de quelqu'un né le jour de la Saint-Valentin ?",
+    "correct_answer": "Verseau",
+    "incorrect_answers": [
+      "Poissons",
+      "Capricorne",
+      "Scorpion",
+      "Verseau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel mot représente la lettre 'T' dans l'alphabet phonétique de l'OTAN?",
+    "correct_answer": "Tango",
+    "incorrect_answers": [
+      "Objectif",
+      "Taxi",
+      "Turquie",
+      "Tango"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La phrase \"accident qui attend d'arriver\" est un exemple de quel type de figure de la parole?",
+    "correct_answer": "Idiome",
+    "incorrect_answers": [
+      "Similaire",
+      "Métaphore",
+      "Analogie",
+      "Idiome"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "De quoi sont faits les chapeaux de Panama ?",
+    "correct_answer": "Paille",
+    "incorrect_answers": [
+      "Soie",
+      "Chanvre",
+      "Lin",
+      "Paille"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "La chaîne commerciale britannique ITV représente \"International Television\".",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Lequel des éléments suivants n'est PAS celui d'Aesop's fables?",
+    "correct_answer": "Le renard et le chien",
+    "incorrect_answers": [
+      "Le renard et les raisins",
+      "La tortue et le lièvre",
+      "La grenouille et le boeuf",
+      "Le renard et le chien"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quelle forme géométrique est généralement utilisée pour les panneaux d'arrêt?",
+    "correct_answer": "Octagon",
+    "incorrect_answers": [
+      "Hexagone",
+      "Cercle",
+      "Triangle",
+      "Octagon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quelle est l'épice la plus chère au monde?",
+    "correct_answer": "Safran",
+    "incorrect_answers": [
+      "Cannelle",
+      "Cardamome",
+      "Vanille",
+      "Safran"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quel est le symbole du zodiaque pour les Gémeaux ?",
+    "correct_answer": "Jumelles",
+    "incorrect_answers": [
+      "Poisson",
+      "Échelles",
+      "Maiden",
+      "Jumelles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel des présidents suivants n'est pas sur le Mont Rushmore ?",
+    "correct_answer": "John F. Kennedy",
+    "incorrect_answers": [
+      "Théodore Roosevelt",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "John F. Kennedy"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Le NCIS représente le service d'enquête du Corps de Navy;",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Le site web de \"Shut Up & Sit Down\" examine quelle forme de médias?",
+    "correct_answer": "Jeux de société",
+    "incorrect_answers": [
+      "Émissions de télévision",
+      "Jeux vidéo",
+      "Films",
+      "Jeux de société"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Quand on est \"envious\", on dit qu'ils sont de quelle couleur?",
+    "correct_answer": "Vert",
+    "incorrect_answers": [
+      "Rouge",
+      "Bleu",
+      "Jaune",
+      "Vert"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Lequel de ces jours fériés n'est habituellement PAS célébré au mois de décembre?",
+    "correct_answer": "Thanksgiving",
+    "incorrect_answers": [
+      "Noël",
+      "Kwanzaa",
+      "Hanukkah",
+      "Thanksgiving"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Une étude scientifique sur les arachides dans les barres a trouvé des traces de plus de 100 spécimens uniques d'urine.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "En moyenne, les Américains consomment 100 livres de quoi par seconde?",
+    "correct_answer": "Chocolat",
+    "incorrect_answers": [
+      "Pommes de terre",
+      "Donuts",
+      "Cocaïne",
+      "Chocolat"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Le type “fairy” fait ses débuts dans quelle génération des jeux de la série Pokemon?",
+    "correct_answer": "6ème",
+    "incorrect_answers": [
+      "2ème",
+      "7ème",
+      "4ème",
+      "6ème"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "question": "Si quelqu'un a dit \" vous êtes Olid\", que signifieraient-ils?",
+    "correct_answer": "Tu sens très désagréable.",
+    "incorrect_answers": [
+      "Vous n'êtes pas en forme/faible.",
+      "Votre apparence est répugnante.",
+      "Vous êtes incompréhensible.",
+      "Tu sens très désagréable."
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "En 2010, Twitter et la United States Library of Congress se sont associés pour archiver chaque tweet par des citoyens américains.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Qu'est-ce que \"dabbing\"?",
+    "correct_answer": "Une danse",
+    "incorrect_answers": [
+      "Une procédure médicale",
+      "Un sport",
+      "Une langue",
+      "Une danse"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Les concombres sont habituellement plus de 90 % d'eau.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Quel est le nom donné aux dictateurs militaires japonais qui ont gouverné le pays au cours des XIIe et XIXe siècles ?",
+    "correct_answer": "Châtain",
+    "incorrect_answers": [
+      "Ninja",
+      "Samouraï",
+      "Shinobi",
+      "Châtain"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Cinq dollars vaut combien de cents ?",
+    "correct_answer": "100",
+    "incorrect_answers": [
+      "50",
+      "25",
+      "69",
+      "100"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Avec quelle société Valve a-t-elle collaboré à la création de la Vive ?",
+    "correct_answer": "AUTRES",
+    "incorrect_answers": [
+      "Oculus",
+      "Google",
+      "Razer",
+      "AUTRES"
+    ]
+  }
+]

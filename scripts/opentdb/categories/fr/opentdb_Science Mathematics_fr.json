@@ -1,0 +1,759 @@
+[
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Si vous pouviez plier un morceau de papier en 50 fois, son épaisseur sera de 3/4 de la distance entre la Terre et le Soleil.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Dans le système hexadécimal, quel nombre vient après 9?",
+    "correct_answer": "La lettre A",
+    "incorrect_answers": [
+      "10",
+      "Le numéro 0",
+      "16",
+      "La lettre A"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Quel est le quatrième chiffre de π?",
+    "correct_answer": "1",
+    "incorrect_answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Lequel de ces nombres est le plus proche du nombre total d'états possibles pour une machine Enigma standard de l'armée?",
+    "correct_answer": "1,58 x 10^20",
+    "incorrect_answers": [
+      "1,58 x 10^22",
+      "1,58 x 10^18",
+      "1,58 x 10,24",
+      "1,58 x 10^20"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Lequel des mathématiciens suivants est mort dans un duel à l'âge de 20 ans?",
+    "correct_answer": "Galois",
+    "incorrect_answers": [
+      "Abel",
+      "Euler",
+      "Gauss",
+      "Galois"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Le théorème de Pythagore indique que le carré de l'hypoténuse est égal au produit des carrés des deux autres côtés.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Quelle est la courbe de plan proposée par Descartes pour défier Fermat's techniques de recherche de l'extrémité appelé?",
+    "correct_answer": "Folium de Descartes",
+    "incorrect_answers": [
+      "Paraboloïde elliptique de Descartes",
+      "Coordonnées cartésiennes",
+      "Descarte 's Helicoid",
+      "Folium de Descartes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Lequel des mathématiciens suivants a apporté une contribution majeure à la théorie du jeu?",
+    "correct_answer": "John Von Neumann",
+    "incorrect_answers": [
+      "Carl Friedrich Gauss",
+      "Leonhard Euler",
+      "Stefan Banach",
+      "John Von Neumann"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "A quelle température la température en °C est-elle égale en °F?",
+    "correct_answer": "-40",
+    "incorrect_answers": [
+      "+40",
+      "0",
+      "+100",
+      "-40"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Quel est le bon ordre des opérations pour résoudre les équations?",
+    "correct_answer": "Parenthèses, exposants, multiplication, division, addition, soustraction",
+    "incorrect_answers": [
+      "Addition, Multiplication, Division, Soustraction, Addition, Parenthèses",
+      "Parenthèses, exposants, ajout, substraction, multiplication, division",
+      "L'ordre dans lequel les opérations sont écrites.",
+      "Parenthèses, exposants, multiplication, division, addition, soustraction"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Vous pouvez carrér racine un nombre négatif avec un nombre imaginaire \"i\".",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "La preuve du Théorème des restes chinois utilisé dans la Théorie des nombres n'a pas été développée par son premier éditeur, Sun Tzu.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Quelle est l'équation pour la zone d'une sphère?",
+    "correct_answer": "(4/3) et/ou",
+    "incorrect_answers": [
+      "4 et 2",
+      "1/3)&p;r2",
+      "autres",
+      "(4/3) et/ou"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "111 111 111 x 111 111 111 111 = 12 345 678 987 654 321",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Quel est le symbole du déplacement?",
+    "correct_answer": "Δr",
+    "incorrect_answers": [
+      "dr",
+      "Dp",
+      "r",
+      "Δr"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Quelle est la valeur approximative de la constante mathématique e?",
+    "correct_answer": "2.72",
+    "incorrect_answers": [
+      "3.14",
+      "1,62",
+      "1.41",
+      "2.72"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Quel type d'angle est supérieur à 90°?",
+    "correct_answer": "Obtuse",
+    "incorrect_answers": [
+      "Aiguë",
+      "Droite",
+      "Tout droit",
+      "Obtuse"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Le problème 'Squaring the Circle' est soluble.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Au nombre entier le plus proche, combien de radians sont dans un cercle entier ?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Le mathématicien français Évariste Galois est principalement connu pour son travail dans lequel?",
+    "correct_answer": "Théorie de Galois",
+    "incorrect_answers": [
+      "Galois' Fractions continues",
+      "Galois' Méthode pour PDE's",
+      "Intégration abelienne",
+      "Théorie de Galois"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Un triangle scalène a deux côtés de longueur égale.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quelle forme sin(x) ou cos(x) fait-on sur un graphique?",
+    "correct_answer": "Les vagues",
+    "incorrect_answers": [
+      "Une parabole",
+      "Une ligne droite",
+      "Zig-Zags",
+      "Les vagues"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Un triangle isocèle a deux côtés de longueur égale par rapport à trois.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quels sont les 6 premiers chiffres du numéro \"Pi\"?",
+    "correct_answer": "3.14159",
+    "incorrect_answers": [
+      "3.14169",
+      "3.12423",
+      "3.25812",
+      "3.14159"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Lequel des dés suivants n'est pas un solide platonique?",
+    "correct_answer": "10 côtés",
+    "incorrect_answers": [
+      "12 côtés",
+      "mort de 20 côtés",
+      "8 côtés",
+      "10 côtés"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Le nombre décimal 31 en hexadécimal serait quoi ?",
+    "correct_answer": "1 F",
+    "incorrect_answers": [
+      "3D",
+      "2E",
+      "1B",
+      "1 F"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quelle est la zone d'un cercle d'un diamètre de 20 pouces si &pi= 3.1415?",
+    "correct_answer": "314.15 Pouces",
+    "incorrect_answers": [
+      "380.1215 Pouces",
+      "3141.5 Pouces",
+      "1256,6 pouces",
+      "314.15 Pouces"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "A 'Millillion' est un nombre réel.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "La notion de « \"set » qui contient tous les ensembles qui ne se contiennent pas\" est-elle une idée paradoxale attribuée à quel philosophe anglais?",
+    "correct_answer": "Bertrand Russel",
+    "incorrect_answers": [
+      "Francis Bacon",
+      "John Locke",
+      "Alfred North Whitehead",
+      "Bertrand Russel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quelle lettre grecque est utilisée pour signifier la somme?",
+    "correct_answer": "Sigma",
+    "incorrect_answers": [
+      "Delta",
+      "Alpha",
+      "Oméga",
+      "Sigma"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quel est le chiffre romain pour 500?",
+    "correct_answer": "D",
+    "incorrect_answers": [
+      "L",
+      "C",
+      "X",
+      "D"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Un triangle équilatéral a toujours chaque angle mesurant 60°.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Combien de côtés a un trapèze ?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Combien de Millibars (mbar) à 1 pouce de mercure (en Hg)",
+    "correct_answer": "33,9",
+    "incorrect_answers": [
+      "30,0",
+      "27.4",
+      "10,6",
+      "33,9"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "En chiffres romains, à quoi XL équivaut-il ?",
+    "correct_answer": "40",
+    "incorrect_answers": [
+      "60",
+      "15",
+      "90",
+      "40"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "En topologie, le complément d'un ensemble ouvert est un ensemble fermé.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Dans le plan complexe, en multipliant une fonction donnée par i tourne dans le sens anti-horaire de combien de degrés?",
+    "correct_answer": "90",
+    "incorrect_answers": [
+      "180",
+      "270",
+      "0",
+      "90"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "La somme de deux entiers étranges est étrange.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quels sont les nombres dans la 5ème rangée de Pascal's Triangle?",
+    "correct_answer": "Annexe",
+    "incorrect_answers": [
+      "1 3 3 1",
+      "Autres",
+      "1 6 15 20 15 6 1",
+      "Annexe"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "E = MC3",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quel est le dérivé de sin(x)",
+    "correct_answer": "cos(x)",
+    "incorrect_answers": [
+      "csc(x)",
+      "-cos(x)",
+      "-sin(x)",
+      "cos(x)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Combien de zéros y a-t-il dans un googol ?",
+    "correct_answer": "100",
+    "incorrect_answers": [
+      "10",
+      "1 000",
+      "1 000 000",
+      "100"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Combien de côtés a un heptagone ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quelle est la représentation alphanumérique du nombre imaginaire ?",
+    "correct_answer": "i",
+    "incorrect_answers": [
+      "e",
+      "n",
+      "x",
+      "i"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Le nombre binaire \"101001101\" est équivalent au nombre décimal \"334\"",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Le facteur zéro est égal à zéro.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Le préfixe métrique \"atto-\" fait une mesure combien plus petite que l'unité de base?",
+    "correct_answer": "Un quintillionième",
+    "incorrect_answers": [
+      "Un milliardième",
+      "Un quadrillionième",
+      "Un septillionième",
+      "Un quintillionième"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "L'intégration est l'inverse de quelle opération mathématique?",
+    "correct_answer": "Dérivés",
+    "incorrect_answers": [
+      "Division",
+      "Déviation standard",
+      "Multiplication",
+      "Dérivés"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quel mathématicien a refusé la médaille Fields ?",
+    "correct_answer": "Grigori Perelman",
+    "incorrect_answers": [
+      "Andrew Wiles",
+      "Terence Tao",
+      "Edward Witten",
+      "Grigori Perelman"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Quel premier numéro vient après 19?",
+    "correct_answer": "23",
+    "incorrect_answers": [
+      "25",
+      "21",
+      "27",
+      "23"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quel type de fonction est x²+2x+1?",
+    "correct_answer": "Quadratic",
+    "incorrect_answers": [
+      "Rational",
+      "Linéaire",
+      "Exponentielle",
+      "Quadratic"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "La racine carrée de 49?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "4",
+      "12",
+      "9",
+      "7"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Quel est le dérivé de l'accélération par rapport au temps?",
+    "correct_answer": "Crétin",
+    "incorrect_answers": [
+      "Déplacement",
+      "Bouffe",
+      "Diapositive",
+      "Crétin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Combien de livres sont dans Euclid's Elements of Geometry?",
+    "correct_answer": "13",
+    "incorrect_answers": [
+      "8",
+      "10",
+      "17",
+      "13"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "Un ensemble universel, ou un ensemble qui contient tous les ensembles, existe.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quel mathématicien grec a traversé les rues de Syracuse nue en criant \"Eureka\" après avoir découvert le principe du déplacement?",
+    "correct_answer": "Archimèdes",
+    "incorrect_answers": [
+      "Euclide",
+      "Homer",
+      "Eratosthènes",
+      "Archimèdes"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "L'ensemble de tous les nombres algébriques est compté.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "Quel est le premier exposant principal de Mersenne sur 1000 ?",
+    "correct_answer": "1279",
+    "incorrect_answers": [
+      "2203",
+      "1009",
+      "1069",
+      "1279"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Combien de zeptomètres à l'intérieur d'un femtomètre ?",
+    "correct_answer": "1 000 000",
+    "incorrect_answers": [
+      "10",
+      "1",
+      "1 000",
+      "1 000 000"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "Quel est le plus petit nombre qui peut être exprimé comme la somme de deux cubes positifs de deux façons différentes?",
+    "correct_answer": "1729",
+    "incorrect_answers": [
+      "91",
+      "561",
+      "4104",
+      "1729"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Science: Mathematics",
+    "question": "L'Hôpital était le mathématicien qui a créé la règle homonyme qui utilise des dérivés pour évaluer les limites avec des indéterminations.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  }
+]

@@ -1,0 +1,1423 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Combien de livres sont dans la série Chroniques de Narnia ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Lequel des livres suivants est le livre le plus vendu dans le monde?",
+    "correct_answer": "Le Seigneur des Anneaux",
+    "incorrect_answers": [
+      "Le Petit Prince",
+      "Harry Potter et le philosophe et #039;s Stone",
+      "Code Da Vinci",
+      "Le Seigneur des Anneaux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans la Romance des Trois Royaumes, qui n'était pas membre du serment de jardin de pêche?",
+    "correct_answer": "Zhao Yun",
+    "incorrect_answers": [
+      "Liu Bei",
+      "Guan Yu",
+      "Zhang Fei",
+      "Zhao Yun"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit le roman ' La peur et la haine à Las Vegas'?",
+    "correct_answer": "Chasseur S. Thompson",
+    "incorrect_answers": [
+      "F. Scott Fitzgerald",
+      "Henry Miller",
+      "William S. Burroughs",
+      "Chasseur S. Thompson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Le roman \" Of Mice And Men\" a été écrit par quel auteur?",
+    "correct_answer": "M. John Steinbeck",
+    "incorrect_answers": [
+      "George Orwell",
+      "Mark Twain",
+      "Harper Lee",
+      "M. John Steinbeck"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel poète a écrit \"The Ballad of Reading Gaol\" alors qu'il était emprisonné pour être gay?",
+    "correct_answer": "Oscar Wilde",
+    "incorrect_answers": [
+      "Seigneur Byron",
+      "William Blake",
+      "Wilfred Owen",
+      "Oscar Wilde"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit le roman \"Moby-Dick\"?",
+    "correct_answer": "Herman Melville",
+    "incorrect_answers": [
+      "William Golding",
+      "William Shakespeare",
+      "J. R. R. Tolkien",
+      "Herman Melville"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Abel Magwitch est un personnage du roman Charles Dickens ?",
+    "correct_answer": "Grandes attentes",
+    "incorrect_answers": [
+      "Les papiers de Pickwick",
+      "Nicholas Nickleby",
+      "Oliver Twist",
+      "Grandes attentes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel romancier espion célèbre a écrit le childrens' story \"Chitty-Chitty-Bang-Bang\"?",
+    "correct_answer": "Ian Fleming",
+    "incorrect_answers": [
+      "Joseph Conrad",
+      "John Buchan",
+      "Graham Greene",
+      "Ian Fleming"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans la série \"Harry Potter\", quel est le nom complet du directeur Dumbledore'?",
+    "correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+    "incorrect_answers": [
+      "Albus Valum Jetta Mobius Dumbledore",
+      "Albus James Lunae Otto Dumbledore",
+      "Albus Valencium Horatio Kul Dumbledore",
+      "Albus Percival Wulfric Brian Dumbledore"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans Terry Pratchett's Discworld roman 'Wyrd Sisters', lequel d'entre eux ne sont pas l'une des trois sorcières principales?",
+    "correct_answer": "Winny Hathersham",
+    "incorrect_answers": [
+      "Granny Wax Météo",
+      "Nounou Ogg",
+      "Magrat Garlick",
+      "Winny Hathersham"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit le roman d'horreur de 1967 \"Rosemary's Baby\"?",
+    "correct_answer": "Ira Levin",
+    "incorrect_answers": [
+      "Stephen King",
+      "Robert Bloch",
+      "Marie Shelley",
+      "Ira Levin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit le roman pour jeunes adultes \"The Fault in Our Stars\"?",
+    "correct_answer": "John Green",
+    "incorrect_answers": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky",
+      "John Green"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quelle position Harry Potter joue-t-il à Quidditch ?",
+    "correct_answer": "Sourcier",
+    "incorrect_answers": [
+      "Batteur",
+      "Chasseur",
+      "Gardien",
+      "Sourcier"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qui était l'auteur original de Frankenstein ?",
+    "correct_answer": "Marie Shelley",
+    "incorrect_answers": [
+      "Edgar Allan Poe",
+      "Bram Stoker",
+      "H. P. Lovecraft",
+      "Marie Shelley"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Quel comté fictif d'Angleterre était le décor des romans de Thomas Hardy'?",
+    "correct_answer": "Wessex",
+    "incorrect_answers": [
+      "Barsetshire",
+      "Fulchester",
+      "Ambridge",
+      "Wessex"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans la magie : l'univers Rassemblement, dans quel plan se déroule l'expansion des Homelands ?",
+    "correct_answer": "Ulgrotha",
+    "incorrect_answers": [
+      "Bannière",
+      "Llanowar",
+      "Tazeem",
+      "Ulgrotha"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Le livre 1984 a été publié en 1949.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans le \"Harry Potter\" romans, que doit faire un étudiant de Hogwarts pour entrer dans la salle commune de Ravenclaw?",
+    "correct_answer": "Répondre à une énigme",
+    "incorrect_answers": [
+      "Fûts à taper rythmiquement avec une baguette",
+      "Parlez un mot de passe",
+      "Frappez en séquence",
+      "Répondre à une énigme"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel était le nom de la romancière, Mary Ann Evans ?",
+    "correct_answer": "George Eliot",
+    "incorrect_answers": [
+      "George Orwell",
+      "George Bernard Shaw",
+      "George Saunders",
+      "George Eliot"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans la série de livres pour enfants, d'où vient Paddington Bear?",
+    "correct_answer": "Pérou",
+    "incorrect_answers": [
+      "Inde",
+      "Espagne",
+      "Canada",
+      "Pérou"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans Margaret Atwood's \"The Handmaid's Tale\", quel est le vrai nom de Offred'?",
+    "correct_answer": "Juin",
+    "incorrect_answers": [
+      "Août",
+      "Avril",
+      "Mai",
+      "Juin"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "\"Élémentaire, mon cher Watson\" est une phrase qui n'est jamais vraiment dit dans les livres de Conan Doyle de Sherlock Holmes.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans le roman \"Seigneur des Anneaux\", combien de anneaux de pouvoir ont été donnés à la race de l'homme?",
+    "correct_answer": "9",
+    "incorrect_answers": [
+      "5",
+      "11",
+      "13",
+      "9"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans Les mensonges de Locke Lamora, que signifie \"a;Lamora\"a; dans Throne Therin?",
+    "correct_answer": "Ombre",
+    "incorrect_answers": [
+      "Tous les trois",
+      "Justice",
+      "Chaos",
+      "Ombre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans quel roman classique y a-t-il un personnage nommé Homer Simpson ?",
+    "correct_answer": "Le Jour du Locust",
+    "incorrect_answers": [
+      "Capture-22",
+      "Des souris et des hommes",
+      "Une paix séparée",
+      "Le Jour du Locust"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qu'est-ce que le deuxième livre de George R. R. Martin?",
+    "correct_answer": "Un choc des rois",
+    "incorrect_answers": [
+      "Une danse avec les Dragons",
+      "Une tempête d'épées",
+      "Une fête pour les foules",
+      "Un choc des rois"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel est le nom du chien à trois têtes dans Harry Potter et le Sorcerer's Stone?",
+    "correct_answer": "Fumée",
+    "incorrect_answers": [
+      "Spike",
+      "Poofy",
+      "Spot",
+      "Fumée"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quelle série de livres publié par Jim Butcher suit un magicien dans Chicago moderne?",
+    "correct_answer": "Les fichiers Dresde",
+    "incorrect_answers": [
+      "Un chapeau dans le temps",
+      "Les cidres",
+      "Ma vie comme un assistant d'adolescents",
+      "Les fichiers Dresde"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "George Orwell a écrit ce livre, qui est souvent considéré comme une déclaration sur la surveillance du gouvernement.",
+    "correct_answer": "1984",
+    "incorrect_answers": [
+      "Le Vieux et la Mer",
+      "Capteur et le Rye",
+      "Pour tuer un oiseau moche",
+      "1984"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Oeufs verts Et Ham\" est un livre par lequel auteur?",
+    "correct_answer": "Dr Seuss",
+    "incorrect_answers": [
+      "Beatrix Potter",
+      "C'est le cas de Roald Dahl",
+      "A.A. Milne",
+      "Dr Seuss"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Qui est le protagoniste du livre : \"The Catcher in the Rye\" par J.D. Salinger",
+    "correct_answer": "Holden Caulfield",
+    "incorrect_answers": [
+      "Holden David",
+      "Jérôme Caulfield",
+      "Jérôme David",
+      "Holden Caulfield"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans quel roman classique de Mark Twain un mendiant et le prince de Galles ont-ils changé de vêtements et appris l'inégalité de classe sociale?",
+    "correct_answer": "Le Prince et le Pauper",
+    "incorrect_answers": [
+      "Hameau",
+      "Garçon riche et Schmuck",
+      "Une histoire moderne",
+      "Le Prince et le Pauper"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit l'histoire des enfants 's \"The Little Match Girl\"?",
+    "correct_answer": "Hans Christian Andersen",
+    "incorrect_answers": [
+      "Charles Dickens",
+      "Lewis Carroll",
+      "Oscar Wilde",
+      "Hans Christian Andersen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Qu'est-ce que le deuxième nom de Hermione Granger'?",
+    "correct_answer": "Jean",
+    "incorrect_answers": [
+      "Jane",
+      "- Oui",
+      "Voir",
+      "Jean"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Lequel d'entre eux Charlie ne lit - il pas dans The Perks of Being a Wallflower?",
+    "correct_answer": "Les raisins de la colère",
+    "incorrect_answers": [
+      "Hameau",
+      "Le Grand Gatsby",
+      "Peter Pan",
+      "Les raisins de la colère"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans Alice au pays des merveilles, quel est le nom d'Alice's chaton?",
+    "correct_answer": "Dinah",
+    "incorrect_answers": [
+      "Osée",
+      "Heath",
+      "Fumée",
+      "Dinah"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans le livre \"The Martien\", combien de temps Mark Watney a-t-il été piégé sur Mars (à Sols)?",
+    "correct_answer": "549 jours",
+    "incorrect_answers": [
+      "765 jours",
+      "401 Jours",
+      "324 jours",
+      "549 jours"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Stephen Chbosky a écrit le livre 'Les avantages d'être un wallflower'.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Laquelle des œuvres suivantes n'est pas une oeuvre écrite par Fyodor Dostoïevsky?",
+    "correct_answer": "Anna Karenina",
+    "incorrect_answers": [
+      "Notes du métro",
+      "Criminalité et peines",
+      "Les Frères Karamazov",
+      "Anna Karenina"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "The \"Berenstein Bears\" est l'orthographe correcte de la série de livres d'éducation pour enfants's' nom.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Harry Potter est né le 31 juillet 1980.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Mary Shelley est l'auteur de quelle histoire d'horreur classique ?",
+    "correct_answer": "Frankenstein",
+    "incorrect_answers": [
+      "Dracula",
+      "Cas étrange du Dr Jekyll et de M. Hyde",
+      "La légende de Sleepy Hollow",
+      "Frankenstein"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel est le quatrième livre de l'Ancien Testament?",
+    "correct_answer": "Nombres",
+    "incorrect_answers": [
+      "Genèse",
+      "Exode",
+      "Lévitique",
+      "Nombres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Le roman \"Jane Eyre\" a été écrit par quel auteur?",
+    "correct_answer": "Charlotte Brontë",
+    "incorrect_answers": [
+      "Emily Brontë",
+      "Jane Austen",
+      "Louisa May Alcott",
+      "Charlotte Brontë"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quelle est la marque et le modèle des véhicules touristiques dans \"Jurassic Park\" (1990)?",
+    "correct_answer": "Toyota Land Cruiser 1989",
+    "incorrect_answers": [
+      "1989 Jeep Wrangler YJ Sahar",
+      "1989 Ford Explorer XLT",
+      "Classe Mercedes M",
+      "Toyota Land Cruiser 1989"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans l'univers d'Harry Potter, qu'est-ce que Cornelius Fudge'?",
+    "correct_answer": "Oswald",
+    "incorrect_answers": [
+      "Jacques",
+      "Harold",
+      "Christopher",
+      "Oswald"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Quel est le nom de la ville où Lily et James Potter sont enterrés ?",
+    "correct_answer": "Godric's Hollow",
+    "incorrect_answers": [
+      "Farine de porc",
+      "Ottery St. Catchpole",
+      "Petit Hangleton",
+      "Godric's Hollow"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel était le dernier message des Dolphins dans \"The Hitchhiker's Guide to the Galaxy\"?",
+    "correct_answer": "Si longtemps, et merci pour tous les poissons. \"a;",
+    "incorrect_answers": [
+      "\"La réponse est 42.\"",
+      "La terre des braves. \"a;",
+      "Au revoir monde cruel! \"a;",
+      "Si longtemps, et merci pour tous les poissons. \"a;"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "\"Green Eggs and Ham\" se compose de seulement 50 mots différents.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel était le nom original de Sir Handel's dans \"The Railway Series\" et it's contrepartie animée \"Thomas and Friends? \"a;",
+    "correct_answer": "Faucon",
+    "incorrect_answers": [
+      "Aigle",
+      "Kyte",
+      "Avalez",
+      "Faucon"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "À l'origine, le personnage Charlie de Charlie et la chocolaterie allait être noir.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel est le titre du premier livre Sherlock Holmes d'Arthur Conan Doyle ?",
+    "correct_answer": "Une étude en écarlate",
+    "incorrect_answers": [
+      "Le signe des quatre",
+      "Un cas d'identité",
+      "Les actes de Raffles Haw",
+      "Une étude en écarlate"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quoi' Harry Potter' s papa' s nom?",
+    "correct_answer": "James Potter",
+    "incorrect_answers": [
+      "Joey Potter",
+      "Frank Potter",
+      "Poterie poilue Sr.",
+      "James Potter"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Le titre d'Adolf Hitler's autobiographie \"Mein Kampf\" est-il traduit en anglais?",
+    "correct_answer": "Mon combat",
+    "incorrect_answers": [
+      "Ma haine",
+      "Ma tristesse",
+      "Mon désir",
+      "Mon combat"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans la série de livres \"Odd Thomas\", Danny Jessup a quelle maladie génétique?",
+    "correct_answer": "Ostéogenèse Imperfecta",
+    "incorrect_answers": [
+      "Ataxie spinocérébellaire",
+      "Adrénoleukodystrophie",
+      "Fibrosis kystique",
+      "Ostéogenèse Imperfecta"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Dracula est détruite par contact avec la lumière du soleil",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans Harry Potter et les Hallows mortels, Hermione a détruit le quatrième Horcrux en le poignardant avec l'épée de Gryfindor.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Par quel surnom est connu Jack Dawkins dans le roman Charles Dickens, 'Oliver Twist'?",
+    "correct_answer": "L'Artueux Dodger",
+    "incorrect_answers": [
+      "Fagin",
+      "Taureau et yeux",
+      "Monsieur Fang",
+      "L'Artueux Dodger"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans le \"The Hobbit\", qui tue Smaug?",
+    "correct_answer": "Bard",
+    "incorrect_answers": [
+      "Bilbo Baggins",
+      "Gandalf le Gris",
+      "Frodo",
+      "Bard"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Dans le roman 1984 de George Orwell, quel est le nom du régime totalitaire qui contrôle l'Océanie ?",
+    "correct_answer": "INGSOC",
+    "incorrect_answers": [
+      "Néo-bolchévisme",
+      "Oblitération du Soi",
+      "Alliance Terre",
+      "INGSOC"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Qu'est-ce que le deuxième nom de Ron Weasley'?",
+    "correct_answer": "Bilius",
+    "incorrect_answers": [
+      "Arthur",
+      "Jean",
+      "Dominic",
+      "Bilius"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Lequel de ces livres est de James Patterson ?",
+    "correct_answer": "Course maximale",
+    "incorrect_answers": [
+      "Harry Potter",
+      "La légende de Xanth",
+      "La trilogie Bartemaeus",
+      "Course maximale"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Lequel des éléments suivants n'est PAS un travail réalisé par Shakespeare?",
+    "correct_answer": "Procès de Tempérance",
+    "incorrect_answers": [
+      "Mesure de mesure",
+      "Titus Andronicus",
+      "Cymbéline",
+      "Procès de Tempérance"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans l'univers Harry Potter, qui finit par se marier avec Draco Malfoy ?",
+    "correct_answer": "Astoria Greengrass",
+    "incorrect_answers": [
+      "Pansy Parkinson",
+      "Millicent Bulstrode",
+      "Hermione Granger",
+      "Astoria Greengrass"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Lequel de ceux-ci était l'auteur de \"Username Evie\"?",
+    "correct_answer": "Joe Suggère",
+    "incorrect_answers": [
+      "Zoe Sugg",
+      "Joe Weller",
+      "Alfie Deyes",
+      "Joe Suggère"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "La série Harry Potter, combinée, a plus de 1 000 000 de mots.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Dans quel livre Harry Potter était un Horcrux rencontré pour la première fois?",
+    "correct_answer": "La Chambre des Secrets",
+    "incorrect_answers": [
+      "Le Prince à moitié sanglier",
+      "Le Gobelet du Feu",
+      "La haine mortelle",
+      "La Chambre des Secrets"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel livre classique ouvre avec la ligne \"Appelez-moi Ishmael\"?",
+    "correct_answer": "Moby Dick",
+    "incorrect_answers": [
+      "Un conte de deux villes",
+      "Enlèvement",
+      "Hauteurs de Wuthering",
+      "Moby Dick"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans les livres de Beatrix Potter, quel type d'animal est Tommy Brock ?",
+    "correct_answer": "Blaireau",
+    "incorrect_answers": [
+      "Renard",
+      "Grenouille",
+      "Lapin",
+      "Blaireau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "J.K. Rowling a complété \"Harry Potter et le Deathly Hallows\" dans quel hôtel à Edimbourg, en Écosse?",
+    "correct_answer": "Le Balmoral",
+    "incorrect_answers": [
+      "L'hôtel Dunstane",
+      "Hôtel Novotel",
+      "Sheraton Grand Hôtel & Spa",
+      "Le Balmoral"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel était le nom du sous-marin du capitaine Nemo's dans \"20 000 Les ligues sous la mer et le quotient;?",
+    "correct_answer": "Le Nautilus",
+    "incorrect_answers": [
+      "Les Neptune",
+      "Le Poséidon",
+      "L'Atlantide",
+      "Le Nautilus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Le livre \"Le Petit Prince\" a été écrit par...",
+    "correct_answer": "Antoine de Saint-Exupéry",
+    "incorrect_answers": [
+      "Miguel de Cervantes Saavedra",
+      "Jane Austen",
+      "F. Scott Fitzgerald",
+      "Antoine de Saint-Exupéry"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qui était l'auteur du roman de 1954, \"Lord des mouches\"?",
+    "correct_answer": "William Golding",
+    "incorrect_answers": [
+      "Stephen King",
+      "F. Scott Fitzgerald",
+      "Chasseur Fox",
+      "William Golding"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Combien de livres Harry Potter y a-t-il ?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel roman de John Grisham a été conçu lors d'un voyage en Floride en pensant aux livres volés avec sa femme?",
+    "correct_answer": "Île Camino",
+    "incorrect_answers": [
+      "Avocat Rogue",
+      "Montagne grise",
+      "Le litige",
+      "Île Camino"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Selon The Hitchhiker's Guide du livre Galaxy, la réponse à la vie, l'univers et tout le reste est...",
+    "correct_answer": "42",
+    "incorrect_answers": [
+      "Aimant tout le monde autour de toi",
+      "Chocolat",
+      "Décès",
+      "42"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Quel personnage d'horreur classique a tué Elizabeth Lavenza ?",
+    "correct_answer": "Frankenstein 's Monster",
+    "incorrect_answers": [
+      "Comte Dracula",
+      "Loup-garou",
+      "La Créature de la Lagune Noire",
+      "Frankenstein 's Monster"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel auteur américain était aussi un écrivain de voyage en herbe et a écrit de ses aventures avec son chien Charley?",
+    "correct_answer": "M. John Steinbeck",
+    "incorrect_answers": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "M. John Steinbeck"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Sous quel pseudonyme Stephen King a - t - il publié cinq romans entre 1977 et 1984?",
+    "correct_answer": "Richard Bachman",
+    "incorrect_answers": [
+      "J. D. Robb",
+      "Mark Twain",
+      "Lewis Carroll",
+      "Richard Bachman"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans Michael Crichton's roman \"Jurassic Park\", John Hammond rencontre sa disparition aux griffes de quel dinosaure?",
+    "correct_answer": "Procompsognathus",
+    "incorrect_answers": [
+      "Dilophosaurus",
+      "Tyrannosaurus Rex",
+      "Velociraptor",
+      "Procompsognathus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel est le nom du protagoniste du roman de J.D. Salinger's Catcher in the Rye?",
+    "correct_answer": "Holden Caulfield",
+    "incorrect_answers": [
+      "Fletcher Christian",
+      "Jay Gatsby",
+      "Randall Flagg",
+      "Holden Caulfield"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Qui est l'auteur de la série \"Malazan Book of the Fallen\"?",
+    "correct_answer": "Steven Erikson",
+    "incorrect_answers": [
+      "Ian Cameron Esslemont",
+      "George R. R. Martin",
+      "J. R. R. Tolkien",
+      "Steven Erikson"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "D'où vient le livre \"The Silence of the Lambs\"?",
+    "correct_answer": "Le personnage principal 's traumatismes dans l'enfance",
+    "incorrect_answers": [
+      "La relation avec le meurtre des innocents",
+      "Le méchant et #039; le repas préféré",
+      "La voix des innocents étant fermée par les puissants",
+      "Le personnage principal 's traumatismes dans l'enfance"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Par quel nom l'auteur Eric Blair était-il mieux connu ?",
+    "correct_answer": "George Orwell",
+    "incorrect_answers": [
+      "Aldous Huxley",
+      "Ernest Hemingway",
+      "Ray Bradbury",
+      "George Orwell"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Lequel des auteurs suivants n'est pas né en Angleterre?",
+    "correct_answer": "Arthur Conan Doyle",
+    "incorrect_answers": [
+      "Graham Greene",
+      "Biens",
+      "Arthur C Clarke",
+      "Arthur Conan Doyle"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Quel auteur et poète célèbre a écrit la ligne, \"La femelle de l'espèce est plus mortelle que le mâle\"?",
+    "correct_answer": "Rudyard Kipling",
+    "incorrect_answers": [
+      "Edgar Allan Poe",
+      "William Shakespeare",
+      "William Wordsworth",
+      "Rudyard Kipling"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel est le nom de Sherlock Holmes' frère?",
+    "correct_answer": "Mycroft Holmes",
+    "incorrect_answers": [
+      "Mederi Holmes",
+      "Martin Holmes",
+      "Herbie Hancock Holmes",
+      "Mycroft Holmes"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit la série de romans de fantasy?",
+    "correct_answer": "George R. R. Martin",
+    "incorrect_answers": [
+      "George Lucas",
+      "George Orwell",
+      "George Eliot",
+      "George R. R. Martin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Lequel de ces livres n'a PAS été écrit par l'auteur tchèque Karel Čapek?",
+    "correct_answer": "Voyage au Centre de la Terre",
+    "incorrect_answers": [
+      "La guerre avec les Newts",
+      "R.U.R. (Rossum's Universal Robots)",
+      "Dashenka, ou la vie d'un chiot",
+      "Voyage au Centre de la Terre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Le livre \"Fahrenheit 451\" a été écrit par qui?",
+    "correct_answer": "Ray Bradbury",
+    "incorrect_answers": [
+      "R. L. Stine",
+      "Wolfgang Amadeus Mozart",
+      "Stephen King",
+      "Ray Bradbury"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel auteur russe a écrit le roman épique Guerre et Paix ?",
+    "correct_answer": "Leo Tolstoï",
+    "incorrect_answers": [
+      "Fyodor Dostoïevsky",
+      "Alexander Pouchkine",
+      "Vladimir Nabokov",
+      "Leo Tolstoï"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Selon le roman de Bram Stoker', dans quelle ville côtière britannique Dracula est-elle descendue?",
+    "correct_answer": "C'est quoi ",
+    "incorrect_answers": [
+      "Scarborough",
+      "Brighton",
+      "Portsmouth",
+      "C'est quoi "
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel est le nom d'Eragon's dragon dans \"Eragon\"?",
+    "correct_answer": "Saphira",
+    "incorrect_answers": [
+      "Gladre",
+      "Épine",
+      "Arya",
+      "Saphira"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel était le nom de l'île mystérieuse, dans Jules Verne's \"The Mysterious Island\"?",
+    "correct_answer": "Île Lincoln",
+    "incorrect_answers": [
+      "Île de Vulcania",
+      "Île Prométhée",
+      "Île de Neptune",
+      "Île Lincoln"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "En 1818, la romancière Mary Shelly est créditée pour avoir écrit un roman de fiction et créé ce personnage infâme.",
+    "correct_answer": "Frankenstein 's monstre",
+    "incorrect_answers": [
+      "Dracula",
+      "La chose",
+      "L'homme invisible",
+      "Frankenstein 's monstre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans la magie : l'univers Rassemblement, les Antiquités, l'âge de glace et les alliances se développent sur quel continent ?",
+    "correct_answer": "Terisiare",
+    "incorrect_answers": [
+      "Aéronautique",
+      "C'est bon",
+      "Jamuraa",
+      "Terisiare"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans le Seigneur des Anneaux, qui est le père du nain Gimli?",
+    "correct_answer": "Gloire",
+    "incorrect_answers": [
+      "Chêne de Thorin",
+      "Bombeur",
+      "Dwalin",
+      "Gloire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit \"A Tale of Two Cities\"?",
+    "correct_answer": "Charles Dickens",
+    "incorrect_answers": [
+      "Charles Darwin",
+      "Mark Twain",
+      "C'est le cas de Roald Dahl",
+      "Charles Dickens"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quelle a été la première inscription écrite pour le projet collaboratif de rédaction de la Fondation SCP?",
+    "correct_answer": "SCP-173",
+    "incorrect_answers": [
+      "SCP-001",
+      "SCP-999",
+      "SCP-1459",
+      "SCP-173"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Shub-Niggurath est une créature créée par J. R. R. Tolkien dans son roman Le Seigneur des Anneaux.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel livre célèbre est sous-titré 'Le Prométhée Moderne'?",
+    "correct_answer": "Frankenstein",
+    "incorrect_answers": [
+      "Dracula",
+      "Le cas étrange du Dr Jekyll et de M. Hyde",
+      "La légende de Sleepy Hollow",
+      "Frankenstein"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans Rudyard Kipling's \"The Jungle Book\", quel type de serpent était Kaa?",
+    "correct_answer": "Python",
+    "incorrect_answers": [
+      "Cobra",
+      "Anaconda",
+      "Vipère",
+      "Python"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Qui a écrit \"Harry Potter\"?",
+    "correct_answer": "J.K. Rowling",
+    "incorrect_answers": [
+      "J.R.R. Tolkien",
+      "Terry Pratchett",
+      "Daniel Radcliffe",
+      "J.K. Rowling"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Quel auteur a coécrit \"Le Manifeste communiste \" aux côtés de Karl Marx?",
+    "correct_answer": "Friedrich Engels",
+    "incorrect_answers": [
+      "Robert Owen",
+      "Alexander Kerensky",
+      "Paul Lafargue",
+      "Friedrich Engels"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Quel est le nom du gang dont Ponyboy fait partie dans le livre, les étrangers ?",
+    "correct_answer": "Les Greasers",
+    "incorrect_answers": [
+      "Les étrangers",
+      "La mafia",
+      "Les Socs",
+      "Les Greasers"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Dans la magie : l'univers Rassemblement, l'expansion des Empires Fallen a lieu sur quel continent ?",
+    "correct_answer": "Sarpadia",
+    "incorrect_answers": [
+      "Otarie",
+      "Terisiare",
+      "C'est bon",
+      "Sarpadia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans \"Petites Femmes\", laquelle des sœurs de mars a épousé Laurie?",
+    "correct_answer": "Amy",
+    "incorrect_answers": [
+      "Beth",
+      "Voir",
+      "Meg",
+      "Amy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans Les mensonges de Locke Lamora, quel titre Locke est connu dans le monde criminel ?",
+    "correct_answer": "L'épine de Camorr",
+    "incorrect_answers": [
+      "La Rose des Marrows",
+      "L'épine d'Emberlain",
+      "L'épine des Marrows",
+      "L'épine de Camorr"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Books",
+    "question": "Quel n'est pas un livre de la série Harry Potter?",
+    "correct_answer": "La Maison Elf",
+    "incorrect_answers": [
+      "La Chambre des Secrets",
+      "Le prisonnier d'Azkaban",
+      "La haine mortelle",
+      "La Maison Elf"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "Dans \"Le Seigneur des Anneaux,\" qui est le propriétaire d'Asfaloth, le cheval qui amène Frodo à Rivendell?",
+    "correct_answer": "Glorfindel",
+    "incorrect_answers": [
+      "M. Arwen",
+      "Agresse",
+      "Haldir",
+      "Glorfindel"
+    ]
+  }
+]

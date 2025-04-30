@@ -1,0 +1,942 @@
+[
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "\"PAYDAY: Le Heist\" est une suite du jeu de société \"Payday\".",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quel est le monstre le plus difficile dans le manuel Monstre de la 5ème édition de Dungeons & Dragons?",
+    "correct_answer": "Tarrasque",
+    "incorrect_answers": [
+      "Voici",
+      "Déplacement de la bête",
+      "Lich",
+      "Tarrasque"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Lequel de ce qui suit n'est PAS une classe en Dungeons et Dragons 5e?",
+    "correct_answer": "Ingénieur",
+    "incorrect_answers": [
+      "Combattant",
+      "Paladin",
+      "Bard",
+      "Ingénieur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Dans les échecs, qui est une caractéristique du King's Gambit?",
+    "correct_answer": "Sacrifier un pion",
+    "incorrect_answers": [
+      "Sacrifiant le roi pour une reine",
+      "Couloir kingside",
+      "Déplacement du roi au 2e coup",
+      "Sacrifier un pion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Certaines des cartes \"Fallen Empires\" de \"Magic: Le recueil et la citation; ont-ils été mal imprimés au dos de quel autre jeu de cartes?",
+    "correct_answer": "Pays",
+    "incorrect_answers": [
+      "Pokemon",
+      "Dominion",
+      "- Oui",
+      "Pays"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Dans le jeu \"Racko\" vous pouvez ramasser toute carte de la pile de déchets.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Combien de dés sont utilisés dans le jeu de Yahtzee?",
+    "correct_answer": "Cinq",
+    "incorrect_answers": [
+      "Quatre",
+      "Six",
+      "Huit",
+      "Cinq"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "En quelle année le stylo et le papier RPG \"Deadlands\" ont-ils été publiés?",
+    "correct_answer": "1996",
+    "incorrect_answers": [
+      "2003",
+      "1999",
+      "1993",
+      "1996"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Combien d'espaces y a-t-il sur une carte Monopoly standard ?",
+    "correct_answer": "40",
+    "incorrect_answers": [
+      "28",
+      "55",
+      "36",
+      "40"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quelle magie : Le texte de la saveur de la carte de rassemblement est juste 'Ribbit.'?",
+    "correct_answer": "Tourner vers la grenouille",
+    "incorrect_answers": [
+      "Grenouille tachetée",
+      "Crapaud gonflé",
+      "Frommite",
+      "Tourner vers la grenouille"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "En magie : Le Rassemblement, qu'est-ce qu'une carte d'hommage à Jamie Wakefield ', épouse défunte Marilyn, qui aimait les chevaux?",
+    "correct_answer": "Timbres",
+    "incorrect_answers": [
+      "Pégases loyales",
+      "Vryn Wingmare",
+      "Sungrace Pegasus",
+      "Timbres"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quel était le nom du code de développement pour le \"Urza's Destiny\" expansion pour \"Magic: The Gathering\", publié en 1999?",
+    "correct_answer": "Chimichanga",
+    "incorrect_answers": [
+      "Burrito",
+      "Taquito",
+      "Enchilada",
+      "Chimichanga"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Combien de pièces y a-t-il sur le plateau au début d'une partie d'échecs ?",
+    "correct_answer": "32",
+    "incorrect_answers": [
+      "16",
+      "20",
+      "36",
+      "32"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Au début d'un jeu standard du Monopoly, si vous lancez un double six, sur quelle place atterririez-vous ?",
+    "correct_answer": "Entreprise électrique",
+    "incorrect_answers": [
+      "Travaux hydrauliques",
+      "Possibilité",
+      "Communauté Poitrine",
+      "Entreprise électrique"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Lequel de ces jeux comprend la phrase \"Ne pas passer Go, ne pas recueillir $200\"?",
+    "correct_answer": "Monopole",
+    "incorrect_answers": [
+      "Jour de paye",
+      "Cluedo",
+      "Coppit",
+      "Monopole"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quel était le nom du code de développement pour l'extension de \"Weatherlight\" pour \"Magic: The Gathering\", publié en 1997?",
+    "correct_answer": "Mocha Latte",
+    "incorrect_answers": [
+      "Décaf",
+      "Frappuccino",
+      "Macchiato",
+      "Mocha Latte"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "En magie : Le Rassemblement, quel texte de la carte 's saveur est \"Catch!\"?",
+    "correct_answer": "Lava Axe",
+    "incorrect_answers": [
+      "Des démons qui jettent des pierres",
+      "Prise de vue de l'embranchement",
+      "Couteau à lancer",
+      "Lava Axe"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Dans l'univers des Dungeons et des Dragons, Beshaba est la divinité de la malchance.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Le réseau Dice Tower de podcasts et de vidéos de jeux de société est géré par quel individu?",
+    "correct_answer": "Tom Vasel",
+    "incorrect_answers": [
+      "Jason Levine",
+      "Borth Sampson",
+      "Oncle Pennybags",
+      "Tom Vasel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Sur un panneau monopoly standard, quel carré est diagonalement opposé à 'Go'?",
+    "correct_answer": "Parking gratuit",
+    "incorrect_answers": [
+      "Aller en prison",
+      "Arrêt",
+      "La société électrique",
+      "Parking gratuit"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quel jeu de société est sorti pour la première fois le 6 février 1935 ?",
+    "correct_answer": "Monopole",
+    "incorrect_answers": [
+      "Risque",
+      "Clue",
+      "Terre de bonbons",
+      "Monopole"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Dans la norme Monopoly, que' est le loyer si vous atterrissez sur Park Place sans maisons?",
+    "correct_answer": "35 $",
+    "incorrect_answers": [
+      "30 $",
+      "50 $",
+      "45 $",
+      "35 $"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Lequel de ce qui suit n'est pas une couleur de mana en magie: Le Rassemblement ?",
+    "correct_answer": "Jaune",
+    "incorrect_answers": [
+      "Blanc",
+      "Vert",
+      "Bleu",
+      "Jaune"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Qu'est-ce que le jeu de société le plus ancien?",
+    "correct_answer": "Sénet",
+    "incorrect_answers": [
+      "Échecs",
+      "Vérificateurs",
+      "Allez",
+      "Sénet"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Dans les jeux de société, une règle additionnelle ou modifiée qui s'applique à un certain groupe ou lieu est officieusement connue sous le nom de règle \"quot\"?",
+    "correct_answer": "Maison",
+    "incorrect_answers": [
+      "Personnalisé",
+      "Extra",
+      "Changement",
+      "Maison"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Lequel des jeux de table suivants est le plus ancien?",
+    "correct_answer": "Allez",
+    "incorrect_answers": [
+      "Échecs",
+      "Mahjong",
+      "Chaussures",
+      "Allez"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Lequel d'entre eux n'est pas un vrai jeu dans la série Dungeons & Dragons?",
+    "correct_answer": "Extreme Dungeons & Dragons",
+    "incorrect_answers": [
+      "Dungeons avancés & Dragons",
+      "Dungeons & Dragons 3.5ème édition",
+      "Dungeons avancés & Dragons 2ème édition",
+      "Extreme Dungeons & Dragons"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quelle classe de caractère dans Dungeons et Dragons 5ème édition gagne-t-il'.S pouvoirs de faire un pacte avec un être de puissance supérieure?",
+    "correct_answer": "Serrure",
+    "incorrect_answers": [
+      "Magicien",
+      "Sorcier",
+      "Clercs",
+      "Serrure"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Le jeu de cartes \"Munchkin\" a remporté le Prix Origins 2001 pour le meilleur jeu de cartes traditionnel.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Dans Chess, la Reine a le mouvement combiné de laquelle deux pièces ?",
+    "correct_answer": "Bishop et Rook",
+    "incorrect_answers": [
+      "Rook et Roi",
+      "Chevalier et évêque",
+      "Roi et chevalier",
+      "Bishop et Rook"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Le jeu vidéo en colère Nerd's alter ego est \"Board James\".",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Europa Universalis est un jeu vidéo de stratégie basé sur quel jeu français ?",
+    "correct_answer": "Europe universelle",
+    "incorrect_answers": [
+      "Europe et Univers",
+      "Europe !",
+      "Le pouvoir en Europe",
+      "Europe universelle"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Que se passe-t-il quand vous roulez 3 doubles de suite dans Monopoly ?",
+    "correct_answer": "Va en prison",
+    "incorrect_answers": [
+      "Être payé 200 $",
+      "Payer 200 $",
+      "Déplacer vers un parking gratuit",
+      "Va en prison"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Le jeu de société, Nightmare a été libéré en quelle année ?",
+    "correct_answer": "1991",
+    "incorrect_answers": [
+      "1992",
+      "1989",
+      "1995",
+      "1991"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quelle carte est sur la couverture de la règle Beta de \"Magic: The Gathering\"?",
+    "correct_answer": "Bog Wraith",
+    "incorrect_answers": [
+      "Île",
+      "Hydra de roche",
+      "Elvish Archers",
+      "Bog Wraith"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Dans Dungeons et Dragons (5ème édition), quelle statistique ajoutez-vous normalement à votre initiative?",
+    "correct_answer": "Dextérité",
+    "incorrect_answers": [
+      "Vitesse",
+      "Résistance",
+      "Sagesse",
+      "Dextérité"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Qui était le premier champion du monde d'échecs ?",
+    "correct_answer": "Wilhelm Steinitz",
+    "incorrect_answers": [
+      "José Raúl Capablanca",
+      "Emanuel Lasker",
+      "Bobby Fischer",
+      "Wilhelm Steinitz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quelle capacité de \"Magic & #160;: L'expansion des cicatrices de Mirrodin implique au moins trois artefacts en jeu?",
+    "correct_answer": "Métaux",
+    "incorrect_answers": [
+      "Affinité",
+      "Empreinte",
+      "Arme vivante",
+      "Métaux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Combien de points la tuile Z vaut-elle à Scrabble ?",
+    "correct_answer": "10",
+    "incorrect_answers": [
+      "8",
+      "5",
+      "6",
+      "10"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "\"Rich Oncle Pennybags\" du jeu de société \"Monopoly\" porte un monocle.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Snakes and Ladders a été créé en Inde ?",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Quand le jeu de société Twister a-t-il été diffusé ?",
+    "correct_answer": "Avril 1966",
+    "incorrect_answers": [
+      "Septembre 1965",
+      "Janvier 1969",
+      "Février 1966",
+      "Avril 1966"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Quel est le niveau maximum que vous pouvez avoir en une seule classe en Dungeons et Dragons (5e) ?",
+    "correct_answer": "20",
+    "incorrect_answers": [
+      "30",
+      "15",
+      "25",
+      "20"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Le jeu de société \"Monopoly\" est une variation de quel jeu de société?",
+    "correct_answer": "Le propriétaire et #039;s Jeu",
+    "incorrect_answers": [
+      "Différend territorial",
+      "Propriété",
+      "Le jeu Monopolist 's",
+      "Le propriétaire et #039;s Jeu"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quelle est la somme de toutes les tuiles dans une boîte standard de Scrabble?",
+    "correct_answer": "187",
+    "incorrect_answers": [
+      "207",
+      "197",
+      "177",
+      "187"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Que déclarez-vous dans Rīchi Mahjong lorsque vous avez dessiné votre tuile gagnante?",
+    "correct_answer": "Tsumo",
+    "incorrect_answers": [
+      "C'est vrai",
+      "Rīchi",
+      "Kan",
+      "Tsumo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Le jeu de société \"Ra\" a été conçu par quel concepteur?",
+    "correct_answer": "Reiner Knizia",
+    "incorrect_answers": [
+      "Bruno Cathala",
+      "Uwe Rosenburg",
+      "Allison Kline",
+      "Reiner Knizia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Carcassonne est basée sur quelle ville française ?",
+    "correct_answer": "Carcassonne",
+    "incorrect_answers": [
+      "Paris",
+      "Marseille",
+      "Clermont-Ferrand",
+      "Carcassonne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Dans le poker, \"EV\" signifie quoi?",
+    "correct_answer": "Valeur prévue",
+    "incorrect_answers": [
+      "Valeur du capital",
+      "Variation équivalente",
+      "Variation des fonds propres",
+      "Valeur prévue"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Laquelle de ces cartes de \"Magic & #160;: Le recueil et le quot; a un texte de saveur qui commence par \"Oi oi\"?",
+    "correct_answer": "Troll Uthden",
+    "incorrect_answers": [
+      "Lotleth Troll",
+      "Albino Troll",
+      "Harvester Troll",
+      "Troll Uthden"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Quelle lettre est utilisée pour se référer à la mana bleue dans le jeu de cartes Magic La Rencontre ?",
+    "correct_answer": "U",
+    "incorrect_answers": [
+      "B",
+      "L",
+      "E",
+      "U"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Combien de points sur un seul mort ?",
+    "correct_answer": "21",
+    "incorrect_answers": [
+      "24",
+      "15",
+      "18",
+      "21"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Les meilleurs joueurs humains peuvent facilement battre les meilleurs ordinateurs aux échecs",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Le jeu de société Monopoly prend ses noms de rue de quelle vraie ville américaine ?",
+    "correct_answer": "Atlantic City, New Jersey",
+    "incorrect_answers": [
+      "Las Vegas, Nevada",
+      "Duluth, Minnesota",
+      "Charleston, Caroline du Sud",
+      "Atlantic City, New Jersey"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Dans \"Magic: The Gathering\", quelle carte instantanée a le coût de mana converti le plus élevé?",
+    "correct_answer": "Infusion de blinkmoth",
+    "incorrect_answers": [
+      "Vent vivifiant",
+      "Chant de Vitu-Ghazi",
+      "Autorité responsable",
+      "Infusion de blinkmoth"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Qui est le personnage principal de la bande VHS incluse dans le jeu de société Nightmare?",
+    "correct_answer": "Le gardien de porte",
+    "incorrect_answers": [
+      "Le gardien de Krypt",
+      "Le monstre",
+      "Le cauchemar",
+      "Le gardien de porte"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Combien Slinkys ont été vendus dans leurs 60 premières années (de 1945 à 2005)?",
+    "correct_answer": "300 millions",
+    "incorrect_answers": [
+      "100 millions",
+      "450 millions",
+      "1 milliard",
+      "300 millions"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Sur une carte Monopoly standard, combien devez-vous payer pour Tennessee Ave ?",
+    "correct_answer": "180 $",
+    "incorrect_answers": [
+      "200 $",
+      "160 $",
+      "220 $",
+      "180 $"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "En quelle année a été présenté le jeu de cartes Magic: the Gathering?",
+    "correct_answer": "1993",
+    "incorrect_answers": [
+      "1987",
+      "1998",
+      "2003",
+      "1993"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Dans Yu-Gi-Oh, comment un joueur effectue-t-il une invocation Xyz ?",
+    "correct_answer": "Superposer au moins 2 monstres du même niveau",
+    "incorrect_answers": [
+      "Activer un sort et envoyer des monstres au cimetière",
+      "Ajouter les Monstres ' Niveaux ensemble pour correspondre au Monstre Xyz",
+      "Banish Un certain nombre de monstres de votre main et de votre pont",
+      "Superposer au moins 2 monstres du même niveau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Dans le jeu de société, les colons de Catan, un rouleau de die de quel nombre fait attaquer le voleur?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "3",
+      "10",
+      "1",
+      "7"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Dans un jeu standard de Monopoly, quelle couleur sont les deux propriétés les moins chères?",
+    "correct_answer": "Marron",
+    "incorrect_answers": [
+      "Vert",
+      "Jaune",
+      "Bleu",
+      "Marron"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Le jeu de société Go a plus de positions légales que le nombre d'atomes dans l'univers visible.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "En magie : Le Rassemblement, lequel des suivants a été la première carte de film public?",
+    "correct_answer": "Dragon de foudre",
+    "incorrect_answers": [
+      "Revenant",
+      "Bête de la charge",
+      "Dirtcowl Wurm",
+      "Dragon de foudre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Laquelle de ces villes ne figure PAS dans le jeu de société Pandemic ?",
+    "correct_answer": "Allemagne",
+    "incorrect_answers": [
+      "Ho Chi Minh Ville",
+      "Lagos",
+      "Karachi",
+      "Allemagne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Combien de chambres y a-t-il, sans compter les couloirs et les escaliers, dans le jeu de société \"Clue\"?",
+    "correct_answer": "9",
+    "incorrect_answers": [
+      "1",
+      "6",
+      "10",
+      "9"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Lors de la mise en place d'un échiquier, le roi est placé sur un carré de sa propre couleur.",
+    "correct_answer": "Faux",
+    "incorrect_answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "Quand la magie : Le Rassemblement a d'abord été sollicité, lequel des suivants a été initialement intitulé?",
+    "correct_answer": "Mana Clash",
+    "incorrect_answers": [
+      "Magie",
+      "Clash magique",
+      "Mana Duels",
+      "Mana Clash"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Quel article spécial les créateurs de Cards Against Humanity ont-ils livré pour leur pack Black Friday ?",
+    "correct_answer": "Taureau",
+    "incorrect_answers": [
+      "Une extension de carte",
+      "Un jouet raciste",
+      "Urine de chat",
+      "Taureau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Qui était champion du monde d'échecs entre 1894 et 1921",
+    "correct_answer": "Emanuel Lasker",
+    "incorrect_answers": [
+      "José Raúl Capablanca",
+      "Wilhelm Steinitz",
+      "Bobby Fischer",
+      "Emanuel Lasker"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "En magie : Le Rassemblement, quel terme de blocage a été établi dans le Portail ?",
+    "correct_answer": "Interceptation",
+    "incorrect_answers": [
+      "Blocage",
+      "Résistant",
+      "Bouclier",
+      "Interceptation"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Dans \"Magic: The Gathering\", lors de la conception pour Planar Chaos, quelle couleur les développeurs ont-ils pensé d'ajouter comme sixième couleur?",
+    "correct_answer": "Pourpre",
+    "incorrect_answers": [
+      "Marron",
+      "Rose",
+      "Orange",
+      "Pourpre"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Board Games",
+    "question": "Lequel des personnages suivants n'est pas dans le jeu de société Clue ?",
+    "correct_answer": "Monsieur Indigo",
+    "incorrect_answers": [
+      "Colonel Moutard",
+      "Révérend Green",
+      "Mlle Scarlet",
+      "Monsieur Indigo"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Entertainment: Board Games",
+    "question": "Il y a un jeu de société Donald Trump, qui a été fait en 1989.",
+    "correct_answer": "Vrai",
+    "incorrect_answers": [
+      "Faux",
+      "Vrai"
+    ]
+  }
+]

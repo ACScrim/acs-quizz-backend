@@ -1,1 +1,3 @@
-export class CreateLobbyDto {}
+export class CreateLobbyDto {
+    
+}
