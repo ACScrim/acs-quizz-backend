@@ -57,7 +57,7 @@ export class QuestionsController {
 
   @Get(':id')
   findOne(@Param('id') id: string) {
-    return this.questionsService.findOne(+id);
+    return this.questionsService.findOne(id);
   }
 
   @Patch(':id')
@@ -65,11 +65,11 @@ export class QuestionsController {
     @Param('id') id: string,
     @Body() updateQuestionDto: UpdateQuestionDto,
   ) {
-    return this.questionsService.update(+id, updateQuestionDto);
+    return this.questionsService.update(id, updateQuestionDto);
   }
 
   @Delete(':id')
   remove(@Param('id') id: string) {
-    return this.questionsService.remove(+id);
+    return this.questionsService.remove(id);
   }
 }

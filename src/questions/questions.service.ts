@@ -60,7 +60,7 @@ export class QuestionsService {
                   }
                   // Ajoute dynamiquement les valeurs globales
                   Object.assign(questionObj, globals);
-                  questionObj.type = 'qcm'; // Défaut à 'text' si non spécifié
+                  questionObj.type = 'multiple';
                   questions.push(questionObj);
                 });
               }
@@ -81,7 +81,7 @@ export class QuestionsService {
                 questionObj[field] = getByPath(q, fieldPath as string);
               }
               Object.assign(questionObj, globals);
-              questionObj.type = 'qcm';
+              questionObj.type = 'multiple';
               questions.push(questionObj);
             });
           } else {
@@ -104,34 +104,10 @@ export class QuestionsService {
 
     for (const question of questions) {
       // Vérifie si la catégorie existe déjà
-      const category = await this.questionCategoryModel.findOne({
-        category: question.category,
-      });
-      if (!category) {
-        // Si la catégorie n'existe pas, créez-la
-        const newCategory = new this.questionCategoryModel({
-          category: question.category,
-        });
-        await newCategory.save();
-        question.category = newCategory; // Associe la nouvelle catégorie à la question
-      } else {
-        question.category = category; // Associe l'ID de la catégorie existante à la question
-      }
+      question.category = await this.findAndCreateCategory(question.category.category);
 
       // Vérifie si le type de question existe déjà
-      const type = await this.questionTypeModel.findOne({
-        type: question.type,
-      });
-      if (!type) {
-        // Si le type n'existe pas, créez-le
-        const newType = new this.questionTypeModel({
-          type: question.type,
-        });
-        await newType.save();
-        question.type = newType; // Associe le nouveau type à la question
-      } else {
-        question.type = type; // Associe l'ID du type existant à la question
-      }
+      question.type = await this.findAndCreateType(question.type.type);
 
       // Créez la question dans la base de données
 
@@ -145,23 +121,82 @@ export class QuestionsService {
     };
   }
 
-  create(createQuestionDto: CreateQuestionDto) {
-    return 'This action adds a new question';
+  async create(createQuestionDto: CreateQuestionDto) {
+    const question = new this.questionModel(createQuestionDto);
+
+    question.category = await this.findAndCreateCategory(createQuestionDto.category);
+
+    // Vérifiez si le type de question existe déjà
+    question.type = await this.findAndCreateType(createQuestionDto.type);
+
+    // Créez la question dans la base de données
+    return question.save();
   }
 
   findAll() {
-    return `This action returns all questions`;
+    return this.questionModel.find().populate('category').populate('type');
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} question`;
+  findOne(id: string) {
+    return this.questionModel
+      .findById(id)
+      .populate('category')
+      .populate('type');
   }
 
-  update(id: number, updateQuestionDto: UpdateQuestionDto) {
-    return `This action updates a #${id} question`;
+  async update(id: string, updateQuestionDto: UpdateQuestionDto) {
+    const question = await this.questionModel.findById(id);
+
+    if (!question) {
+      throw new BadRequestException('Question not found');
+    }
+
+    // Vérifiez si la catégorie existe déjà
+    question.category = await this.findAndCreateCategory(updateQuestionDto.category);
+
+    // Vérifiez si le type de question existe déjà
+    question.type = await this.findAndCreateType(updateQuestionDto.type);
+
+    // Mettez à jour la question avec les nouvelles valeurs
+    question.question = updateQuestionDto.question || question.question;
+    question.answer = updateQuestionDto.answer || question.answer;
+    question.options = updateQuestionDto.options || question.options;
+    question.difficulty = updateQuestionDto.difficulty || question.difficulty;
+    // Enregistrez la question mise à jour dans la base de données
+    return question.save();
   }
 
-  remove(id: number) {
-    return `This action removes a #${id} question`;
+  remove(id: string) {
+    return this.questionModel.findByIdAndDelete(id);
+  }
+
+  async findAndCreateCategory(categoryName?: string): Promise<QuestionCategory> {
+    const category = await this.questionCategoryModel.findOne({
+      category: categoryName
+    });
+    if (!category) {
+      // Si la catégorie n'existe pas, créez-la
+      const newCategory = new this.questionCategoryModel({
+        category: categoryName
+      }); // Associe la nouvelle catégorie à la question
+      return newCategory.save(); // Enregistrez la catégorie dans la base de données
+    } else {
+      return category; // Associe l'ID de la catégorie existante à la question
+    }
+  }
+
+  async findAndCreateType(typeName?: string): Promise<QuestionType> {
+    const type = await this.questionTypeModel.findOne({
+      type: typeName,
+    });
+    if (!type) {
+      // Si le type n'existe pas, créez-le
+      const newType = new this.questionTypeModel({
+        type: typeName,
+      });
+      return newType.save(); // Enregistrez le type dans la base de données
+    } else {
+      return type; // Associe l'ID du type existant à la question
+    }
   }
 }
