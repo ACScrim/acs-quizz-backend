@@ -1,26 +1,42 @@
 import { Injectable } from '@nestjs/common';
-import { CreateUserDto } from './dto/create-user.dto';
-import { UpdateUserDto } from './dto/update-user.dto';
+import { InjectModel } from '@nestjs/mongoose';
+import { Model } from 'mongoose';
+import { User } from './entities/user.entity';
 
 @Injectable()
 export class UsersService {
-  create(createUserDto: CreateUserDto) {
-    return 'This action adds a new user';
+  constructor(@InjectModel(User.name) private userModel: Model<User>) {}
+
+  async findByDiscordId(discordId: string) {
+    return this.userModel.findOne({ discordId });
   }
 
-  findAll() {
-    return `This action returns all users`;
+  async createOrUpdateFromDiscord(profile: any, accessToken: string, refreshToken: string) {
+    return this.userModel.findOneAndUpdate(
+      { discordId: profile.id },
+      {
+        username: profile.username,
+        avatar: profile.avatar,
+        accessToken,
+        refreshToken,
+      },
+      { upsert: true, new: true }
+    );
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} user`;
+  async updateTokens(discordId: string, accessToken: string, refreshToken: string, expiresAt: Date) {
+    return this.userModel.findOneAndUpdate(
+      { discordId },
+      {
+        accessToken,
+        refreshToken,
+        expiresAt,
+      },
+      { new: true }
+    );
   }
 
-  update(id: number, updateUserDto: UpdateUserDto) {
-    return `This action updates a #${id} user`;
-  }
-
-  remove(id: number) {
-    return `This action removes a #${id} user`;
+  async findById(id: string) {
+    return this.userModel.findById(id);
   }
 }

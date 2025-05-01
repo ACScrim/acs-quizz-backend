@@ -11,18 +11,24 @@ import { TestWsGateway } from './test-ws/test-ws.gateway';
 import { UserAnswersModule } from './user-answers/user-answers.module';
 import { UsersModule } from './users/users.module';
 import { ScheduleModule } from '@nestjs/schedule';
+import { AuthModule } from './auth/auth.module';
+import { ConfigModule } from '@nestjs/config';
 
 @Module({
   imports: [
     MongooseModule.forRoot('mongodb://localhost:27017/acs-quizz'),
     ScheduleModule.forRoot(),
+    ConfigModule.forRoot({
+      isGlobal: true,
+    }),
     QuestionsModule,
     QuestionTypesModule,
     QuestionCategoriesModule,
     UserAnswersModule,
     UsersModule,
     LobbiesModule,
-    CronsModule
+    CronsModule,
+    AuthModule,
   ],
   controllers: [AppController],
   providers: [AppService, TestWsGateway],
