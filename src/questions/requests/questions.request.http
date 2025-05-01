@@ -1,4 +1,4 @@
-POST http://localhost:3000/questions
+POST http://localhost:3000/api/questions
 Content-Type: application/json
 
 {
@@ -17,7 +17,7 @@ Content-Type: application/json
 
 ######################################
 
-PATCH http://localhost:3000/questions/68124dc28a5d5b2f3a41d826
+PATCH http://localhost:3000/api/questions/68124dc28a5d5b2f3a41d826
 Content-Type: application/json
 
 {
@@ -28,12 +28,12 @@ Content-Type: application/json
 
 ######################################
 
-GET http://localhost:3000/questions
+GET http://localhost:3000/api/questions
 
 #######################################
 
-GET http://localhost:3000/questions/68124dc28a5d5b2f3a41d826
+GET http://localhost:3000/api/questions/68124dc28a5d5b2f3a41d826
 
 ########################################
 
-DELETE http://localhost:3000/questions/68124dc28a5d5b2f3a41d826
+DELETE http://localhost:3000/api/questions/68124dc28a5d5b2f3a41d826
