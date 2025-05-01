@@ -34,7 +34,6 @@ export class DiscordStrategy extends PassportStrategy(Strategy, 'discord') {
     profile: any,
     done: Function,
   ) {
-    console.log(accessToken, refreshToken, profile);
     // Ici tu peux gérer la création ou récupération de l'utilisateur
     const user = await this.usersService.createOrUpdateFromDiscord(profile, accessToken, refreshToken);
     done(null, user);

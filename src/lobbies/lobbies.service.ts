@@ -13,15 +13,19 @@ export class LobbiesService {
     @InjectModel(User.name) private userModel: Model<User>
   ) {}
 
-  async create(createLobbyDto: CreateLobbyDto) {
+  async create(createLobbyDto: CreateLobbyDto, owner: User) {
+    if (!owner) {
+      throw new NotFoundException('Utilisateur introuvable');
+    }
     const newLobby = new this.lobbyModel(createLobbyDto);
 
-    for (let player of newLobby.players) {
-      const user = await this.userModel.findOne({ _id: player });
-      if (!user) {
-        throw new NotFoundException(`Utilisateur ${player} introuvable`);
-      }
-    }
+    newLobby.owner = owner;
+    newLobby.players = [owner];
+    newLobby.code = Math.random().toString(36).substring(2, 8);
+    newLobby.isPublic = createLobbyDto.isPublic || false;
+    newLobby.name = createLobbyDto.name || `Partie de ${owner.username}`;
+
+    await this.checkPlayersInLobby(newLobby);
 
     return newLobby.save();
   }
@@ -40,5 +44,14 @@ export class LobbiesService {
 
   remove(id: number) {
     return `This action removes a #${id} lobby`;
+  }
+
+  async checkPlayersInLobby(lobby: Lobby) {
+    for (let player of lobby.players) {
+      const user = await this.userModel.findOne({ _id: player });
+      if (!user) {
+        throw new NotFoundException(`Utilisateur ${player} introuvable`);
+      }
+    }
   }
 }
