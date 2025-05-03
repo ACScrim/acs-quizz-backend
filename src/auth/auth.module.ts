@@ -6,12 +6,13 @@ import { JwtStrategy } from './jwt.strategy';
 import { AuthController } from './auth.controller';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { UsersModule } from 'src/users/users.module';
+import { DiscordService } from './discord.service';
 
 @Module({
   imports: [
     PassportModule,
     JwtModule.registerAsync({
-      imports: [ConfigModule],
+      imports: [ConfigModule, UsersModule],
       useFactory: async (config: ConfigService) => ({
         secret: config.get<string>('JWT_SECRET') || 'changeme',
         signOptions: { expiresIn: '7d' },
@@ -21,7 +22,7 @@ import { UsersModule } from 'src/users/users.module';
     ConfigModule,
     UsersModule
   ],
-  providers: [DiscordStrategy, JwtStrategy],
+  providers: [DiscordStrategy, JwtStrategy, DiscordService],
   controllers: [AuthController],
   exports: [JwtModule],
 })
