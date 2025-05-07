@@ -16,5 +16,6 @@ import { QuestionTypesModule } from 'src/question-type/question-types.module';
   ],
   controllers: [QuestionsController],
   providers: [QuestionsService],
+  exports: [MongooseModule]
 })
 export class QuestionsModule {}

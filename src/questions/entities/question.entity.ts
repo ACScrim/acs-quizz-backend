@@ -3,7 +3,7 @@ import * as mongoose from 'mongoose';
 import { QuestionCategory } from 'src/question-categories/entities/question-category.entity';
 import { QuestionType } from 'src/question-type/entities/question-type.entity';
 @Schema()
-export class Question {
+export class Question extends mongoose.Document {
   @Prop()
   question: string;
 

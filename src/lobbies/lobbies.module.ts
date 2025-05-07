@@ -16,5 +16,6 @@ import { UsersModule } from 'src/users/users.module';
   ],
   controllers: [LobbiesController],
   providers: [LobbiesService],
+  exports: [MongooseModule]
 })
 export class LobbiesModule {}
