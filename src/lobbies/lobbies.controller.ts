@@ -23,20 +23,20 @@ import { JoinLobbyDto } from './dto/join-lobby.dto';
 export class LobbiesController {
   constructor(private readonly lobbiesService: LobbiesService) {}
 
-  @Post()
-  create(@Body() createLobbyDto: CreateLobbyDto, @GetUser() user: User) {
-    return this.lobbiesService.create(createLobbyDto, user);
-  }
+  // @Post()
+  // create(@Body() createLobbyDto: CreateLobbyDto, @GetUser() user: User) {
+  //   return this.lobbiesService.create(createLobbyDto, user);
+  // }
 
   @Post('join')
   join(@GetUser() user: User, @Body() joinLobbyDto: JoinLobbyDto) {
     return this.lobbiesService.join(user, joinLobbyDto);
   }
 
-  @Post('leave/:id')
-  leave(@GetUser() user: User, @Param('id') id: string) {
-    return this.lobbiesService.leave(user, id);
-  }
+  // @Post('leave/:id')
+  // leave(@GetUser() user: User, @Param('id') id: string) {
+  //   return this.lobbiesService.leave(user, id);
+  // }
 
   @Get()
   findAll() {

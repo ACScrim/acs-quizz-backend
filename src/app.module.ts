@@ -1,19 +1,19 @@
 import { Module } from '@nestjs/common';
+import { ConfigModule } from '@nestjs/config';
 import { MongooseModule } from '@nestjs/mongoose';
+import { ScheduleModule } from '@nestjs/schedule';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
+import { AuthModule } from './auth/auth.module';
 import { CronsModule } from './crons/crons.module';
+import { LobbiesGateway } from './gateways/game.points/lobbies.gateway';
 import { LobbiesModule } from './lobbies/lobbies.module';
 import { QuestionCategoriesModule } from './question-categories/question-categories.module';
 import { QuestionTypesModule } from './question-type/question-types.module';
 import { QuestionsModule } from './questions/questions.module';
-import { TestWsGateway } from './test-ws/test-ws.gateway';
+import { QuizzesModule } from './quizzes/quizzes.module';
 import { UserAnswersModule } from './user-answers/user-answers.module';
 import { UsersModule } from './users/users.module';
-import { ScheduleModule } from '@nestjs/schedule';
-import { AuthModule } from './auth/auth.module';
-import { ConfigModule } from '@nestjs/config';
-import { QuizzesModule } from './quizzes/quizzes.module';
 
 @Module({
   imports: [
@@ -33,6 +33,6 @@ import { QuizzesModule } from './quizzes/quizzes.module';
     QuizzesModule,
   ],
   controllers: [AppController],
-  providers: [AppService, TestWsGateway],
+  providers: [AppService, LobbiesGateway],
 })
 export class AppModule {}

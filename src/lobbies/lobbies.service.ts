@@ -14,7 +14,8 @@ export class LobbiesService {
     @InjectModel(User.name) private userModel: Model<User>
   ) {}
 
-  async create(createLobbyDto: CreateLobbyDto, owner: User) {
+  async create(createLobbyDto: CreateLobbyDto, ownerId: string) {
+    const owner = await this.userModel.findById(ownerId) as User;
     if (!owner) {
       throw new NotFoundException('Utilisateur introuvable');
     }
@@ -27,6 +28,10 @@ export class LobbiesService {
     newLobby.name = createLobbyDto.name || `Partie de ${owner.username}`;
 
     await this.checkPlayersInLobby(newLobby);
+
+    if ((await this.lobbyModel.find({ players: ownerId}).exec()).length > 0) {
+      throw new NotFoundException('Vous ne pouvez pas créer plusieurs parties');
+    }
 
     return newLobby.save();
   }
@@ -88,17 +93,18 @@ export class LobbiesService {
     return (await (await lobby.save()).populate('owner')).populate('players');
   }
 
-  async leave(user: User, id: string) {
+  async leave(userId: string, id: string) {
     const lobby = await this.findLobbyById(id);
-    if (!lobby.players.includes(user.id)) {
+    if (!(lobby.players as unknown as string[]).includes(userId)) {
       throw new NotFoundException('Vous n\'êtes pas dans cette partie');
     }
-    lobby.players = lobby.players.filter((player) => String(player) !== user.id);
+    lobby.players = lobby.players.filter((player) => String(player) !== userId);
+    console.log('Lobby players:', lobby.players);
     if (lobby.players.length === 0) {
       await this.remove(lobby.id);
       return;
     }
-    if (user.id === lobby.owner) {
+    if (userId === (String(lobby.owner))) {
       lobby.owner = lobby.players[0] || null;
     }
     await this.checkPlayersInLobby(lobby);
