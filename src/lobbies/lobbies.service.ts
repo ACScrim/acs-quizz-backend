@@ -39,10 +39,7 @@ export class LobbiesService {
   findAllPublic() {
     return this.lobbyModel
       .find({ isPublic: true })
-      .populate({
-        path: 'owner',
-        select: 'username avatar'
-      })
+      .populate('owner')
       .exec();
   }
 
