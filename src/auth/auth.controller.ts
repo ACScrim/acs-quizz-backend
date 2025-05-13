@@ -1,4 +1,4 @@
-import { Body, Controller, Get, Post, Req, UseGuards } from '@nestjs/common';
+import { Body, Controller, Get, Post, Req, Res, UseGuards } from '@nestjs/common';
 import { AuthGuard } from '@nestjs/passport';
 import { JwtService } from '@nestjs/jwt';
 import { UsersService } from 'src/users/users.service';
@@ -18,7 +18,7 @@ export class AuthController {
 
   @Get('discord/redirect')
   @UseGuards(AuthGuard('discord'))
-  discordLoginCallback(@Req() req) {
+  discordLoginCallback(@Req() req, @Res() res) {
     // req.user contient l'utilisateur
     const user = req.user;
     // Génère un JWT
@@ -29,7 +29,7 @@ export class AuthController {
     };
     const token = this.jwtService.sign(payload);
     // Retourne le token (ou redirige avec le token en query)
-    return { access_token: token, user };
+    return res.redirect(`http://localhost:5173/discord-callback?access_token=${token}&user=${JSON.stringify(user)}`);
   }
 
   @Post('discord/external-login')
