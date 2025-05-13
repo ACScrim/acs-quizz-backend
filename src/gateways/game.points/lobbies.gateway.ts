@@ -10,7 +10,7 @@ import { CreateLobbyDto } from 'src/lobbies/dto/create-lobby.dto';
 import { LobbiesService } from 'src/lobbies/lobbies.service';
 
 @WebSocketGateway({
-  namespace: 'game-points',
+  namespace: 'lobbies',
   cors: {
     origin: '*',
   },
@@ -19,7 +19,7 @@ import { LobbiesService } from 'src/lobbies/lobbies.service';
 export class LobbiesGateway {
   constructor(private readonly lobbiesService: LobbiesService) {}
 
-  @SubscribeMessage('create-lobby')
+  @SubscribeMessage('lobby:create')
   async handleCreateLobby(client: Socket, payload: CreateLobbyDto) {
     try {
       const user = (client as any).user;
@@ -41,14 +41,14 @@ export class LobbiesGateway {
     }
   }
 
-  @SubscribeMessage('join-lobby')
+  @SubscribeMessage('lobby:join')
   handleMessage(client: Socket, lobbyId: string) {
     if (client.rooms.size > 0) return; // Si le client est déjà dans une salle, on ne le laisse pas rejoindre une autre
     client.join(lobbyId);
     client.emit('joined-lobby', lobbyId);
   }
 
-  @SubscribeMessage('leave-lobby')
+  @SubscribeMessage('lobby:leave')
   async handleMessageLobby(client: Socket, lobbyId: string) {
     console.log('Leaving lobby:', lobbyId, client.rooms);
     if (client.rooms.has(lobbyId)) {

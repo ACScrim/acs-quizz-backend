@@ -15,8 +15,8 @@ export class UsersService {
     return this.userModel.findOneAndUpdate(
       { discordId: profile.id },
       {
-        username: profile.username,
-        avatar: profile.avatar,
+        username: profile.username, // Mettre global_name ou username ?
+        avatar: profile.avatar, // Ecrire l'url
         accessToken,
         refreshToken,
       },
