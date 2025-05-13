@@ -31,7 +31,8 @@ export class LobbiesGateway {
       const lobby = await this.lobbiesService.create(payload, user.sub);
       client.join(lobby.id);
       console.log('Lobby created:', lobby.id, client.rooms);
-      client.emit('lobby-created', lobby);
+      client.emit('lobby:created', lobby);
+      client.emit('lobbies:updated');
     } catch (error) {
       console.error('Error in create-lobby:', error);
       client.emit('error', {
@@ -45,7 +46,7 @@ export class LobbiesGateway {
   handleMessage(client: Socket, lobbyId: string) {
     if (client.rooms.size > 0) return; // Si le client est déjà dans une salle, on ne le laisse pas rejoindre une autre
     client.join(lobbyId);
-    client.emit('joined-lobby', lobbyId);
+    client.emit('lobby:joined', lobbyId);
   }
 
   @SubscribeMessage('lobby:leave')
@@ -55,8 +56,8 @@ export class LobbiesGateway {
       client.leave(lobbyId);
       const user = (client as any).user;
       await this.lobbiesService.leave(user.sub, lobbyId);
-      client.to(lobbyId).emit('user-left', user);
-      client.emit('left-lobby', lobbyId);
+      client.to(lobbyId).emit('lobby:user-leave', user);
+      client.emit('lobby:left', lobbyId);
     }
   }
 }

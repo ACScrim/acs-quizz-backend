@@ -36,6 +36,14 @@ async function bootstrap() {
   app.use(passport.initialize());
   app.use(passport.session());
 
+  app.enableCors({
+    origin: [
+      "http://localhost:3000", // Remplace par l'URL de ton frontend
+      "http://localhost:5173", // Ajoute d'autres origines si besoin
+    ],
+    credentials: true, // Autorise les cookies/headers d'auth
+  });
+
   const usersService = app.get(UsersService);
   app.useGlobalInterceptors(new DiscordRefreshInterceptor(usersService));
 

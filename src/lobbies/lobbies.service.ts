@@ -24,7 +24,7 @@ export class LobbiesService {
     newLobby.owner = owner;
     newLobby.players = [owner];
     newLobby.code = Math.random().toString(36).substring(2, 8);
-    newLobby.isPublic = createLobbyDto.isPublic || false;
+    newLobby.isPublic = createLobbyDto.isPublic;
     newLobby.name = createLobbyDto.name || `Partie de ${owner.username}`;
 
     await this.checkPlayersInLobby(newLobby);
@@ -39,7 +39,10 @@ export class LobbiesService {
   findAllPublic() {
     return this.lobbyModel
       .find({ isPublic: true })
-      .populate('owner')
+      .populate({
+        path: 'owner',
+        select: 'username avatar'
+      })
       .exec();
   }
 
