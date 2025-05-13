@@ -32,7 +32,6 @@ export class LobbiesGateway {
       client.join(lobby.id);
       console.log('Lobby created:', lobby.id, client.rooms);
       client.emit('lobby:created', lobby);
-      client.emit('lobbies:updated');
     } catch (error) {
       console.error('Error in create-lobby:', error);
       client.emit('error', {
