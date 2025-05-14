@@ -43,6 +43,11 @@ export class LobbiesController {
     return this.lobbiesService.findAllPublic();
   }
 
+  @Get('mine')
+  findMine(@GetUser() user: User) {
+    return this.lobbiesService.findMine(user);
+  }
+
   @Get(':id')
   findOne(@Param('id') id: string) {
     return this.lobbiesService.findOne(id);

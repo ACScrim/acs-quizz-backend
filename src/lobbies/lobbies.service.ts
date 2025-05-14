@@ -43,6 +43,13 @@ export class LobbiesService {
       .exec();
   }
 
+  findMine(user: User) {
+    return this.lobbyModel
+      .findOne({ owner: user.id })
+      .select('_id')
+      .exec();
+  }
+
   async findOne(id: string) {
     if (!id) {
       throw new NotFoundException('Lobby introuvable');
