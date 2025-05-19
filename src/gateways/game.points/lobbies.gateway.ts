@@ -8,6 +8,8 @@ import { Socket } from 'socket.io';
 import { JwtWsGuard } from 'src/auth/auth.guard';
 import { CreateLobbyDto } from 'src/lobbies/dto/create-lobby.dto';
 import { LobbiesService } from 'src/lobbies/lobbies.service';
+import { CreateQuizDto } from 'src/quizzes/dto/create-quiz.dto';
+import { QuizzesService } from 'src/quizzes/quizzes.service';
 
 @WebSocketGateway({
   namespace: 'lobbies',
@@ -17,7 +19,10 @@ import { LobbiesService } from 'src/lobbies/lobbies.service';
 })
 @UseGuards(JwtWsGuard)
 export class LobbiesGateway {
-  constructor(private readonly lobbiesService: LobbiesService) {}
+  constructor(
+    private readonly lobbiesService: LobbiesService,
+    private readonly quizzesService: QuizzesService,
+  ) {}
 
   @SubscribeMessage('lobby:create')
   async handleCreateLobby(client: Socket, payload: CreateLobbyDto) {
@@ -30,7 +35,6 @@ export class LobbiesGateway {
       }
       const lobby = await this.lobbiesService.create(payload, user.sub);
       client.join(lobby.id);
-      console.log('Lobby created:', lobby.id, client.rooms);
       client.emit('lobby:created', lobby);
     } catch (error) {
       console.error('Error in create-lobby:', error);
@@ -42,21 +46,42 @@ export class LobbiesGateway {
   }
 
   @SubscribeMessage('lobby:join')
-  handleMessage(client: Socket, lobbyId: string) {
+  handleMessageJoin(client: Socket, lobbyId: string) {
     if (client.rooms.size > 0) return; // Si le client est déjà dans une salle, on ne le laisse pas rejoindre une autre
     client.join(lobbyId);
+    client.to(lobbyId).emit('lobby:user-join', (client as any).user);
     client.emit('lobby:joined', lobbyId);
   }
 
   @SubscribeMessage('lobby:leave')
-  async handleMessageLobby(client: Socket, lobbyId: string) {
+  async handleMessageLeave(client: Socket, lobbyId: string) {
     console.log('Leaving lobby:', lobbyId, client.rooms);
-    if (client.rooms.has(lobbyId)) {
+    // if (client.rooms.has(lobbyId)) {
       client.leave(lobbyId);
       const user = (client as any).user;
       await this.lobbiesService.leave(user.sub, lobbyId);
       client.to(lobbyId).emit('lobby:user-leave', user);
       client.emit('lobby:left', lobbyId);
+    // }
+  }
+
+  @SubscribeMessage('lobby:generate:quizz')
+  async handleMessageGenerateQuizz(client: Socket, payload: CreateQuizDto) {
+    client.join(payload.lobby);
+    const user = (client as any).user;
+
+    let quizz = await this.quizzesService.getQuizzForLobby(payload.lobby);
+
+    if (!quizz) {
+      quizz = await this.quizzesService.create(payload);
     }
+
+    if (!quizz) {
+      client.emit('error', { message: 'Error creating quiz' });
+      return;
+    }
+
+    client.to(payload.lobby).emit('lobby:quizz-generated', quizz);
+    client.emit('lobby:quizz-generated', quizz);
   }
 }

@@ -27,5 +27,6 @@ import { QuestionsModule } from 'src/questions/questions.module';
   ],
   controllers: [QuizzesController],
   providers: [QuizzesService],
+  exports: [QuizzesService],
 })
 export class QuizzesModule {}

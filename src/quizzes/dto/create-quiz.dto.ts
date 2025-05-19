@@ -17,12 +17,12 @@ export class CreateQuizDto {
   @ValidateIf(o => o.gameMode === GAMEMODES.POINTS)
   @IsNumber()
   @IsPositive()
-  pointsToReach: number;
+  pointsToReach?: number;
 
   @ValidateIf(o => o.gameMode === GAMEMODES.BATTLEROYAL)
   @IsNumber()
   @IsPositive()
-  maxLives: number;
+  maxLives?: number;
 
   playerPoints?: Record<string, number>; // Only for POINTS mode, to track player points
   playerLives?: Record<string, number>; // Only for BATTLEROYAL mode, to track player lives

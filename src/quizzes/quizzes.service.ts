@@ -38,7 +38,7 @@ export class QuizzesService {
         case GAMEMODES.BATTLEROYAL:
           createQuizDto.playerLives = {};
           lobby.players.forEach((player) => {
-            createQuizDto.playerLives![player.id] = createQuizDto.maxLives;
+            createQuizDto.playerLives![player.id] = createQuizDto.maxLives!;
           });
           break;
       }
@@ -53,7 +53,7 @@ export class QuizzesService {
     return await this.quizModel.findOne({ lobby: lobbyId }).exec();
   }
 
-  async createQuestionsArray(numberOfQuestions: number) {
+  private async createQuestionsArray(numberOfQuestions: number) {
     const questions: Question[] = [];
     while (questions.length < numberOfQuestions) {
       const question = await this.questionModel

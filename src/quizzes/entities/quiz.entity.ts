@@ -13,6 +13,9 @@ export class Quiz extends mongoose.Document {
 
     @Prop({ discriminator: true })
     gameMode: string; // One value from the GAMEMODES enum
+
+    @Prop({ type: Number, default: 0 })
+    questionIndex: number; // Index of the current question
 }
 
 export const QuizSchema = SchemaFactory.createForClass(Quiz);

@@ -27,6 +27,7 @@ const UserSchema = SchemaFactory.createForClass(User);
 UserSchema.set('toJSON', {
   transform: (doc, ret) => {
     return {
+      id: ret._id,
       discordId: ret.discordId,
       username: ret.username,
       avatar: ret.avatar,
