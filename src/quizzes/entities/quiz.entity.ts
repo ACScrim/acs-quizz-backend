@@ -16,6 +16,9 @@ export class Quiz extends mongoose.Document {
 
     @Prop({ type: Number, default: 0 })
     questionIndex: number; // Index of the current question
+
+    @Prop({ type: String, default: "not_started"})
+    status: string; // Status of the quiz (not_started, in_progress, finished)
 }
 
 export const QuizSchema = SchemaFactory.createForClass(Quiz);
