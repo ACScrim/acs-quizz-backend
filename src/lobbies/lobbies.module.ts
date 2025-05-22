@@ -1,9 +1,10 @@
-import { Module } from '@nestjs/common';
+import { forwardRef, Module } from '@nestjs/common';
 import { LobbiesService } from './lobbies.service';
 import { LobbiesController } from './lobbies.controller';
 import { MongooseModule } from '@nestjs/mongoose';
 import { Lobby, LobbySchema } from './entities/lobby.entity';
 import { UsersModule } from 'src/users/users.module';
+import { QuizzesModule } from 'src/quizzes/quizzes.module';
 
 @Module({
   imports: [
@@ -12,7 +13,8 @@ import { UsersModule } from 'src/users/users.module';
         name: Lobby.name, schema: LobbySchema
       }
     ]),
-    UsersModule
+    UsersModule,
+    forwardRef(() => QuizzesModule)
   ],
   controllers: [LobbiesController],
   providers: [LobbiesService],

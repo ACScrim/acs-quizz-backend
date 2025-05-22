@@ -1,4 +1,4 @@
-import { Module } from '@nestjs/common';
+import { forwardRef, Module } from '@nestjs/common';
 import { MongooseModule } from '@nestjs/mongoose';
 import { QuizzesController } from './quizzes.controller';
 import { QuizzesService } from './quizzes.service';
@@ -22,11 +22,11 @@ import { QuestionsModule } from 'src/questions/questions.module';
         }
       }
     ]),
-    LobbiesModule,
+    forwardRef(() => LobbiesModule),
     QuestionsModule
   ],
   controllers: [QuizzesController],
   providers: [QuizzesService],
-  exports: [QuizzesService],
+  exports: [QuizzesService, MongooseModule],
 })
 export class QuizzesModule {}

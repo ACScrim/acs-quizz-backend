@@ -11,29 +11,61 @@ export class UsersService {
     return this.userModel.findOne({ discordId });
   }
 
-  async createOrUpdateFromDiscord(profile: any, accessToken: string, refreshToken: string) {
+  async createOrUpdateFromDiscord(
+    profile: any,
+    accessToken: string,
+    refreshToken: string,
+  ) {
     return this.userModel.findOneAndUpdate(
       { discordId: profile.id },
       {
-        username: profile.username, // Mettre global_name ou username ?
-        avatar: profile.avatar, // Ecrire l'url
-        accessToken,
-        refreshToken,
+        username: profile.username ?? profile.global_name, // Mettre global_name ou username ?
+        avatar: profile.avatar,
+        discordAccessToken: accessToken,
+        discordRefreshToken: refreshToken,
       },
-      { upsert: true, new: true }
+      { upsert: true, new: true },
     );
   }
 
-  async updateTokens(discordId: string, accessToken: string, refreshToken: string, expiresAt: Date) {
+  async updateDiscordTokens(
+    discordId: string,
+    accessToken: string,
+    refreshToken: string,
+    expiresAt: Date,
+  ) {
+    return this.userModel.findOneAndUpdate(
+      { discordId },
+      {
+        discordAccessToken: accessToken,
+        discordRefreshToken: refreshToken,
+        expiresAt,
+      },
+      { new: true },
+    );
+  }
+
+  async updateTokens(
+    discordId: string,
+    accessToken: string,
+    refreshToken: string,
+  ) {
     return this.userModel.findOneAndUpdate(
       { discordId },
       {
         accessToken,
-        refreshToken,
-        expiresAt,
+        refreshToken
       },
-      { new: true }
+      { new: true },
     );
+  }
+
+  async updateRefreshToken(userId: string, refreshToken: string) {
+    return this.userModel.findByIdAndUpdate(userId, { discordRefreshToken: refreshToken });
+  }
+
+  async findByRefreshToken(refreshToken: string) {
+    return this.userModel.findOne({ discordRefreshToken: refreshToken });
   }
 
   async findById(id: string) {

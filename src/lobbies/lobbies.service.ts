@@ -6,12 +6,14 @@ import { Lobby } from './entities/lobby.entity';
 import { Model } from 'mongoose';
 import { User } from 'src/users/entities/user.entity';
 import { JoinLobbyDto } from './dto/join-lobby.dto';
+import { Quiz } from 'src/quizzes/entities/quiz.entity';
 
 @Injectable()
 export class LobbiesService {
   constructor(
     @InjectModel(Lobby.name) private lobbyModel: Model<Lobby>,
-    @InjectModel(User.name) private userModel: Model<User>
+    @InjectModel(User.name) private userModel: Model<User>,
+    @InjectModel(Quiz.name) private quizModel: Model<Quiz>
   ) {}
 
   async create(createLobbyDto: CreateLobbyDto, ownerId: string) {
@@ -55,7 +57,11 @@ export class LobbiesService {
       throw new NotFoundException('Lobby introuvable');
     }
     const lobby = await this.findLobbyById(id);
-    return (await lobby.populate('owner')).populate('players');
+    const activeQuizz = await this.quizModel.findOne({ lobby: id });
+    return {
+      ...((await (await lobby.populate('owner')).populate('players')).toJSON()),
+      activeQuizz
+    };
   }
 
   async update(id: string, updateLobbyDto: UpdateLobbyDto) {

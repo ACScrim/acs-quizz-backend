@@ -13,10 +13,16 @@ export class User extends Document {
   avatar: string;
 
   @Prop()
-  accessToken: string;
+  discordAccessToken: string;
+
+  @Prop()
+  discordRefreshToken: string;
 
   @Prop()
   refreshToken: string;
+
+  @Prop()
+  accessToken: string;
 
   @Prop()
   expiresAt: Date;
@@ -31,6 +37,8 @@ UserSchema.set('toJSON', {
       discordId: ret.discordId,
       username: ret.username,
       avatar: ret.avatar,
+      refreshToken: ret.refreshToken,
+      accessToken: ret.accessToken
     };
   },
 });

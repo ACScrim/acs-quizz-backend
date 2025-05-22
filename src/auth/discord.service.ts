@@ -3,9 +3,9 @@ import axios from 'axios';
 
 @Injectable()
 export class DiscordService {
-  async getProfile(accessToken: string) {
+  async getProfile(discordAccessToken: string) {
     const response = await axios.get('https://discord.com/api/users/@me', {
-      headers: { Authorization: `Bearer ${accessToken}` },
+      headers: { Authorization: `Bearer ${discordAccessToken}` },
     });
     return response.data;
   }

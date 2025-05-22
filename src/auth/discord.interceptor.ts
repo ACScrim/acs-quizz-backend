@@ -19,7 +19,7 @@ export class DiscordRefreshInterceptor implements NestInterceptor {
   ): Promise<Observable<any>> {
     const request = context.switchToHttp().getRequest();
     const user = request.user as User;
-    if (user && user.refreshToken) {
+    if (user && user.discordRefreshToken) {
       // Vérifie si le token Discord est expiré (à adapter selon ton modèle)
       const isExpired = !user.expiresAt || new Date(user.expiresAt) < new Date();
       if (isExpired) {
@@ -28,7 +28,7 @@ export class DiscordRefreshInterceptor implements NestInterceptor {
         params.append('client_id', process.env.DISCORD_CLIENT_ID!);
         params.append('client_secret', process.env.DISCORD_CLIENT_SECRET!);
         params.append('grant_type', 'refresh_token');
-        params.append('refresh_token', user.refreshToken);
+        params.append('refresh_token', user.discordRefreshToken);
         params.append('redirect_uri', process.env.DISCORD_CALLBACK_URL!);
         params.append('scope', 'identify email');
 
@@ -44,7 +44,7 @@ export class DiscordRefreshInterceptor implements NestInterceptor {
           Date.now() + response.data.expires_in * 1000,
         );
         // Mets à jour l'utilisateur en base
-        await this.usersService.updateTokens(
+        await this.usersService.updateDiscordTokens(
           user.discordId,
           response.data.access_token,
           response.data.refresh_token,

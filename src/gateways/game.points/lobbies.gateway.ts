@@ -84,4 +84,18 @@ export class LobbiesGateway {
     client.to(payload.lobby).emit('lobby:quizz-generated', quizz);
     client.emit('lobby:quizz-generated', quizz);
   }
+
+  @SubscribeMessage('lobby:start:quizz')
+  async handleMessageStartQuizz(client: Socket, payload: { lobbyId: string }) {
+    const user = (client as any).user;
+    const quizz = await this.quizzesService.getQuizzForLobby(payload.lobbyId);
+    if (!quizz) {
+      client.emit('error', { message: 'No quiz found for this lobby' });
+      return;
+    }
+    quizz.questionIndex = 1;
+    quizz.save();
+    client.to(payload.lobbyId).emit('lobby:quizz-started', quizz);
+    client.emit('lobby:quizz-started', quizz);
+  }
 }
