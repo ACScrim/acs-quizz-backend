@@ -57,7 +57,7 @@ export class LobbiesService {
       throw new NotFoundException('Lobby introuvable');
     }
     const lobby = await this.findLobbyById(id);
-    const activeQuizz = await this.quizModel.findOne({ lobby: id });
+    const activeQuizz = await this.quizModel.findOne({ lobby: id }).populate({ path: "questions", select: "-answer" });
     return {
       ...((await (await lobby.populate('owner')).populate('players')).toJSON()),
       activeQuizz

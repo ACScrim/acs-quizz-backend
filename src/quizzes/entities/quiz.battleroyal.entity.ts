@@ -6,7 +6,7 @@ export class QuizBattleRoyal extends Quiz {
     @Prop()
     maxLives: number;
 
-    @Prop({ type: Map, of: Number })
+    @Prop({ type: Object, of: Number })
     playerLives: Record<string, number>; // playerId -> lives
 }
 

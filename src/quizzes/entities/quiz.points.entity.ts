@@ -6,7 +6,7 @@ export class QuizPoints extends Quiz {
     @Prop()
     pointsToReach: number;
 
-    @Prop({ type: Map, of: Number })
+    @Prop({ type: Object, of: Number })
     playerPoints: Record<string, number>; // playerId -> points
 }
 
