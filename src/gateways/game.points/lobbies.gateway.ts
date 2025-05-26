@@ -26,6 +26,8 @@ export class LobbiesGateway {
     private readonly quizzesService: QuizzesService,
   ) {}
 
+  quizzes = new Map<string, { timeLeft: number; }>();
+
   @SubscribeMessage('lobby:create')
   async handleCreateLobby(client: Socket, payload: CreateLobbyDto) {
     try {
@@ -48,18 +50,21 @@ export class LobbiesGateway {
   }
 
   @SubscribeMessage('lobby:join')
-  handleMessageJoin(client: Socket, lobbyId: string) {
-    if (client.rooms.size > 0) return; // Si le client est déjà dans une salle, on ne le laisse pas rejoindre une autre
+  async handleMessageJoin(client: Socket, lobbyId: string) {
+    // if (client.rooms.size > 0) return; // Si le client est déjà dans une salle, on ne le laisse pas rejoindre une autre
     client.join(lobbyId);
     client.to(lobbyId).emit('lobby:user-join', (client as any).user);
-    client.emit('lobby:joined', lobbyId);
+    client.emit('lobby:joined', {
+      quizz: await (await this.quizzesService.getQuizzForLobby(lobbyId))?.populate({ path: 'questions', select: '-answer' }),
+      timeLeft: this.quizzes.get(lobbyId)?.timeLeft ?? 0,
+      lobbyId: lobbyId,
+    });
   }
 
   @SubscribeMessage('lobby:leave')
   async handleMessageLeave(client: Socket, lobbyId: string) {
     console.log('Leaving lobby:', lobbyId, client.rooms);
     // if (client.rooms.has(lobbyId)) {
-    client.leave(lobbyId);
     const user = (client as any).user;
     await this.lobbiesService.leave(user.sub, lobbyId);
     client.to(lobbyId).emit('lobby:user-leave', user);
@@ -104,6 +109,21 @@ export class LobbiesGateway {
     client.to(payload.lobbyId).emit('lobby:quizz-started', quizz);
     client.emit('lobby:quizz-started', quizz);
     this.startQuestionTimer(client, payload.lobbyId);
+  }
+
+  @SubscribeMessage('lobby:stop:quizz')
+  async handleMessageStopQuizz(client: Socket, lobbyId: string) {
+    const user = (client as any).user;
+    const quizz = await this.quizzesService.getQuizzForLobby(lobbyId);
+    if (!quizz) {
+      client.emit('error', { message: 'No quiz found for this lobby' });
+      return;
+    }
+    this.quizzes.delete(lobbyId);
+    quizz.status = 'finished';
+    quizz.save();
+    client.to(lobbyId).emit('lobby:quizz-stopped', quizz);
+    client.emit('lobby:quizz-stopped', quizz);
   }
 
   @SubscribeMessage('lobby:quizz:submit-answer')
@@ -216,6 +236,7 @@ export class LobbiesGateway {
         client.emit('lobby:quizz:answering-time-up');
         client.to(lobbyId).emit('lobby:quizz:answering-time-up');
       }
+      this.quizzes.set(lobbyId, { timeLeft: secondsLeft });
       // Emit the time left to the client
       client.emit('lobby:quizz:answering-time-left', secondsLeft);
       client.to(lobbyId).emit('lobby:quizz:answering-time-left', secondsLeft);

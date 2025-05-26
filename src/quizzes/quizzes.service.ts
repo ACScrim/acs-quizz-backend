@@ -50,7 +50,12 @@ export class QuizzesService {
   }
 
   async getQuizzForLobby(lobbyId: string) {
-    return await this.quizModel.findOne({ lobby: lobbyId }).exec();
+    return await this.quizModel
+      .findOne({
+        lobby: lobbyId,
+        $or: [{ status: 'not_started' }, { status: 'in_progress' }],
+      })
+      .exec();
   }
 
   private async createQuestionsArray(numberOfQuestions: number) {
