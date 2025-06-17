@@ -21,6 +21,9 @@ export class Question extends mongoose.Document {
 
   @Prop()
   difficulty: string;
+
+  @Prop({ type: [{ type: mongoose.Schema.Types.ObjectId, ref: 'SessionQuestion' }] })
+  sessionQuestions: mongoose.Schema.Types.ObjectId[];
 }
 
 export const QuestionSchema = SchemaFactory.createForClass(Question);
