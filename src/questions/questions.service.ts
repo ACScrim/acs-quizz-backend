@@ -61,6 +61,7 @@ export class QuestionsService {
                   // Ajoute dynamiquement les valeurs globales
                   Object.assign(questionObj, globals);
                   questionObj.type = 'multiple';
+                  questionObj.difficulty = path.split('.').pop() || 'default';
                   questions.push(questionObj);
                 });
               }
@@ -81,7 +82,6 @@ export class QuestionsService {
                 questionObj[field] = getByPath(q, fieldPath as string);
               }
               Object.assign(questionObj, globals);
-              questionObj.type = 'multiple';
               questions.push(questionObj);
             });
           } else {
@@ -103,11 +103,13 @@ export class QuestionsService {
     }
 
     for (const question of questions) {
+      const category = question.category.category || question.category as unknown as string;
+      const type = question.type.type || question.type as unknown as string;
       // Vérifie si la catégorie existe déjà
-      question.category = await this.findAndCreateCategory(question.category.category);
+      question.category = await this.findAndCreateCategory(category);
 
       // Vérifie si le type de question existe déjà
-      question.type = await this.findAndCreateType(question.type.type);
+      question.type = await this.findAndCreateType(type);
 
       // Créez la question dans la base de données
 
